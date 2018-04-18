@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/source/posts/coc/</loc>
+<loc>http://localhost:4000/posts/coc/</loc>
 <lastmod>2018-04-17T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/source/posts/transcript/</loc>
+<loc>http://localhost:4000/posts/transcript/</loc>
 <lastmod>2018-04-18T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/source/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
