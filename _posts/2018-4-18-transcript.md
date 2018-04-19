@@ -175,7 +175,7 @@ And my cat drawing just got a unique dat hash. If I share this hash with you, yo
 
 ![cat hash]({{ site.base-url }}/static/images/EAW/EAW_11.png)
 
-This is peer to peer sharing, and the interesting part is when I stop the Beaker browser, the cat drawing is no longer accessible to you through my hosting. Once I've shared the URL with friends however, they can rebroadcast the files, allowing other people to seed them and them make accesible once I've stopped using the Beaker Browser. This allows for ways of getting around having to host the file on your browser or your computer, youc an let other people host the file on their node as well or use hosting services like [Hashbase](https://hashbase.io/.) This means that you can either make your cat available for other people and hold them responsible for it when you don’t want to be, like cat sitting.
+This is peer to peer sharing, and the interesting part is when I stop the Beaker browser, the cat drawing is no longer accessible to you through my hosting. Once I've shared the URL with friends however, they can rebroadcast the files, allowing other people to seed them and them make accesible once I've stopped using the Beaker Browser. This allows for ways of getting around having to host the file on your browser or your computer, you can let other people host the file on their node as well or use hosting services like [Hashbase](https://hashbase.io/.) This means that you can either make your cat available for other people and hold them responsible for it when you don’t want to be, like cat sitting.
 
 
 ![cat revisions]({{ site.base-url }}/static/images/EAW/EAW_12.png)
