@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-04-19T16:23:41-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Rhizome Transcript</title><link href="http://localhost:4000/posts/transcript/" rel="alternate" type="text/html" title="Rhizome Transcript" /><published>2018-04-18T00:00:00-04:00</published><updated>2018-04-18T00:00:00-04:00</updated><id>http://localhost:4000/posts/transcript</id><content type="html" xml:base="http://localhost:4000/posts/transcript/">&lt;p&gt;The first public event of Distributed Web of Care was presented as a part of Rhizome’s &lt;a href=&quot;https://eaw.rhizome.org/&quot;&gt;Ethics &amp;amp; Archiving the Web&lt;/a&gt; conference at the New Museum, NYC, March 24, 2018. The workshop offered resources for getting started with the Distributed Web, and invited computer scientists and domain experts to host an open conversation on counter-narratives to the mainstream internet.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-04-19T16:44:24-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Rhizome Transcript</title><link href="http://localhost:4000/posts/transcript/" rel="alternate" type="text/html" title="Rhizome Transcript" /><published>2018-04-18T00:00:00-04:00</published><updated>2018-04-18T00:00:00-04:00</updated><id>http://localhost:4000/posts/transcript</id><content type="html" xml:base="http://localhost:4000/posts/transcript/">&lt;p&gt;The first public event of Distributed Web of Care was presented as a part of Rhizome’s &lt;a href=&quot;https://eaw.rhizome.org/&quot;&gt;Ethics &amp;amp; Archiving the Web&lt;/a&gt; conference at the New Museum, NYC, March 24, 2018. The workshop offered resources for getting started with the Distributed Web, and invited computer scientists and domain experts to host an open conversation on counter-narratives to the mainstream internet.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/static/images/EAW/EAW_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -265,7 +265,62 @@
 
 &lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
 
-&lt;p&gt;Joe Hand and Danielle Robinson of the DAT project,&lt;/p&gt;</content><author><name></name></author><summary type="html">The first public event of Distributed Web of Care was presented as a part of Rhizome’s Ethics &amp;amp; Archiving the Web conference at the New Museum, NYC, March 24, 2018. The workshop offered resources for getting started with the Distributed Web, and invited computer scientists and domain experts to host an open conversation on counter-narratives to the mainstream internet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/images/og.jpg" /></entry><entry><title type="html">Code of Conduct</title><link href="http://localhost:4000/posts/coc/" rel="alternate" type="text/html" title="Code of Conduct" /><published>2018-04-17T00:00:00-04:00</published><updated>2018-04-17T00:00:00-04:00</updated><id>http://localhost:4000/posts/coc</id><content type="html" xml:base="http://localhost:4000/posts/coc/">&lt;p&gt;&lt;img src=&quot;/static/images/EAW/EAW_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Joe Hand and Danielle Robinson of the DAT project,&lt;/p&gt;</content><author><name></name></author><summary type="html">The first public event of Distributed Web of Care was presented as a part of Rhizome’s Ethics &amp;amp; Archiving the Web conference at the New Museum, NYC, March 24, 2018. The workshop offered resources for getting started with the Distributed Web, and invited computer scientists and domain experts to host an open conversation on counter-narratives to the mainstream internet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/images/og.jpg" /></entry><entry><title type="html">Call for Fellows</title><link href="http://localhost:4000/posts/callforfellows/" rel="alternate" type="text/html" title="Call for Fellows" /><published>2018-04-18T00:00:00-04:00</published><updated>2018-04-18T00:00:00-04:00</updated><id>http://localhost:4000/posts/callforfellows</id><content type="html" xml:base="http://localhost:4000/posts/callforfellows/">&lt;h2 id=&quot;call-for-fellows&quot;&gt;Call for Fellows&lt;/h2&gt;
+
+&lt;h2 id=&quot;design--storytelling-fellow&quot;&gt;Design &amp;amp; Storytelling Fellow&lt;/h2&gt;
+
+&lt;p&gt;The fellow will work with Taeyoon Choi alongside the Technology Fellow in designing and creating visual content for the ongoing Distributed Network of Care series, most importantly a project-specific website to be built by a static site generator and published on a distributed network. They should be experienced with web design (HTML, CSS, JS), typography, and collaboration with developers. They should have a particular interest in storytelling through digital and nonlinear forms, and an excitement for documenting workshops and future events with relevant artwork. They will create and publish openly DWC related content with a &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0.en.html&quot;&gt;GPL&lt;/a&gt; license with attributions to collaborators.&lt;/p&gt;
+
+&lt;p&gt;The fellow will also work with Taeyoon to assist in the planning of Uncomputable, taking place June 21-27th as well as the Distributed Web of Care Party to be hosted in July 29th. They should be present for both events and offer support with administration, facilitation and documentation. The application deadline is April 25th, with notification sent out by May 1st.&lt;/p&gt;
+
+&lt;p&gt;Schedule&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;May 21-28: Onsite training and onboarding sessions. Part-time and flexible.&lt;/li&gt;
+  &lt;li&gt;June 15-July 31: Onsite work in Manhattan or Brooklyn. 4 days/week, 6 hours/day.&lt;/li&gt;
+  &lt;li&gt;Honorarium of $2000 for fellowship between June 15 and July 31, 2018. Fellows will be paid every two weeks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrbBTpEl8qgIWzkG&quot;&gt;Apply to become a Design &amp;amp; Storytelling Fellow, Summer 2018.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technology--documentation-fellow&quot;&gt;Technology &amp;amp; Documentation Fellow&lt;/h2&gt;
+
+&lt;p&gt;he fellow will work with Taeyoon Choi alongside the Design Fellow to build and maintain custom static sites and distribute content via Dat and IPFS. They should have interest and experience in web  development (HTML, CSS, JavaScript, PHP), Distributed Networks and be able to teach technical tasks including data management, web security and web literacy. The fellow will provide technical assistance across DWC projects as well as support with website and database maintenance.  They will create and publish openly DWC related content with a &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0.en.html&quot;&gt;GPL&lt;/a&gt; license with attributions to collaborators.&lt;/p&gt;
+
+&lt;p&gt;The fellow will also work with Taeyoon to assist in the planning of Uncomputable, taking place June 21-27th as well as the Distributed Web of Care Party to be hosted in July 29th. They should be be present for both events and offer support with administration, facilitation and documentation. The application deadline is April 25th, with notification sent out by May 1st.&lt;/p&gt;
+
+&lt;p&gt;Schedule&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;May 21-28: Onsite training and onboarding sessions. Part-time and flexible.&lt;/li&gt;
+  &lt;li&gt;June 15-July 31: Onsite work in Manhattan or Brooklyn. 4 days/week, 6 hours/day.&lt;/li&gt;
+  &lt;li&gt;Honorarium of $2000 for fellowship between June 15 and July 31, 2018. Fellows will be paid every two weeks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrbBTpEl8qgIWzkG&quot;&gt;Apply to become a Technology &amp;amp; Documentation Fellow, Summer 2018&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Call for Fellows</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/images/og.jpg" /></entry><entry><title type="html">About</title><link href="http://localhost:4000/posts/about/" rel="alternate" type="text/html" title="About" /><published>2018-04-18T00:00:00-04:00</published><updated>2018-04-18T00:00:00-04:00</updated><id>http://localhost:4000/posts/about</id><content type="html" xml:base="http://localhost:4000/posts/about/">&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;DWC is an initiative of &lt;a href=&quot;http://taeyoonchoi.com/&quot;&gt;Taeyoon Workshop&lt;/a&gt;. Taeyoon Choi is an artist and cofounder of &lt;a href=&quot;http://sfpc.io/&quot;&gt;School for Poetic Computation&lt;/a&gt; and a fellow at &lt;a href=&quot;http://taeyoonchoi.com/soft-care/distributed-web-of-care/&quot;&gt;Data and Society&lt;/a&gt;. Currently there is an open call for &lt;strong&gt;Fellows&lt;/strong&gt; to develop the tools and events, with &lt;strong&gt;Stewards&lt;/strong&gt; who activate and expand them.&lt;/p&gt;
+
+&lt;p&gt;As Taeyoon Choi writes in &lt;a href=&quot;https://thenewinquiry.com/artificial-advancements/&quot;&gt;“Artificial Advancement”&lt;/a&gt; for &lt;em&gt;The New Inquiry&lt;/em&gt;, “Care, in contrast to cure, is a form of stewardship between people who support each other in communication, action, and social engagement. It is actualized by extending one’s mindfulness of another person’s dignity and feelings, while respecting their independence.”&lt;/p&gt;
+
+&lt;p&gt;The first DWC event took place in March as a part of Rhizome’s &lt;a href=&quot;https://eaw.rhizome.org/&quot;&gt;Ethics &amp;amp; Archiving the Web&lt;/a&gt; conference at the New Museum, NYC. The workshop offered resources for getting started with the Distributed Web, and invited computer scientists and domain experts to host an open conversation on counter-narratives to the mainstream internet. A transcript of this workshop is published on this site. Read Sarah Gray, a participant’s reflection.&lt;/p&gt;
+
+&lt;h2 id=&quot;faq&quot;&gt;F.A.Q.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What are some examples of Distributed Web?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beakerbrowser&lt;/a&gt;: P2P browser with tools to create and host websites, &lt;a href=&quot;https://www.scuttlebutt.nz/&quot;&gt;Scuttlebutt&lt;/a&gt;: a decent(ralised) secure gossip platform, &lt;a href=&quot;https://wiki.xxiivv.com/#rotonde&quot;&gt;Rotonde&lt;/a&gt;: P2P Social Network, &lt;a href=&quot;https://datproject.org/&quot;&gt;Dat&lt;/a&gt;: Distributed Data Community.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Why are you making a Distributed Web?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; &lt;a href=&quot;https://datasociety.net/research/media-manipulation/&quot;&gt;Media Manipulation&lt;/a&gt; and because we are not the &lt;a href=&quot;https://www.nytimes.com/2018/04/08/us/facebook-users-data-harvested-cambridge-analytica.html&quot;&gt;product&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;April 11: Open call for fellows &lt;strong&gt;deadline April 25, 2018.&lt;/strong&gt; Open call for stewards on a rolling basis.&lt;/li&gt;
+  &lt;li&gt;July 1-29: Skillshares and public events in NYC.&lt;/li&gt;
+  &lt;li&gt;July 29: Distributed Web of Care Party in NYC. More information about ticketing to be announced in May.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/images/og.jpg" /></entry><entry><title type="html">Code of Conduct</title><link href="http://localhost:4000/posts/coc/" rel="alternate" type="text/html" title="Code of Conduct" /><published>2018-04-17T00:00:00-04:00</published><updated>2018-04-17T00:00:00-04:00</updated><id>http://localhost:4000/posts/coc</id><content type="html" xml:base="http://localhost:4000/posts/coc/">&lt;p&gt;&lt;img src=&quot;/static/images/EAW/EAW_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/static/images/EAW/EAW_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;open-sourceculturetech-citizenship&quot;&gt;Open [Source/Culture/Tech] Citizenship&lt;/h2&gt;

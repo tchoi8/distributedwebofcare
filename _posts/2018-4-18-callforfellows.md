@@ -5,8 +5,7 @@ title: "Call for Fellows"
 # image: ...
 ---
 
-![]({{ site.base-url }}/static/images/og.jpg)
-
+## Call for Fellows
 
 ## Design & Storytelling Fellow
 
