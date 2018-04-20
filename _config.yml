@@ -6,11 +6,11 @@ title: Distributed Web of Care
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "http://taeyoonchoi.com/soft-care/distributed-web-of-care/source"
+#url: "http://taeyoonchoi.com/soft-care/distributed-web-of-care/source"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/source"
+#baseurl: "/source"
 
  
 
@@ -19,9 +19,10 @@ baseurl: "/source"
 defaults:
   -
     scope:
-      path: ""
+      path: "static/images"
     values:
-      image: "static/images/og.jpg"
+      image: true
+ 
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional

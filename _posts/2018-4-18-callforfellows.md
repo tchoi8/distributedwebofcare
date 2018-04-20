@@ -1,11 +1,9 @@
 ---
-title: "Call for Fellows"
+title: "Call for Fellows and Stewards"
 
 # To set og:image:
 # image: ...
 ---
-
-## Call for Fellows
 
 ## Design & Storytelling Fellow
 
@@ -35,3 +33,19 @@ Schedule
 
 **[Apply to become a Technology & Documentation Fellow, Summer 2018](https://airtable.com/shrbBTpEl8qgIWzkG)**
 
+
+## Stewards
+
+Stewards are guest collaborators, contributing to DWC initiatives with their domain expertise. Stewards are often invited to present at DWC events and contribute to building the code base as well as code of conduct. In this volunteer role, stewards will lead their own projects utilizing access to technical resources and collaboration with the fellows and with Taeyoon directly.  
+
+In 2018, we’re looking for stewards with expertise in peer to peer web (IPFS, Dat and other formats), design and storytelling, alternative and distributed networks, Internet privacy, security, data and community activism. Stewards should demonstrate a willingness to share materials and insight as well as an investment in building community through teaching and learning. To apply, please send an email with a brief description of your expertise and what you are hoping to offer to the community.
+
+[Apply to become a steward](https://airtable.com/shrJKwgf305PUDKjm) 
+
+
+![]({{ site.base-url }}/static/images/care.jpg)
+
+
+## Support 
+
+Distributed Web of Care is an independent, self funded initiative. We are actively searching for supporters. If you’d like to make donation, or hire Taeyoon Choi and the collaborators to lead a workshop, please contact studio@taeyoonchoi.com

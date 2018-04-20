@@ -1,3 +1,4 @@
-![](http://taeyoonchoi.com/wp-content/uploads/2018/04/IMG_1220-1BW-3-1200x675.jpg)
+![group photo](static/images/og.jpg)
 
-**DWC** is an initiative to code to care and code carefully.
+
+Distributed Web of Care is an initiative to *code to care* and *code carefully*.

@@ -51,26 +51,19 @@
         <section class="pv2">
           <h1 class="mt0 mb1">{{page.title}}</h1>
           {% if page.date %}
-            <p class="silver mt0">
-              <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{page.date | date: site.date_format }}
-              </time>
-            </p>
+      
           {% endif %}
     
           {{content}}
           {% if page.date %}
-            <p class="silver">
-              <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{page.date | date: site.date_format }}
-              </time>
-            </p>
+        
           {% endif %}
         </section>
         <hr />
         <section class="pv2">
           {% assign home = site.pages | where:"url","/" %}
           {{ home[0].content | markdownify }}
+  
         </section>
       {% endif %}
       {% if site.posts.size > 0 %}
@@ -89,7 +82,6 @@
               </li>
               {% endif %}
               <li class="mt0 mb4 {% if forloop.index0 >= site.num_posts_visible_initially %}dn js-hidden{% endif %}">
-                <span class="silver db mb1">{{ post.date | date: site.date_format }}</span>
                 <h3 class="ma0">
                   <a class=" no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                 </h3>
