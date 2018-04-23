@@ -21,7 +21,7 @@ Schedule
 
 ## Technology & Documentation Fellow
 
-he fellow will work with Taeyoon Choi alongside the Design Fellow to build and maintain custom static sites and distribute content via Dat and IPFS. They should have interest and experience in web  development (HTML, CSS, JavaScript, PHP), Distributed Networks and be able to teach technical tasks including data management, web security and web literacy. The fellow will provide technical assistance across DWC projects as well as support with website and database maintenance.  They will create and publish openly DWC related content with a [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) license with attributions to collaborators.
+The fellow will work with Taeyoon Choi alongside the Design Fellow to build and maintain custom static sites and distribute content via Dat and IPFS. They should have interest and experience in web  development (HTML, CSS, JavaScript, PHP), Distributed Networks and be able to teach technical tasks including data management, web security and web literacy. The fellow will provide technical assistance across DWC projects as well as support with website and database maintenance.  They will create and publish openly DWC related content with a [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) license with attributions to collaborators.
 
 The fellow will also work with Taeyoon to assist in the planning of Uncomputable, taking place June 21-27th as well as the Distributed Web of Care Party to be hosted in July 29th. They should be be present for both events and offer support with administration, facilitation and documentation. The application deadline is April 25th, with notification sent out by May 1st.
 
@@ -48,4 +48,4 @@ In 2018, we’re looking for stewards with expertise in peer to peer web (IPFS, 
 
 ## Support 
 
-Distributed Web of Care is an independent, self funded initiative. We are actively searching for supporters. If you’d like to make donation, or hire Taeyoon Choi and the collaborators to lead a workshop, please contact studio@taeyoonchoi.com
+Distributed Web of Care is an independent, self funded initiative. We are actively searching for supporters. If you’d like to make donation, or hire Taeyoon Choi and the collaborators to lead a workshop, please contact studio@taeyoonchoi.com. 
