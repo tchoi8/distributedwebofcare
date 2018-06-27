@@ -15,7 +15,7 @@ There will be four skillshares held between July 1st and July 22nd, culminating 
 
 # 1 Ari Melenciano
  
-![]({{ site.base-url }}/static/images/air/skilleshares1.jpg)
+![]({{ site.base-url }}/static/images/air/skillshares1.jpg)
 
 **Date: 07.01.2018**
 
