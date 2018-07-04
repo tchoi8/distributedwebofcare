@@ -42,6 +42,8 @@ There will be four skillshares held between July 1st and July 22nd, culminating 
 
 ![]({{ site.base-url }}/static/images/air/workshops.png)
 
+The skillshare will also include the following short workshops presented by stewards of the DWC project:
+
 [**Lai Yi Ohlsen**](http://www.laiyiohlsen.com/)
 
 [**Juliana Castro**](http://julianacastro.co/)
