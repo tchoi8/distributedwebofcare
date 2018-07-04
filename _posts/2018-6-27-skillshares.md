@@ -40,8 +40,19 @@ There will be four skillshares held between July 1st and July 22nd, culminating 
 
 [Mindy Seu](http://mindyseu.com/) is a designer and educator. She is currently a student in Harvard’s Graduate School of Design, where her research focuses on digital archives UI and methods of digitization. Formerly, she was a designer at 2x4 and instructor for Interactive 2 at California College of the Arts.
 
+![]({{ site.base-url }}/static/images/air/workshops.png)
+
+[**Lai Yi Ohlsen**](http://www.laiyiohlsen.com/)
+
+[**Juliana Castro**](http://julianacastro.co/)
+
+Meme culture and fast-paced social networking have encouraged the use of copyrighted resources without proper attribution. This talk will highlight the benefits of open-access, show a selection of available public domain and Creative Commons archives, and address best practices and fair use uses of institutional repositories and other people's work. 
+
+[**Zach Coble**](http://zachcoble.com/)
+
+Participants will engage in a conversation about gathering and using data from the web for social good. The steward will briefly show recent projects and we will use these examples to create a dialog about the legal and ethical issues involved in such projects.
 
 
-
+***
 We are planning to offer skillshares in July in partnership with the Ace Hotel New York, [July 1](http://www.acehotel.com/calendar/newyork/distributed-web-of-care-skillshare-070118), [July 8](http://www.acehotel.com/calendar/newyork/distributed-web-of-care-skillshare-070818), [July 15](http://www.acehotel.com/calendar/newyork/distributed-web-of-care-skillshare-071518), and [July 22](http://www.acehotel.com/calendar/newyork/distributed-web-of-care-skillshare-072218). We will announce details about workshops and events via Taeyoon Choi's [mailing list](http://tinyletter.com/tchoi8). 
 
