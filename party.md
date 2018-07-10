@@ -8,7 +8,7 @@ title: "Distributed Web of Care Party "
 
  - July 29th, 3-7pm, 2018 
  - Liberty Hall at Ace Hotel New York, 20 W 29th St, New York, NY 10001
- - [RSVP](https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721)
+ - Free with [RSVP](https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721)
 
 The Distributed Web of Care Party will be held at the Liberty Hall at Ace Hotel New York on July 29th from 3-7pm. The party will be a collection of talks, presentations, interactions and music to illustrate the collective power of caring. The team of Fellows, Stewards and Artists in residence will all contribute toward sharing their knowledge and expertise in a series of talks concerning the distributed web. These talks will be both technical and abstract, but grounded in the project’s mission:
 
@@ -18,6 +18,6 @@ The Distributed Web of Care Party will be held at the Liberty Hall at the Ace Ho
 
 These talks will be followed by a collective act of making through a social emulation of the distributed web. We will experiment with dance, stories and art by exploring ways of mirroring distributed networks in a local space. This experimental act will culminate in a creative, poetic output.
 
-Following the activity, please join us for dancing, music and drinks as we celebrate each other with sounds from the multi-instrumental artist and DJ [stud1nt](http://stud1nt.nyc/).
+Following the activity, please join us for dancing, music and drinks as we celebrate each other with sounds from the multi-instrumental artist and DJ [stud1nt](http://stud1nt.nyc/) of Discwoman.
 
 The party will be governed by the DWC [code of conduct](https://dwc-tchoi8.hashbase.io/posts/coc/). It is open to the public and free with [RSVP](https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721).
