@@ -33,11 +33,6 @@ Read [Building a Museum 353 Years in the Future](https://medium.com/@AriMelencia
 
 **Date: 07.08.2018. 1~4pm**
 
-**Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
-
-**[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
-
-
 [Mindy Seu](http://mindyseu.com/) is a designer and educator. She is currently a student in Harvard’s Graduate School of Design, where her research focuses on digital archives UI and methods of digitization. Formerly, she was a designer at 2x4 and instructor for Interactive 2 at California College of the Arts.
 
 ![]({{ site.base-url }}/static/images/air/workshops.png)
@@ -57,26 +52,18 @@ Meme culture and fast-paced social networking have encouraged the use of copyrig
 Participants will engage in a conversation about gathering and using data from the web for social good. The steward will briefly show recent projects and we will use these examples to create a dialog about the legal and ethical issues involved in such projects.
 
 
-
-**[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
-
 # #3 Jessia Lynne and Shannon Finnegan 
 
 ![]({{ site.base-url }}/static/images/air/skillshares3.png)
 
 **Date: 07.15.2018. 1~4pm**
+
 **Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
 
 [Jessica Lynne](https://www.jessicalynne.co/) is a Brooklyn-based writer and arts administrator. She is also co-editor of ARTS.BLACK, a platform for art criticism from black perspectives, a Winter 2018 Columnist-in-Residence at Open Space and was the Manager of Development and Communication at Recess.
 
 
 [Shannon Finnegan](http://shannonfinnegan.com/) is an artist whose practice involves a mix of drawing, design and writing. Her current motto is "Reinventing my strangeness as an art form that only I am the perfect practitioner of." She's created Anti-Stairs Club Lounge, Disability History PSA, and other projects about disability culture and access.
-
-**[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
-
-# Coming up
-
-**All Events - Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
 
 **[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
 
@@ -88,6 +75,10 @@ Participants will engage in a conversation about gathering and using data from t
 
 Eliza Chandler, an Assistant Professor at the School of Disability Studies at Ryerson University, aims to bring together the arts, disability studies, and justice-based activism. She teaches courses on disability arts and culture, disability rights and justice, and community-based social activism; she is the co-director of the project Bodies in Translation: Activist Art, Technology, and Access to Life, a many-partnered grant supports the development of activist art (including Deaf & disability art, fat art, and Indigenous art) and interrogates its connection to the enactment of social justice. Chandler is a practicing curator, a board member of the Ontario Arts Council, and the co-founder of Creative Users Projects, a community arts/activist initiative that supports crip artists through artistic development and works to create a more accessible arts culture. Prior to these roles, she was the founding artistic director of Tangled Art Gallery, a gallery in Toronto that showcases disability arts and advances accessible curatorial practices. Chandler regularly give lectures, interviews, and consultations related to disability arts, inclusive curatorial practices, and disability politics in Canada.
 
+**[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
+
+**All Events - Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
+ 
 
 ***
 We are planning to offer skillshares and party in July in partnership with the Ace Hotel New York. We will announce details about workshops and events via Taeyoon Choi's [mailing list](http://tinyletter.com/tchoi8). Please join us for the [Distributed Web of Care Party](https://dwc-tchoi8.hashbase.io/posts/party/) on July 29th.
