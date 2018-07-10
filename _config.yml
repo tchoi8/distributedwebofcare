@@ -65,3 +65,5 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-readme-index
+
+include: [".well-known"]
