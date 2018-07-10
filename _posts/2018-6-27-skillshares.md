@@ -76,6 +76,10 @@ Participants will engage in a conversation about gathering and using data from t
 
 # Coming up
 
+**All Events - Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
+
+**[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
+
 # Stephanie Gray and Eliza Chandler 
 
 **Date: 07.22.2018. 1~4pm**
@@ -83,7 +87,6 @@ Participants will engage in a conversation about gathering and using data from t
 [Stephanie Gray](https://www.poetryfoundation.org/poets/stephanie-gray) is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, Shorthand and Electric Language Stars (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including Under the Surface (above/ground press, 2018) and A Country Road Going Back in Your Direction (Argos Books, 2015). Work also appears in the anthology How Lovely the Ruins (Spiegel & Grau/Random House, 2017).
 
 Eliza Chandler, an Assistant Professor at the School of Disability Studies at Ryerson University, aims to bring together the arts, disability studies, and justice-based activism. She teaches courses on disability arts and culture, disability rights and justice, and community-based social activism; she is the co-director of the project Bodies in Translation: Activist Art, Technology, and Access to Life, a many-partnered grant supports the development of activist art (including Deaf & disability art, fat art, and Indigenous art) and interrogates its connection to the enactment of social justice. Chandler is a practicing curator, a board member of the Ontario Arts Council, and the co-founder of Creative Users Projects, a community arts/activist initiative that supports crip artists through artistic development and works to create a more accessible arts culture. Prior to these roles, she was the founding artistic director of Tangled Art Gallery, a gallery in Toronto that showcases disability arts and advances accessible curatorial practices. Chandler regularly give lectures, interviews, and consultations related to disability arts, inclusive curatorial practices, and disability politics in Canada.
-
 
 
 ***
