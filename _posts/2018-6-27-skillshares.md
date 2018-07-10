@@ -54,14 +54,15 @@ Participants will engage in a conversation about gathering and using data from t
 
 # #3 Jessia Lynne and Shannon Finnegan 
 
-![]({{ site.base-url }}/static/images/air/skillshares3.png)
-
 **Date: 07.15.2018. 1~4pm**
 
 **Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
 
+![]({{ site.base-url }}/static/images/air/skillshare3_1.png)
+
 [Jessica Lynne](https://www.jessicalynne.co/) is a Brooklyn-based writer and arts administrator. She is also co-editor of ARTS.BLACK, a platform for art criticism from black perspectives, a Winter 2018 Columnist-in-Residence at Open Space and was the Manager of Development and Communication at Recess.
 
+![]({{ site.base-url }}/static/images/air/skillshare3_2.png)
 
 [Shannon Finnegan](http://shannonfinnegan.com/) is an artist whose practice involves a mix of drawing, design and writing. Her current motto is "Reinventing my strangeness as an art form that only I am the perfect practitioner of." She's created Anti-Stairs Club Lounge, Disability History PSA, and other projects about disability culture and access.
 
