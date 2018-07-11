@@ -20,4 +20,8 @@ These talks will be followed by a collective act of making through a social emul
 
 Following the activity, please join us for dancing, music and drinks as we celebrate each other with sounds from the multi-instrumental artist and DJ [stud1nt](http://stud1nt.nyc/) of Discwoman.
 
+![]({{ site.base-url }}/static/images/party/izzy.jpg)
+
+stud1nt is a multi-disciplinary sound artist from Queens. Their work sits at the intersection of improvisation and meticulous approaches to composition. A member of the collectives #KUNQ and Discwoman, their work is especially attentive to queerness, the body, sound, and space. stud1nt has given workshops on creative production at Vassar College, the New School, Recess Art, Pioneer Works, Moogfest, and Ableton Loop.
+
 The party will be governed by the DWC [code of conduct](https://dwc-tchoi8.hashbase.io/posts/coc/). It is open to the public and free with [RSVP](https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721).
