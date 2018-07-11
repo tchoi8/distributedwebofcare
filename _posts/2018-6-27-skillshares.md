@@ -20,7 +20,9 @@ There will be four skillshares held between July 1st and July 22nd, culminating 
 
 ![]({{ site.base-url }}/static/images/air/skillshare3_1.png)
 
-[Jessica Lynne](https://www.jessicalynne.co/) is a Brooklyn-based writer and arts administrator. She is also co-editor of ARTS.BLACK, a platform for art criticism from black perspectives, a Winter 2018 Columnist-in-Residence at Open Space and was the Manager of Development and Communication at Recess.
+[Jessica Lynne](https://www.jessicalynne.co/) is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. She received her B.A. in Africana Studies from NYU and has been awarded residencies and fellowships from Art21 and The Cue Foundation, Callaloo, and The Center for Book Arts. Her writing has appeared in publications such as Aperture, Art in America, The Brooklyn Rail, and Kinfolk. She was a Winter 2018 Columnist-in-Residence at [Open Space](https://openspace.sfmoma.org/), SFMoMA's interdisciplinary publishing platform, and is co-editor, alongside Sharon Louden, of the forthcoming book, The Innovators: Defining Change in the Art World, that will be published by Intellect Ltd. and The University of Chicago Press. 
+
+She is a board member of Black Art Futures Fund and The Organization of Women Writers of Africa.
 
 ![]({{ site.base-url }}/static/images/air/skillshare3_2.png)
 
