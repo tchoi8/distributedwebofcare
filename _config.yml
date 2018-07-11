@@ -42,7 +42,7 @@ google_analytics: ""
 lang: "en"
 
 # How many posts are visible on the home page without clicking "View More"
-num_posts_visible_initially: 10
+num_posts_visible_initially: 20
 
 # Date format: See http://strftime.net/
 date_format: "%b %-d, %Y"
@@ -65,3 +65,5 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-readme-index
+
+include: [".well-known"]
