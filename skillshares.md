@@ -27,8 +27,9 @@ Eliza Chandler, an Assistant Professor at the School of Disability Studies at Ry
 
 **[Free, RSVP](https://airtable.com/shrnr16Oq6oalF1S1)**
 
-**All Events - Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
+**Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001**
  
+**The space is accessible via service elevator. Please note your access needs in the RSVP form and ask the front desk for assistance. 7.22 skillshare will have a Communication Access Realtime Translation (CART) service** 
 
 # Past Events 
 
