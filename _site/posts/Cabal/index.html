@@ -1,0 +1,339 @@
+
+<!DOCTYPE html>
+<html
+  lang="en"
+  class="dark-gray">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Distributed Web of Care" />
+    <link rel="stylesheet" href="/static/app.css">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Cabal | Distributed Web of Care</title>
+<meta property="og:title" content="Cabal" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Cabal Joining a distributed (private) chat room!" />
+<meta property="og:description" content="Cabal Joining a distributed (private) chat room!" />
+<link rel="canonical" href="http://localhost:4000/posts/Cabal/" />
+<meta property="og:url" content="http://localhost:4000/posts/Cabal/" />
+<meta property="og:site_name" content="Distributed Web of Care" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-07-11T00:00:00-04:00" />
+<script type="application/ld+json">
+{"dateModified":"2018-07-11T00:00:00-04:00","datePublished":"2018-07-11T00:00:00-04:00","sameAs":null,"image":null,"headline":"Cabal","author":null,"description":"Cabal Joining a distributed (private) chat room!","url":"http://localhost:4000/posts/Cabal/","name":null,"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/Cabal/"},"publisher":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <main class="measure-wide center ph3 pt5 pb6">
+      
+      <h2 class="mt0 mb5">
+      
+        <a
+          href="/"
+          class="no-underline bg-100">
+          Distributed Web of Care
+        </a>
+      
+      </h2>
+      
+      
+        <section class="pv2">
+          <h1 class="mt0 mb1">Cabal</h1>
+          
+    
+          <h1 id="cabal">Cabal</h1>
+<h2 id="joining-a-distributed-private-chat-room">Joining a distributed (private) chat room!</h2>
+
+<p><img src="./images/cabal.png" alt="alt text" title="Logo Title Text 1" /></p>
+
+<ul>
+  <li>Callil, DWC fellow</li>
+</ul>
+
+<p>Start with a catch phrase, such as : “Have you ever felt like you need a more private chat room? Have you ever felt like the internet is listening to your conversation, and suggesting product adverstiements? We may have an alternative, private chat room. It requires a bit of set up, but it’s worth explorting!”</p>
+
+<p>One of the options available is <a href="https://github.com/cabal-club/cabal">Cabal</a>, which is a messaging client for the terminal that is like a lightweight, DIY, Punk slack! To get started chatting on the distributed web, you’ll need to use Dat. We are going to walk through setting up</p>
+
+<p>But first, what is Dat? And how does this work?</p>
+
+<p><a href="https://datproject.org/">Dat</a> is a peer to peer data sharing protocol that allows people to collectively distribute and access data. Cabal is an example of a open source, distributed app with no central servers and distributed model of ownership.</p>
+
+<p>In Cabal, a simple database file is initially created and shared to store chat messages. When a new user joins a cabal, they make a copy of this database file on their machine and become peers of this data through the Dat network. When a new message is shared to the network (the swarm) all the peers that are online will make a copy of that record in the database on their local machine. Each person in the Cabal helps keep the data online and shares the responsibility for hosting the chat.</p>
+
+<p>This is in stark contrast to many messaging services which require advertisements or paid plans to maintain the database of message and persistant availability. Recently, Slack’s AWS instances went down cutting off thousands of teams from access to their main communication tool. Slack’s free option also limits teams to 10,000 messages - this puts a messaging data behind paywall. A peer to peer chat app like Cabal alleviates both of these pain points by eliminating a single point of failure (as long as one peer is online, the chat is up) and puts the ownership &amp; responsibility of hosting in the hands of every participant in the community.</p>
+
+<p>In principle this would mean that the users are free from the burden of finding central hosting and retain ownership over their community’s data. It’s important to point out that there are a lot of complexities around privacy and owndership which Cabal doesn’t yet fully address. For instance, the current database model allows anyone to modify the chat history, and there is no way to kick or ban misbehaving users. For an extremely large chat, although unlikley right now, the data might grow very large over time taking up space on your machine or take some time to sync from the peer network. There are other valid concerns about the security risks of using distributed systems. For now, let’s consider the possibilities and risks objectively, and explore what’s possible.</p>
+
+<p>If each person owns the network, what changes about the financial model needed to maintain a network? For instance, do we really want advertisement driven social networks? What dynamics would change when the users own the data? Also how does a community enforce code of conducts and best behaviors without central control? Maybe we can think about how we might solve some of the social and intentity issues present in these spaces through building examples of healthy and creative distributed communities together.</p>
+
+<p>Let’s get started…</p>
+
+<p>[insert image of a computer person asking a question]</p>
+
+<p><em>Already have npm installed? Type this in your terminal to join our chatroom.</em></p>
+
+<p><code class="highlighter-rouge">npm install -g npx &amp;&amp; npx cabal --key dat://e0413ba557a81fa2d07f2969eb8e0e689ebf670a2c73d59637f9e192f1ae3704</code></p>
+
+<p>Otherwise…</p>
+
+<h2 id="install-node-version-manager-by-pasting-this-code-into-your-terminal">Install node version manager by pasting this code into your terminal</h2>
+
+<p>If you use macosx, you can open terminal from the finder, click the magnifying glass, and type finder. 
+A small box will pop open. This is your door to the inner workings of the computer.</p>
+
+<p>And copy and paste this code.</p>
+
+<p><code class="highlighter-rouge">curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash</code></p>
+
+<p>This will install node version manager on your machine, we have found that this is important to ensure that npm works with the least amount of problems on your machine.</p>
+
+<p>Follow the instructions when the script completes and restart your terminal session.</p>
+
+<h2 id="install-node-on-your-machine">Install node on your machine</h2>
+
+<ul>
+  <li>
+    <p>What is node?</p>
+  </li>
+  <li>
+    <p>We need node because</p>
+  </li>
+</ul>
+
+<p>Run this script to install node.</p>
+
+<p><code class="highlighter-rouge">nvm install node</code></p>
+
+<p>You should see something like this in your terminal</p>
+
+<p><code class="highlighter-rouge">
+Downloading and installing node v10.6.0...
+Downloading https://nodejs.org/dist/v10.6.0/node-v10.6.0-darwin-x64.tar.xz...
+######################################################################## 100.0%
+Computing checksum with shasum -a 256
+Checksums matched!
+Now using node v10.6.0 (npm v6.1.0)
+</code></p>
+
+<p>Now you can test whether you have npm installed correctly by typing <code class="highlighter-rouge">npm -v</code> and you should see something like <code class="highlighter-rouge">6.1.0</code> returned in your console.</p>
+
+<h2 id="make-a-directory">Make a directory</h2>
+
+<p><em>Already know how to do this? Make a directory and cd into it to install cabal then <a href="#4">go to the install instructions</a></em></p>
+
+<p>We now need to decide on a place to store our cabal chat app. You might choose to make a folder called <code class="highlighter-rouge">p2p</code> or <code class="highlighter-rouge">dat</code> inside of which we will put cabal. To do this, you’ll need to understand a bit about navigating your computer’s file structure through the terminal. We can use <code class="highlighter-rouge">cd</code> (change directory) and <code class="highlighter-rouge">mkdir</code> (make directory) to do this.</p>
+
+<p>[ illustration of a person going into a folder with cd ]</p>
+
+<p>A new terminal session will usually start at <code class="highlighter-rouge">~</code> which is the root directory of your computer. This is the most zoomed out you can be in this part of your computer. Inside of this directory (folder) there are other folders like your Desktop, Documents or any other folders you’d placed there. If you’d like to get a sense of what’s in <code class="highlighter-rouge">~</code>, type <code class="highlighter-rouge">ls</code> (which means list) into your terminal and hit enter. You should see a list of directories. This list shows you what you can <code class="highlighter-rouge">cd</code> into.</p>
+
+<p>Type <code class="highlighter-rouge">cd Documents</code> to change directories into your Documents folder. Inside of the Documents folder, we can now make a new directory called Dat by typing:</p>
+
+<p><code class="highlighter-rouge">mkdir Dat &amp;&amp; cd Dat</code></p>
+
+<p>This line says <em>“make a new directory called Dat and change directory to this new directory”</em>.</p>
+
+<h2 id="install-cabal-">Install Cabal <a name="4"></a></h2>
+
+<p>We are going to clone the cabal files from github into our new Dat folder - this is like downloading an app, but instead we get a collection of files. To grab the latest from github run:</p>
+
+<p><code class="highlighter-rouge">git clone https://github.com/cabal-club/cabal.git &amp;&amp; cd cabal</code></p>
+
+<p>This will install cabal and then open the folder. Next we need to install the dependencies to run the project.</p>
+
+<p><code class="highlighter-rouge">npm install</code></p>
+
+<p>[insert gif of install screen ]</p>
+
+<p>This might take a bit, wait for the progress bar to complete. When it’s done, you’re ready to start chatting with us!</p>
+
+<p><code class="highlighter-rouge">node cli.js --key dat://e0413ba557a81fa2d07f2969eb8e0e689ebf670a2c73d59637f9e192f1ae3704</code></p>
+
+<p>You’ll join the chat with the name <code class="highlighter-rouge">conspirator</code>. You can see how to change this by typing <code class="highlighter-rouge">/help</code>.</p>
+
+<p>For instance to change your name, type <code class="highlighter-rouge">/nick your_new_name</code>. Send us a message in the default channel to say hi!</p>
+
+<ul>
+  <li>
+    <p>write more about How to use chat in Cabal.</p>
+  </li>
+  <li>
+    <p>There’s a way to make new channels. You type /j newchannel and…</p>
+  </li>
+</ul>
+
+<p>-also, you can jump between the channels by control</p>
+
+<p>[final graphic of a group of people chatting on distributed web]</p>
+
+<p>final questions</p>
+
+<p>Here are some more questions for us to consider.</p>
+
+<p>How to have a private conversation? you’d need to make your own chat group with cabal. - how to do it?</p>
+
+<p>What are the features you wish to see in the program?</p>
+
+<ul>
+  <li>prevent users changing their names to be like someone else, privacy, integrity of information isses</li>
+  <li>easier install and access</li>
+  <li>phone apps, or SMS based text</li>
+</ul>
+
+
+          
+        </section>
+        <hr />
+        <section class="pv2">
+          
+          <p><img src="/static/images/og.jpg" alt="group photo" /></p>
+
+<p>Distributed Web of Care is an initiative to <em>code to care</em> and <em>code carefully</em>.</p>
+
+<p><a href="http://distributedweb.care/party"><strong>Distributed Web of Care Party</strong></a> 
+July 29, 2018 at the Liberty Hall, Ace Hotel New York</p>
+
+<p>Distributed on <a href="dat://distributedweb.care/">Dat</a> and <a href="https://github.com/tchoi8/distributedwebofcare">GitHub</a></p>
+
+  
+        </section>
+      
+      
+        <hr />
+        <section class="pv2">
+          <ul class="list pl0">
+          
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Jul 11, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/Cabal/">Cabal</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Jun 27, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/skillshares/">Skillshares: Peers in Practice</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Jun 27, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/party/">Distributed Web of Care Party </a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Jun 27, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/cleo/">Communities and new infrastructures</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Jun 27, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/callil/">New Gardens</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">May 20, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/summer-2018-fellows/">Announcing Summer 2018 Fellows</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Apr 28, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/products/">Care shirt and hoodie</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Apr 27, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/air/">Artists in Residence at Ace Hotel New York</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Apr 18, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/eaw/">Ethics and Archiving the Web </a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Apr 18, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/callforfellows/">Call for Fellows and Stewards</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Apr 17, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/coc/">Code of Conduct</a>
+                </h3>
+              </li>
+            
+              <li class="mt0 mb4">
+                <span class="silver db mb1">Mar 18, 2018</span>
+                <h3 class="ma0">
+                  <a class=" no-underline" href="/posts/about/">About</a>
+                </h3>
+              </li>
+            
+            <li class="pt4 mt0 mb4">
+              <h2 class="ma0">
+                <a
+                href="/"
+                class="no-underline bg-100">
+                  Distributed Web of Care
+                </a>
+              </h2>
+            </li>
+          
+          </ul>
+        </section>
+      
+    </main>
+    <script>
+      var moreLink = document.querySelector('.js-more')
+      if (moreLink) {
+        document.querySelector('.js-more').addEventListener('click', function (e) {
+          e.preventDefault()
+          e.target.classList.add('dn')
+          e.target.classList.remove('dib')
+          document.querySelectorAll('.js-hidden').forEach(function (elt) {
+            elt.classList.remove('dn')
+          })
+        })
+      }
+    </script>
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+  </body>
+</html>
