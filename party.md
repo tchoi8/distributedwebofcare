@@ -4,7 +4,7 @@ title: "Distributed Web of Care Party "
 # To set og:image:
 # image: ...
 ---
- ![]({{ site.base-url }}/static/images/air/party.png)
+ ![]({{ site.base-url }}/static/images/party/party.png)
 
  - July 29th, 3-7pm, 2018 
  - Liberty Hall at Ace Hotel New York, 20 W 29th St, New York, NY 10001
