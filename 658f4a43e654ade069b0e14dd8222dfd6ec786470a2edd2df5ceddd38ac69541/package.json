@@ -1,0 +1,48 @@
+{
+  "name": "dat-zine-library",
+  "version": "0.420.69",
+  "description": "Hold and Share all your good Dat Zines!",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "build": "browserify index.js -t babelify -p tinyify > bundle.js",
+    "watch": "watchify index.js -t babelify -p tinyify -o bundle.js",
+    "dev": "budo index.js:bundle.js --live --open -- -t babelify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zachmandeville/dat-zine-library.git"
+  },
+  "keywords": [
+    "music",
+    "punk2punk",
+    "solarpunk",
+    "theChorus"
+  ],
+  "author": "Zach Mandeville",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/zachmandeville/dat-zine-library/issues"
+  },
+  "homepage": "https://gitlab.com/zachmandeville/dat-zine-library#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "browserify": "^16.2.0",
+    "budo": "^11.2.2",
+    "choo": "^6.11.0-preview1",
+    "standard": "^11.0.1",
+    "tinyify": "^2.4.0"
+  },
+  "dependencies": {
+    "babelify": "^8.0.0",
+    "choo-devtools": "^2.5.0",
+    "choo-service-worker": "^2.4.0",
+    "document-ready": "^2.0.1",
+    "lodash": "^4.17.10",
+    "markdown-it": "^8.4.1",
+    "nanohtml": "^1.2.4",
+    "smarkt": "0.0.6",
+    "watchify": "^3.11.0"
+  }
+}

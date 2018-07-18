@@ -1,0 +1,115 @@
+/* Colors
+-------*/
+:root{
+  --background-color: lightcyan;
+  --text: midnightblue;
+
+  --title-bg: darkslateblue;
+  --title-text: khaki;
+  --details-bg: khaki; /* bg means 'background' now */
+
+  --add-button-bg: peachpuff;
+  --add-button-text: indigo;
+  --add-button-hover: lavender;
+
+  --branch-button-bg: peachpuff;
+  --branch-button-text: indigo;
+  --branch-button-hover: lavender;
+  
+  --new-zine-form-bg: peachpuff;
+  --new-zine-form-text: indigo;
+  --new-zine-form-border: gray;
+  --new-zine-form-shadow: rgba(93, 87, 87, 0.53);
+  --new-zine-form-submit-bg: white;
+  --new-zine-form-submit-bg-hover: lavender;
+  --new-zine-form-submit-text: indigo;
+
+  --new-branch-form-bg: peachpuff;
+  --new-branch-form-text: indigo;
+  --new-branch-form-border: gray;
+  --new-branch-form-shadow: rgba(93, 87, 87, 0.53);
+  --new-branch-form-submit-bg: white;
+  --new-branch-form-submit-bg-hover: lavender;
+  --new-branch-form-submit-text: indigo;
+}
+
+/* Fonts
+------*/
+
+:root{
+  --primary-text: mononoki;
+  --accent-text: arial; /* being used for titles mostly */
+}
+
+/* Other Fonts Available:!
+--------------------
+
+These are Web Safe Fonts that seemed to work on the browser:
+
+  Serif: 
+   Times New Roman
+   Georgia
+   cochin
+
+  Sans Serif:
+    arial
+    arial black
+    comic sans ms
+    impact
+    trebuchet ms
+
+  Monospace:
+    courier new
+    monospace
+
+  Custom (added by me, Zach!):
+    mononoki  (my fave)
+
+-----------------------
+*/
+
+/* This is Code added to get custom fonts working.  
+   Add yr own here if you wanna use a custom font
+--------------------------------------------------*/
+
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-Italic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-BoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: italic;
+}

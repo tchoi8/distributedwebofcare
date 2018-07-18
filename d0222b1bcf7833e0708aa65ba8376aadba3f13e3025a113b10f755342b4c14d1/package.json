@@ -1,0 +1,48 @@
+{
+  "name": "readme-zine",
+  "version": "0.420.69",
+  "description": "A short story about AI and Tumblr and Love",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "build": "browserify index.js -t babelify -p tinyify > bundle.js",
+    "watch": "watchify index.js -t babelify -p tinyify -o bundle.js",
+    "dev": "budo index.js:bundle.js --live --open -- -t babelify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachmandeville/music-visions.git"
+  },
+  "keywords": [
+    "music",
+    "punk2punk",
+    "solarpunk",
+    "theChorus"
+  ],
+  "author": "Zach Mandeville",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://justbreathe.com"
+  },
+  "homepage": "https://githlab.com/zachmandeville/read-me#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "browserify": "^16.2.0",
+    "budo": "^11.2.2",
+    "choo": "^6.11.0-preview1",
+    "standard": "^11.0.1",
+    "tinyify": "^2.4.0"
+  },
+  "dependencies": {
+    "babelify": "^8.0.0",
+    "choo-devtools": "^2.5.0",
+    "choo-service-worker": "^2.4.0",
+    "document-ready": "^2.0.1",
+    "lodash": "^4.17.10",
+    "markdown-it": "^8.4.1",
+    "nanohtml": "^1.2.4",
+    "smarkt": "0.0.6",
+    "watchify": "^3.11.0"
+  }
+}

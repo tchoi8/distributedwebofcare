@@ -1,0 +1,98 @@
+/* Colors!
+--------*/
+:root{
+  --primary-bg: white;
+  --title: orange;
+  --cover-title-bg: transparent;
+
+  --text: black;
+  --text-bg: white;
+
+  --nav-bar: orange;
+  --nav-bar-inactive: dimgray;
+
+  --copy-button-bg: peachpuff;
+  --copy-button-bg-hover: lightcyan;
+  --copy-button-text: indigo;
+}
+
+/*Fonts and Font Sizes!
+---------------------*/
+:root{
+  --title-text: 'mononoki';
+  --primary-text: 'mononoki';
+
+  --primary-text-size: 20px; /* this is default size for all paragraphs, and also determines the unit 1em */
+  --title-size: 2em;  /* This means twice the base unit of your site.  
+                          so if --primary- text-size is 20 px, 2em is 40px.*/
+  --cover-stamp-title-size: 1.7em;
+}
+
+/* Fonts Available:!
+--------------------
+
+These are Web Safe Fonts that seemed to work on the browser:
+
+  Serif: 
+   Times New Roman
+   Georgia
+   cochin
+
+  Sans Serif:
+    arial
+    arial black
+    comic sans ms
+    impact
+    trebuchet ms
+
+  Monospace:
+    courier new
+    monospace
+
+  Custom (added by me, Zach!):
+    mononoki  (my fave)
+
+
+Here's where we leaving the custom fonts
+--------------------------------------*/
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-Italic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('../fonts/mononoki/mononoki-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mononoki/mononoki-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mononoki/mononoki-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mononoki/mononoki-BoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: italic;
+}

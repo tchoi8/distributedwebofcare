@@ -1,0 +1,6 @@
+node_modules/
+bundle.js
+*.swp
+*.datignore
+*.log
+**/.DS_Store

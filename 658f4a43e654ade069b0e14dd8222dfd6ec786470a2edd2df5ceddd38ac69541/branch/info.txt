@@ -1,0 +1,8 @@
+name: Zach's Zine Library!
+----
+description: The first dat zine library, but hopefully not the last!  
+
+Collecting zines I wrote, my friends wrote, and ones that I discovered through sharing on here.  
+
+
+**Send me your zine! [webmaster@coolguy.website](mailto:webmaster@coolguy.website) or through [Scuttlebutt](https://scuttlebutt.nz) (where I am Zach!)**
