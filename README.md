@@ -56,9 +56,13 @@ Try cloning
 
 - dat sync: You can connect to a remote dat, and live sync to it's changes.
 
-# Activity 
+- sudo: will get you a root level access make changes to your computer  
 
-- Exquisite corpse: write a story that's continued by your classmate 
+# Zine making activity 
+
+- Create a 1 page zine, about your project or what you learned in Code Societies. Limit to 1 MB or less. Need to include a README.md file. 
+- Markdown [cheat sheet](https://daringfireball.net/projects/markdown/syntax). 
+- Sublime [code & text editor](https://www.sublimetext.com/)
 - use nano to make a txt file of your story. 
 - create a dat archive and share. 
 - give your key to the neighbors on your left and right
