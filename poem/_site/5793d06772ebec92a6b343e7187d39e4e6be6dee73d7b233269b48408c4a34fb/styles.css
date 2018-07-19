@@ -1,0 +1,52 @@
+/*
+ * Want to change this website's styes? Learn more about CSS:
+ * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
+ */
+
+body {
+  padding: 25px;
+  margin: 0;
+  background: #000;
+  color: #fff;
+  font-size: 1.1em;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-moz-selection {
+  background: navy;
+}
+
+::selection {
+  background: navy;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:hover {
+  background: #fff;
+  color: #000;
+}
+
+#question {
+  display: inline-block;
+  background: #fff;
+  color: #000;
+  padding: 2px 7px 2px 6px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-top: 2em;
+}
+
+#answer {
+  margin-top: 1.5em;
+  font-style: italic;
+  display: none;
+}

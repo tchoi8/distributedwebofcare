@@ -1,0 +1,239 @@
+@font-face{
+  font-family: sinkin;
+  src: url('fonts/SinkinSans-100Thin.otf')
+}
+
+body, html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+  fill: var(--title);
+  width: 100%;
+  background: var(--primary-bg);
+  font-family: 'mononoki';
+  font-size: 20px;
+}
+  @media (max-width: 700px) {
+    body{
+      height: auto;
+      width: auto;
+    }
+  }
+
+#title {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  color: var(--title);
+  animation: fade-in 4s forwards;
+  animation-delay: 3s;
+  opacity: 0;
+}
+
+
+.wrapper{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+  @media (max-width: 800px){
+    .wrapper{
+      height: auto;
+      width: auto;
+    }
+  }
+
+.paper{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1.5px dashed #FFE4E1;
+  border-radius: 7px;
+  padding: 1rem;
+  color: var(--text);
+}
+.paper h1{
+  display: flex;
+  margin-top: 0;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.5em;
+  font-size: 1.3em;
+  width: 100%;
+  color: blue;
+}
+.paper h1 span{
+  margin: 0.25em;
+}
+  @media (max-width: 1080px){
+    .paper h1{
+      font-size: 1.2em;
+      flex-direction: column;
+      line-height: 1.5em;
+    }
+  }
+  @media (max-width: 667px)  {
+    .paper h1{
+      font-size: .7em;
+    }
+  }
+
+.cover {
+  min-height: 40%;
+  padding: 2em;
+  width: 50%;
+  color: var(--text);
+}
+.cover h1{
+  margin-top: 0em;
+  margin-left: 1em;
+  letter-spacing: 0.7em;
+  line-height: 1.4em;
+  font-size: 5.5vw !important;
+}
+
+.cover a{
+  margin-top: 2em;
+  margin-bottom: -1em;
+}
+
+  @media (max-width: 800px){
+    .cover{
+      position: absolute;
+      top: 35vh;
+      height: 25vh;
+      display: flex;
+      padding: 1em;
+      justify-content: space-around;
+      width: 50%;
+    }
+    .cover h1{
+      font-size: 8vw !important;
+    }
+  }
+
+#text {
+  width: 80%;
+  z-index: 1;
+  overflow-y: scroll;
+  line-height: 1.6em;
+  animation: fade-in 3s forwards;
+  animation-delay: 1.5s;
+  opacity: 0;
+}
+  @media (max-width: 667px) {
+    #text {
+      padding-top: 0.9em;
+      padding: 0;
+      padding-left: 0;
+      font-size: 0.9em;
+    }
+  }
+
+#text div{
+  padding-top: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+article p {
+  line-height: 1.2em;
+  padding: 0.5em;
+}
+
+#illustration {
+  width: 22%;
+  position: absolute;
+  top: 0;
+  z-index: 0;
+  animation: fade-in 4s forwards;
+  opacity: 0;
+}
+
+#track-buttons{
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  margin-bottom: 4em;
+  animation: fade-in 4s forwards;
+  animation-delay: 3s;
+  opacity: 0;
+}
+
+#track-buttons a, p{
+  margin: 0.5em;
+}
+
+/* The Sweet Animations */
+
+.fade-in{
+  animation: fade-in 3s forwards;
+}
+
+.fade-out{
+  animation: fade-out 2s;
+}
+
+@keyframes fade-in{
+  0% {opacity: 0;}
+  70% {opacity: 0.6;}
+  100% {opacity: 1;}
+}
+
+@keyframes fade-out{
+  0% {opacity: 1;}
+  70% {opacity: 0.6;}
+  100% {opacity: 0;}
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('/styles/fonts/mononoki/mononoki-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki/mononoki-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki/mononoki-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki/mononoki-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki/mononoki-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki/mononoki-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki/mononoki-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki/mononoki-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki/mononoki-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki/mononoki-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki/mononoki-Italic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki/mononoki-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki/mononoki-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki/mononoki-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki/mononoki-BoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: italic;
+}
+

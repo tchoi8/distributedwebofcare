@@ -1,0 +1,191 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: var(--primary-bg);
+  font-family: var(--primary-text);
+  font-size: var(--primary-text-size);
+  color: var(--text);
+}
+
+#cover {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#cover a{
+  position: relative;
+  display: block;
+  text-decoration: none;
+}
+
+#cover h1{
+  position: absolute;
+  background-color: var(--cover-title-bg);
+  color: var(--title);
+  font-family: var(--title-text);
+  font-size: var(--title-size);
+  text-align: center;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#cover img{
+  max-height: 50vh;
+}
+#colophon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  width: 60%;
+  margin: auto;
+  text-align: left;
+}
+
+#zine-info{
+  text-align: left;
+}
+#zine-info p{
+  margin-bottom: 0.75em;
+}
+#invite-to-copy {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  width: 100%;
+}
+
+#invite-to-copy button{
+  cursor: pointer;
+  font-size: 1em;
+  background-color: var(--copy-button-bg);
+  color: var(--copy-button-text);
+}
+
+#invite-to-copy button:hover{
+  background-color: var(--copy-button-bg-hover);
+}
+
+.paper{
+  background-color: var(--text-bg);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  color: var(--text);
+}
+
+#title {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  color: var(--title);
+  animation: fade-in 4s forwards;
+  animation-delay: 3s;
+  opacity: 0;
+}
+
+#cover-stamp {
+  margin-top: 1em;
+  width: 100%;
+  max-height: 22vh;
+  position: relative;
+  justify-content: center;
+  display: flex;
+  
+}
+
+#cover-stamp h1{
+  position: absolute;
+  text-align: center;
+  top: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--title);
+  font-family: var(--title-text);
+  font-size: var(--cover-stamp-title-size);
+}
+
+#cover-stamp img {
+  max-height: 22vh;
+  z-index: 0;
+  animation: fade-in 4s forwards;
+  opacity: 0;
+}
+
+#text {
+  width: 80%;
+  margin: auto;
+  margin-top: 3em;
+  min-height: 54vh;
+  animation: fade-in 3s forwards;
+  animation-delay: 1.5s;
+  opacity: 0;
+}
+  @media (max-width: 667px) {
+    #text {
+      padding-top: 0.9em;
+      padding: 0;
+      padding-left: 0;
+      font-size: 0.9em;
+    }
+  }
+
+#navigation-buttons{
+  width: 100%;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  animation: fade-in 4s forwards;
+  animation-delay: 3s;
+  opacity: 0;
+  fill: var(--nav-bar);
+}
+
+#navigation-buttons a,p{
+  padding: inherit;
+  margin: inherit;
+}
+
+.inactive {
+  fill: var(--nav-bar-inactive);
+}
+
+/* The Sweet Animations */
+
+.fade-in{
+  animation: fade-in 3s forwards;
+}
+
+.fade-out{
+  animation: fade-out 2s;
+}
+
+@keyframes fade-in{
+  0% {opacity: 0;}
+  70% {opacity: 0.6;}
+  100% {opacity: 1;}
+}
+
+@keyframes fade-out{
+  0% {opacity: 1;}
+  70% {opacity: 0.6;}
+  100% {opacity: 0;}
+}
+
+
