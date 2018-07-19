@@ -1,5 +1,4 @@
-![group photo](static/images/og.jpg)
-
+ 
 A class at the [Code Societies](http://sfpc.io/codesocieties), School for Poetic Computation, Summer 2018
 
 Distributed Web of Care is an initiative to *code to care* and *code carefully*. In this class, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular platforms such as Instagram and technical platforms such as GitHub, focusing on the network structure and protocols. We will experiment with strings and stickers to visualize and embody different types of network. We will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our work (poetry, code, or something else) over distributed network using [Dat](http://datproject.org/), 
@@ -61,13 +60,15 @@ Try cloning
 
 # Zine making activity 
 
-- Create a 1 page zine, about your project or what you learned in Code Societies. Limit to 1 MB or less. Need to include a README.md file. 
-- Markdown [cheat sheet](https://daringfireball.net/projects/markdown/syntax). 
-- Sublime [code & text editor](https://www.sublimetext.com/)
+- Create a page zine, about your project or what you learned in Code Societies. 
+- README.md must have your name (real or fictional) Limit to 1 MB or less. Use the markdown [cheat sheet](https://daringfireball.net/projects/markdown/syntax). 
 - use nano to make a txt file of your story. 
 - create a dat archive and share. 
 - give your key to the neighbors on your left and right
 - connect the stories with <a href="dat://key">Before</a> and <a href="dat://key">Next</a>.
+- Sublime [code & text editor](https://www.sublimetext.com/)
+- Art work must be made in a txt file. Follow the instructions of [ASCII town](http://designforthe.net/workshops/ascii/index.html) 
+- Link the specific dat key to the README.md
 
 ## Browser + publisher  
 
