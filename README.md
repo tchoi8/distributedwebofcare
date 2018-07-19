@@ -11,6 +11,14 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 - Ray Johnson on [Vanity Fair](https://www.vanityfair.com/culture/2015/01/ray-johnson-art-pranks)
 - [Ruth Wolf-Rehfeldt](http://chertluedde.com/artist/ruth-wolf-rehfeldt/)
 - [David Horvitz](http://www.davidhorvitz.com/)
+- [Book and Zine Fairs](https://www.printedmatter.org/services/the-bulletin/book-and-zine-fairs)
+- [Triple Canopy](http://canopycanopycanopy.com/) Slowing down the internet
+- [8 Ball](http://8ballcommunity.club/)
+- [Happy Family](https://www.happyfamilymkt.com/)
+- [Yello Jackets Collective](http://yellowjacketscollective.com/)
+- [BUFU](http://www.bufubyusforus.com/)
+- [Artists Space](http://artistsspace.org/)
+- [Machine Project](https://machineproject.com/)
 - [Miranda July](https://www.mirandajuly.com/) 
 - Sandine Image Processor on [Audio Visualizer](http://www.audiovisualizers.com/toolshak/vidsynth/sandin/sandin.htm)
 
@@ -19,10 +27,6 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 - [Louise Drulhe](http://louisedrulhe.fr/)
 - Paul Ford on [The New Republic](https://newrepublic.com/article/133889/reboot-world)
 - Laurel Schwulst on [The Creative independent](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
-
-# Cool Dat keys 
-
-- Read me - dat://d0222b1bcf7833e0708aa65ba8376aadba3f13e3025a113b10f755342b4c14d1/  
 - [p2pforever](https://p2pforever.org)
 
 # command line Dat  
@@ -34,7 +38,7 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 
 # Cloning 
 
-- dat clone [key]: You are downloading data from someone else's computer. You don't have a write access to this folder. However, you can fork it. 
+- dat clone [key]: You are downloading data from someone else's computer. You don't have a write access to this folder. However, you can clone (fork) it. 
 
 Try cloning 
 
@@ -52,7 +56,7 @@ Try cloning
 
 - dat sync: You can connect to a remote dat, and live sync to it's changes.
 
-Activity: 
+# Activity 
 
 - Exquisite corpse: write a story that's continued by your classmate 
 - use nano to make a txt file of your story. 
@@ -72,10 +76,20 @@ Try forking
 
 - Zach Mandeville's [Dat Zine Library](https://gitlab.com/zachmandeville/dat-zine-library) - need to clone the repo, follow the install, open on beaker browser.   
 
+- Read me - dat://d0222b1bcf7833e0708aa65ba8376aadba3f13e3025a113b10f755342b4c14d1/  
+
 Learn more 
 
 - Tara Vancil's [Explore the peer-to-peer Web with Beaker](https://taravancil.com/explore-the-p2p-web.md)
  
+
+# Seeding
+
+Seeding, publishing, sharing.
+
+- Self hosting on a [Raspberry Pi](https://guides.newcomputers.group/guides/installing-dat-raspberry-pi.html)
+
+- [Hashbase](https://hashbase.io/):  a public peer for files published with the Dat protocol. Works nicely with Beaker. File size limit for free account. 
 
 # Chatting 
 
@@ -83,12 +97,8 @@ Time permitting, follow this tutorial on [cabal](https://guides.newcomputers.gro
 
 ## Homework 1 (highly suggested): Code Societies Zine 
 
-Create a zine about your projects, your learning at Code Societies. Can be any format including web site, python code, pdf, image, video or anything digital.
-Send the zine to Taeyoon by July 26th 6pm. The zines will be compiled and premiere at the [Decentralized Web Summit](https://decentralizedweb.net/) in SF.   
+Update your zine by July 26th 6pm. Send DM to Taeyoon to inform the zine has been updated. The compiled zines will be compiled and premiere at the [Decentralized Web Summit](https://decentralizedweb.net/) in SF.   
 
-## Homework 2 (optional): DIY Social Media 
+## Homework: DIY Social Media 
 
 Back up your favorite social media platform, download all content, create a distributed web version of the content. 
-
-
-
