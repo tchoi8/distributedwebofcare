@@ -17,6 +17,7 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 - [Happy Family](https://www.happyfamilymkt.com/)
 - [Yello Jackets Collective](http://yellowjacketscollective.com/)
 - [BUFU](http://www.bufubyusforus.com/)
+- [Bubble sort zines](https://shop.bubblesort.io/collections/all)
 - [Artists Space](http://artistsspace.org/)
 - [Machine Project](https://machineproject.com/)
 - [Miranda July](https://www.mirandajuly.com/) 
