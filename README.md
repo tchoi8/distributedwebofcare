@@ -12,7 +12,7 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 - [Ruth Wolf-Rehfeldt](http://chertluedde.com/artist/ruth-wolf-rehfeldt/)
 - [Ray Johnson](http://www.rayjohnsonestate.com/home/)
 - [David Horvitz](http://www.davidhorvitz.com/)
-- [Miranda July] 
+- [Miranda July](https://www.mirandajuly.com/) 
 - Sandine Image Processor on [Audio Visualizer](http://www.audiovisualizers.com/toolshak/vidsynth/sandin/sandin.htm)
 - Laurel Schwulst on [The Creative independent](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 - [p2pforever](https://p2pforever.org)
@@ -22,11 +22,14 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 # Cool Dat keys 
 
 - Laurel Schwulst - dat://d0222b1bcf7833e0708aa65ba8376aadba3f13e3025a113b10f755342b4c14d1 
-- Read me - dat://d0222b1bcf7833e0708aa65ba8376aadba3f13e3025a113b10f755342b4c14d1/#colophon)
+
 - Kyle Mock's lecture - dat://61ba0d4e7fd3f0e935df95be2f323bbad4a6538ea32b999b775e27bc56ae4a25/ 
 
-- [Dat Zine Library](https://gitlab.com/zachmandeville/dat-zine-library) - need to clone the repo, follow the install, open on beaker browser.   
+- Read me - dat://d0222b1bcf7833e0708aa65ba8376aadba3f13e3025a113b10f755342b4c14d1/#colophon)
 
+- Zach Mandeville's [Dat Zine Library](https://gitlab.com/zachmandeville/dat-zine-library) - need to clone the repo, follow the install, open on beaker browser.   
+
+- Tara Vancil's [Explore the peer-to-peer Web with Beaker](https://taravancil.com/explore-the-p2p-web.md)
 
 # Dat Cat 
  
@@ -37,11 +40,14 @@ Distributed Web of Care is an initiative to *code to care* and *code carefully*.
 
 Important commands
 
-- dat clone [key]
-- dat create 
-- dat key export 
-- dat share [key]
-- dat pull
-- dat sync
+- dat clone [key]: You are downloading data from someone else's computer. You don't have a write access to this folder. However, you can fork it. 
 
-Activity: write a poem about a cat. use nano or vim to write in terminal. create a key and share via dat. clone other people's cat poem. 
+- dat create : You are creating your own dat archive. 
+
+- dat keys: In case you forget your key, you can get it again.  
+
+- dat share: You will start to seed your data. You can also command dat share [key]
+
+- dat sync: You can connect to a remote dat, and live sync to it's changes.
+
+Activity: write a poem about a cat. use nano to make a txt file. create a dat key and share. clone other people's cat poem. 

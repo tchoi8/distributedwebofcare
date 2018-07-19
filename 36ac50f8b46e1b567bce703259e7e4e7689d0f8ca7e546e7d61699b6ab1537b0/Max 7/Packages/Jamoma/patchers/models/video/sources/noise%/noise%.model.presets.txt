@@ -1,0 +1,10 @@
+
+
+- preset "default"
+# "edit a comment"
+data/active 1
+data/bypass 0
+framemotor 1
+framemotor/fps 25
+dim 8 6
+planes 4
