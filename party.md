@@ -24,7 +24,7 @@ The event will progress into dancing and socializing with music curated by the m
 
 stud1nt is a multi-disciplinary sound artist from Queens. Their work sits at the intersection of improvisation and meticulous approaches to composition. A member of the collectives #KUNQ and Discwoman, their work is especially attentive to queerness, the body, sound, and space. stud1nt has given workshops on creative production at Vassar College, the New School, Recess Art, Pioneer Works, Moogfest, and Ableton Loop.
 
-The timing of the event is:
+The timing of the event is as follows:
 
 - 3:00-4:00pm 
     - Talks and Discussion about care, distribution and publishing in the context of the distributed web by Taeyoon, Callil and Cleo
