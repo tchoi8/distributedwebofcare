@@ -54,6 +54,9 @@
 <loc>http://localhost:4000/skillshares/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/zine/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>
