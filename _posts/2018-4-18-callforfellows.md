@@ -14,8 +14,7 @@ The fellow will also work with Taeyoon to assist in the planning of Uncomputable
 Schedule
 
 * May 21-28: Onsite training and onboarding sessions. Part-time and flexible.
-* June 15-July 31: Onsite work in Manhattan or Brooklyn. 4 days/week, 6 hours/day.
-* Honorarium of $2000 for fellowship between June 15 and July 31, 2018. Fellows will be paid every two weeks.
+* June 15-July 31
 
 **[Apply to become a Design & Storytelling Fellow, Summer 2018.](https://airtable.com/shrbBTpEl8qgIWzkG)**
 
@@ -28,8 +27,7 @@ The fellow will also work with Taeyoon to assist in the planning of Uncomputable
 Schedule
 
 * May 21-28: Onsite training and onboarding sessions. Part-time and flexible.
-* June 15-July 31: Onsite work in Manhattan or Brooklyn. 4 days/week, 6 hours/day.
-* Honorarium of $2000 for fellowship between June 15 and July 31, 2018. Fellows will be paid every two weeks.
+* June 15-July 31: Onsite work in Manhattan or Brooklyn.  
 
 **[Apply to become a Technology & Documentation Fellow, Summer 2018](https://airtable.com/shrbBTpEl8qgIWzkG)**
 

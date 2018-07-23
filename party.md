@@ -6,11 +6,12 @@ title: "Distributed Web of Care Party "
 ---
  ![]({{ site.base-url }}/static/images/party/party.png)
 
- - July 29th, 3-7pm, 2018 
+ - July 29th, 5-9pm, 2018 
  - Liberty Hall at Ace Hotel New York, 20 W 29th St, New York, NY 10001
  - Free with [RSVP](https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721)
+ - The party space is wheelchair accessible via service elevator. Please inquire about access needs. taeyoonstudio@gmail.com
 
-The Distributed Web of Care Party will be held at the Liberty Hall at Ace Hotel New York on July 29th from 3-7pm. The party will be a collection of talks, presentations, interactions and music to illustrate the collective power of caring. 
+The Distributed Web of Care Party will be held at the Liberty Hall at Ace Hotel New York on July 29th from 5-9pm. The party will be a collection of talks, presentations, interactions and music to illustrate the collective power of caring. 
 
 The team of Fellows, Stewards and Artists in residence will all contribute toward sharing their knowledge and expertise in a series of talks concerning the distributed web. These talks will be both technical and abstract, but grounded in the project’s mission:
 
@@ -26,17 +27,17 @@ stud1nt is a multi-disciplinary sound artist from Queens. Their work sits at the
 
 The timing of the event is as follows:
 
-- 3:00-4:00pm 
+- 5:00-6:30pm 
     - Talks and Discussion about care, distribution and publishing in the context of the distributed web by Taeyoon, Callil and Cleo
-- 4:30-5:00pm
+- 6:30-7:00pm
     - Collective Poetry and Distribution with [Distributed Web of Care Team](http://distributedweb.care/posts/skillshares/) 
-- 5:00-5:30pm 
+- 7:00-7:30pm 
     - Movement as Peers with [Lai Yi Ohlsen](https://www.laiyiohlsen.com/)
     - Music with [Stud1nt](http://stud1nt.nyc/)
-- 5:30-6:00pm 
+- 7:30-8:00pm 
     - Live Code Cameras with [Laurel Schwulst](http://laurelschwulst.com/) and [Becca Abbe](http://cdxs.ist/)
     - Music with [Stud1nt](http://stud1nt.nyc/)
-- 6:00-7:00pm 
+- 8:00-9:00pm 
     - Hang out!
     - Music with [Stud1nt](http://stud1nt.nyc/)
 
