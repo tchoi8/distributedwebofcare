@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Distributed Web Zine - Home</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <div id="content"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch('./index.md')
+    .then(function (res) { return res.text(); })
+    .then(function (text) {
+        document.getElementById('content').innerHTML = marked(text);
+    });
+  </script>
+</body>
+</html>
