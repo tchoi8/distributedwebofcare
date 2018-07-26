@@ -10,6 +10,7 @@ title: "Distributed Web of Care Party "
  - Liberty Hall at Ace Hotel New York, 20 W 29th St, New York, NY 10001
  - Free with [RSVP](https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721)
  - The party space is wheelchair accessible via service elevator. Please inquire about access needs. taeyoonstudio@gmail.com
+ - Cash bar
 
 The Distributed Web of Care Party will be held at the Liberty Hall at Ace Hotel New York on July 29th from 5-9pm. The party will be a collection of talks, presentations, interactions and music to illustrate the collective power of caring. 
 
