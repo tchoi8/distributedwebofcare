@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-07-26T14:18:01-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Distributed Dance Floor</title><link href="http://localhost:4000/posts/DistributedDanceFloor/" rel="alternate" type="text/html" title="Distributed Dance Floor" /><published>2018-07-26T00:00:00-04:00</published><updated>2018-07-26T00:00:00-04:00</updated><id>http://localhost:4000/posts/DistributedDanceFloor</id><content type="html" xml:base="http://localhost:4000/posts/DistributedDanceFloor/">&lt;h2 id=&quot;the-distributed-dance-floor&quot;&gt;The Distributed Dance Floor&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-07-26T14:22:31-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Distributed Dance Floor</title><link href="http://localhost:4000/posts/DistributedDanceFloor/" rel="alternate" type="text/html" title="Distributed Dance Floor" /><published>2018-07-26T00:00:00-04:00</published><updated>2018-07-26T00:00:00-04:00</updated><id>http://localhost:4000/posts/DistributedDanceFloor</id><content type="html" xml:base="http://localhost:4000/posts/DistributedDanceFloor/">&lt;h2 id=&quot;the-distributed-dance-floor&quot;&gt;The Distributed Dance Floor&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;by Lai Yi Ohlsen&lt;/em&gt;&lt;/p&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;p&gt;The &lt;em&gt;perfect&lt;/em&gt; dance floor is distributed. There is no central authority of movement, but we share the principles of the music. Individual bodies contribute to a collective energy and we move to maintain it throughout the night.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;[drawing]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/party/DDFDrawings.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;the-distributed-dance-floor-has-taught-me-the-following&quot;&gt;The Distributed Dance Floor has taught me the following:&lt;/h4&gt;
 
@@ -22,19 +22,15 @@
 
 &lt;p&gt;The dance floor is continuously collecting resources in an effort to redistribute them. The distributed web doesn’t centralize around any one dancer for more than a moment; the attention is shared. After we connect around a node, the swarm rejoins the network with connections stronger than before.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;[drawing]&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;As I see it, there is one fundamental challenge: the dance floor is ephemeral. It is not built to scale. What we grow tonight will not be here tomorrow. And I have wondered - is the same true for a distributed network? Is there a limit to how much we can prioritize care over control?&lt;/p&gt;
 
 &lt;p&gt;But even if the individual dance floor doesn’t last, the nodes and edges that maintain them do. The distributed web is survived by its dancers. The dance floor is as sustainable as the peer to peer connections it supports.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[drawing]&lt;/em&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;what-else-can-we-learn-from-the-distributed-dance-floor&quot;&gt;What else can we learn from the Distributed Dance Floor?&lt;/h4&gt;
 
 &lt;p&gt;&lt;strong&gt;About the Author:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Lai Yi Ohlsen (www.laiyiohlsen.com) is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Dance Floor</summary></entry><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://laiyiohlsen.com&quot;&gt;Lai Yi Ohlsen&lt;/a&gt; is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Dance Floor</summary></entry><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
 
 &lt;p&gt;Through an intimate interactive event, participants and artists will develop a dialog related to their practices by performing acts of collective caring, discussion and documentation.
 As a participant in the skillshare, all we require is an open mind and desire to share together. We will be experimenting with different modes of documentation throughout the events. &lt;strong&gt;We will also send out a small set of readings and ask you to generate a few questions based on those readings so we can come together with an informed baseline.&lt;/strong&gt;&lt;/p&gt;
