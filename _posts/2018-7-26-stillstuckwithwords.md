@@ -31,64 +31,116 @@ That phrase (“*that’s a good question*”) brings me to: The use of the coll
 Why do it, when outside of the artistic realm, we’ve been told not to, so much of the time (“that’s what you said yesterday” and so forth). Why should artists and poets keep doing it?  This brings up what Gertrude Stein called ***insistence***. Repeating subtle variations to be “heard” about the din of a crowd. Digging thru this insistence through philosophical inflection, and have an epiphany sneak up on you at the end of the poem when you weren’t expecting it. Not that I can perfectly explain how that happens. On being mystified on what mysteries language holds contradictorily in both its ***breaking apart*** and ***its words coming together***.
 All of this mixes with what I don’t hear, mishear, and what I want to hear, merging in a full-on experiment. Working with this mix (insistence, repetition, hearing loss…) drives my poetix to getting to the bottom of other concerns of mine in poetry: time-based-ness, nostalgia, dejavu, memory. And with memory(ies), I don’t think we can ever get to the bottom of them. 
 All of these investigations lead to a kind of internal rhythm, a kind of music, (but with no sound) in my poetry, a kind of music both figuratively and literally. Perhaps one would expect a person with a hearing loss to not quote so many pop songs, but they’re there, place holders for what couldn’t be said otherwise. So it’s a meta meta ***what’s been said***, to say what I wanna say. In this ***word-music*** created with the line, the motion of one phrase never really slows, and the prose poem format makes it feel like nothing can afford to stop.
+
 **Then there’s the Schoolhouse Rock effect-**
+
 *NOT THIS BUT THAT* from the song “Conjunction Junction what’s your function” (Schoolhouse Rock was a 70s educational children’s TV show). That phrase and the images of its animated train cars smashing together with the words *NotThisButThat* seem to be the CliffsestNotest way I can say what is in my mind when I’m trying to write. How words, ideas, and phrases come together, and my going along or against it. Just like those train cars slamming together.
 How to pry open that meaning – when we say “not just this or just that” – what is the space AROUND “just this” or “just that”? It’s a loaded space. Where can you go with it? There’s gazillions of these spaces, this reading between, a space filled with something. Why is this even something to explore, this “space” around the throwaway phrases that only exist with a reading between? 
+
 **“That’s a good question…”**
+
 So is poetry a sophisticated attempt to read between the lines, put it down on paper, so you’re not reading between the lines anymore on one level, but when you start reading between the lines of what is already the poet’s view of reading between the lines, what are we doing then?
+
 **A very good question.**
+
 The translation that’s involved in reading between the lines, that quiet invisible space.
 Now if we were always reading between the lines, which implies finding that hidden truth –  the “real deal” – then – is this what is needed to really “get at”  the heart of something?
+
 **A good question.**
 
 I am going to intercept here with a poem of mine that feels appropriate in this essay’s juncture. 
 
 **This poem is called “I’m telling you don’t forget”:**
+
 To remember who you were
+
 To remember what it was
+
 To remember what it is 
+
 To remember how it was
+
 To remember what it went
+
 To remember how it said
+
 To remember how it sounded
+
 To remember how it went
+
 To remember what they did
+
 To remember how it goes
+
 To remember what it meant
+
 To remember that’s what she said
+
 To remember what it aint
+
 To remember who said what
+
 To remember what said what
+
 To remember who knew who 
+
 To remember who died then
+
 To remember who all knew who
+
 To remember what was what
+
 To remember who didn’t die
+
 To remember who said what they said
+
 To remember who didn’t remember you
+
 To remember who didn’t want to know
+
 To remember who tried to change you
+
 To remember don’t be a cliché here
+
 To remember don’t let this poem be 8th grade desperation
+
 To remember you’re trying to do something with 8th grade desperation
+
 To remember maybe you can deconstruct 8th grade desperation in a way the language poets would like
+
 Or A Tonalists
+
 Or Quietudes
+
 To remember, once again, all together now, the more things change the more they stay the same
+
 To remember most poets don’t want to hear that
+
 To remember most news publications have a rule for what not to say
+
 Including
+
 The more things change the more they stay the same
+
 To remember most people will forget you said earlier in this poem it was a sophisticated attempt 
+
 To turn around a cliché
+
 Can it be encapsulated in Hey.
+
 Maybe, ok?
+
 To remember maybe these lines need to be more of a mystery.
+
 To remember somebody might be reading between the lines
+
 To remember there’s a poem in between the lines
+
 To remember in between the lines is where everything happens
+
 So why should I even write 
-Anything?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anything?
 
 **An extremely good question.**   Is it possible to rest our poetics on a question. To think we can. I think we can –let the poetry move long after it has ended. To quote what I just read, “Why should I even write anything.” I just did. So there. Translate as needed. 
 It feels like maybe I haven’t really said anything there/here with the some things I said…In these in between the lines, insistences, repetitions…getting at…an ***un-destination…*** To get at an un-defined space of between the lines. 
@@ -109,4 +161,4 @@ And the next time someone tells you to “read between the lines” and to not �
 
 ![]({{ site.base-url }}/static/images/air/stephanie.jpg)
 
-[Stephanie Gray](https://www.poetryfoundation.org/poets/stephanie-gray) is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, Shorthand and Electric Language Stars (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including Under the Surface (above/ground press, 2018) and A Country Road Going Back in Your Direction (Argos Books, 2015). Work also appears in the anthology How Lovely the Ruins (Spiegel & Grau/Random House, 2017).
+[Stephanie Gray](https://www.poetryfoundation.org/poets/stephanie-gray) is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, *Shorthand and Electric Language Stars* (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including *Under the Surface* (above/ground press, 2018) and *A Country Road Going Back in Your Direction* (Argos Books, 2015). Work also appears in the anthology *How Lovely the Ruins* (Spiegel & Grau/Random House, 2017).
