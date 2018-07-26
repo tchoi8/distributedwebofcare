@@ -6,11 +6,8 @@ published: true
 # image: ...
 ---
 by Stephanie Gray, DWC Arist In Residence
- 
 
 *What does it mean to be “stuck with words” or “reading between the lines” or “not reading into anything” as a hearing impaired person? Read on for a poetic exploration…*
-
-# *still stuck with words*
 
 (from: *“**still stuck with language**, still stuck with words, still stuck with what you know…” (poet Jack Spicer, from one of his lectures)*)
 
