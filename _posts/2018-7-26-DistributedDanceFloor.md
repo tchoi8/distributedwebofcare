@@ -5,20 +5,15 @@ published: true
 # To set og:image:
 # image: ...
 ---
-## The Distributed Dance Floor
-
-*by Lai Yi Ohlsen*
+by Lai Yi Ohlsen, DWC Steward
 
 The dance floor is a network. Bodies are nodes and the connections between them are edges.
 
 The _perfect_ dance floor is distributed. There is no central authority of movement, but we share the principles of the music. Individual bodies contribute to a collective energy and we move to maintain it throughout the night.
 
-![]({{ site.base-url }}/static/images/party/DDFDrawings.jpeg)
-
-
 #### The Distributed Dance Floor has taught me the following:
 
-
+![]({{ site.base-url }}/static/images/party/DDFDrawings.jpeg)
 
 **Resiliency**
 
