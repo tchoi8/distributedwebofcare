@@ -45,6 +45,10 @@
 <lastmod>2018-06-27T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/posts/DistributedDanceFloor/</loc>
+<lastmod>2018-07-26T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -55,6 +59,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/zine/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/static/letters/jess_shannon/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

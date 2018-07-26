@@ -1,3 +1,10 @@
+---
+title: "Distributed Dance Floor"
+published: true
+
+# To set og:image:
+# image: ...
+---
 ## The Distributed Dance Floor
 
 *by Lai Yi Ohlsen*

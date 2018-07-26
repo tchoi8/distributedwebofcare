@@ -1,8 +1,40 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-07-23T10:36:45-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
-=======
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-07-22T12:48:27-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
->>>>>>> summer2018
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-07-26T14:18:01-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Distributed Dance Floor</title><link href="http://localhost:4000/posts/DistributedDanceFloor/" rel="alternate" type="text/html" title="Distributed Dance Floor" /><published>2018-07-26T00:00:00-04:00</published><updated>2018-07-26T00:00:00-04:00</updated><id>http://localhost:4000/posts/DistributedDanceFloor</id><content type="html" xml:base="http://localhost:4000/posts/DistributedDanceFloor/">&lt;h2 id=&quot;the-distributed-dance-floor&quot;&gt;The Distributed Dance Floor&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;by Lai Yi Ohlsen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The dance floor is a network. Bodies are nodes and the connections between them are edges.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;perfect&lt;/em&gt; dance floor is distributed. There is no central authority of movement, but we share the principles of the music. Individual bodies contribute to a collective energy and we move to maintain it throughout the night.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[drawing]&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-distributed-dance-floor-has-taught-me-the-following&quot;&gt;The Distributed Dance Floor has taught me the following:&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Resiliency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Peer to peer connections increase the momentum of the network by increasing the number of edges our movement can be shared through. When we dance, we connect and when we connect, we seed. Seeding increases resiliency. The dance floor dies when nodes feel disconnected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Authentication&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As we dance, we use eye contact to check and verify the authenticity of our peers. While mostly fleeting, it is a way of sharing support and signing our connection into the network. For that moment, nodes become edges and a trust algorithm is performed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Swarming&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The dance floor is continuously collecting resources in an effort to redistribute them. The distributed web doesn’t centralize around any one dancer for more than a moment; the attention is shared. After we connect around a node, the swarm rejoins the network with connections stronger than before.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[drawing]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As I see it, there is one fundamental challenge: the dance floor is ephemeral. It is not built to scale. What we grow tonight will not be here tomorrow. And I have wondered - is the same true for a distributed network? Is there a limit to how much we can prioritize care over control?&lt;/p&gt;
+
+&lt;p&gt;But even if the individual dance floor doesn’t last, the nodes and edges that maintain them do. The distributed web is survived by its dancers. The dance floor is as sustainable as the peer to peer connections it supports.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[drawing]&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;what-else-can-we-learn-from-the-distributed-dance-floor&quot;&gt;What else can we learn from the Distributed Dance Floor?&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;About the Author:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lai Yi Ohlsen (www.laiyiohlsen.com) is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Dance Floor</summary></entry><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
 
 &lt;p&gt;Through an intimate interactive event, participants and artists will develop a dialog related to their practices by performing acts of collective caring, discussion and documentation.
 As a participant in the skillshare, all we require is an open mind and desire to share together. We will be experimenting with different modes of documentation throughout the events. &lt;strong&gt;We will also send out a small set of readings and ask you to generate a few questions based on those readings so we can come together with an informed baseline.&lt;/strong&gt;&lt;/p&gt;
@@ -659,53 +691,4 @@ As a participant in the skillshare, all we require is an open mind and desire to
 
 &lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
 
-&lt;p&gt;Distributed Web of Care is an independent, self funded initiative. We are actively searching for supporters. If you’d like to make donation, or hire Taeyoon Choi and the collaborators to lead a workshop, please contact studio@taeyoonchoi.com.&lt;/p&gt;</content><author><name></name></author><summary type="html">Design &amp;amp; Storytelling Fellow</summary></entry><entry><title type="html">Code of Conduct</title><link href="http://localhost:4000/posts/coc/" rel="alternate" type="text/html" title="Code of Conduct" /><published>2018-04-17T00:00:00-04:00</published><updated>2018-04-17T00:00:00-04:00</updated><id>http://localhost:4000/posts/coc</id><content type="html" xml:base="http://localhost:4000/posts/coc/">&lt;p&gt;&lt;img src=&quot;/static/images/EAW/EAW_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;open-sourceculturetech-citizenship&quot;&gt;Open [Source/Culture/Tech] Citizenship&lt;/h2&gt;
-
-&lt;p&gt;A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.&lt;/p&gt;
-
-&lt;p&gt;Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. We seek to create an open and sharing environment deeply based in open source practice.&lt;/p&gt;
-
-&lt;p&gt;All open source (licensed or otherwise) and copyrighted work that is integrated into work inside and outside of the Distributed Web of Care event must be appropriately adhered to under the referenced work’s license guidelines.&lt;/p&gt;
-
-&lt;p&gt;If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.&lt;/p&gt;
-
-&lt;h2 id=&quot;expected-behavior&quot;&gt;Expected Behavior&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. This is a grassroots event that we build together from the ground up. Everyone is expected to contribute.&lt;/li&gt;
-  &lt;li&gt;Exercise consideration and respect in your speech and actions.&lt;/li&gt;
-  &lt;li&gt;Attempt collaboration before conflict.&lt;/li&gt;
-  &lt;li&gt;Be respectful of the space, tools, equipment, and materials.&lt;/li&gt;
-  &lt;li&gt;Refrain from demeaning, discriminatory, or harassing behavior and speech.&lt;/li&gt;
-  &lt;li&gt;Give attribution where attribution is due. Adhere to CC, open source, GNU and other licenses of work used and remixed&lt;/li&gt;
-  &lt;li&gt;Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;unacceptable-behavior&quot;&gt;Unacceptable Behavior&lt;/h2&gt;
-
-&lt;p&gt;No form of harassment will be tolerated. Harassment includes, but is not limited to:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, skill level, disability, physical appearance, body size, race, age, or religion.&lt;/li&gt;
-  &lt;li&gt;Intentionally lewd or sexually exploitative images in public spaces.&lt;/li&gt;
-  &lt;li&gt;Deliberate intimidation, stalking, following, or use of physical force; harassing photography or recording.
-Sustained disruption of talks or other events; inappropriate physical contact.&lt;/li&gt;
-  &lt;li&gt;Unwelcome sexual attention; and advocating for, or encouraging, any of the above behavior.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;enforcement&quot;&gt;Enforcement&lt;/h2&gt;
-&lt;p&gt;Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the event.&lt;/p&gt;
-
-&lt;h2 id=&quot;reporting&quot;&gt;Reporting&lt;/h2&gt;
-&lt;p&gt;If you feel unsafe, uncomfortable, or unwelcome, please speak to an organizer:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/tchoi8&quot;&gt;Taeyoon Choi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/fablednet&quot;&gt;Sarah Gray&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-
-&lt;p&gt;This Code of Conduct was adapted from the example policy from the &lt;a href=&quot;http://etextilespringbreak.org/&quot;&gt;eTextiles Spring Break&lt;/a&gt;, via &lt;a href=&quot;http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy&quot;&gt;Geek Feminism wiki&lt;/a&gt;, created by the Ada Initiative and other volunteers and the &lt;a href=&quot;http://berlincodeofconduct.org/&quot;&gt;Berlin Code of Conduct.net&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
-
-&lt;p&gt;Distributed Web of Care is an independent, self funded initiative. We are actively searching for supporters. If you’d like to make donation, or hire Taeyoon Choi and the collaborators to lead a workshop, please contact studio@taeyoonchoi.com.&lt;/p&gt;</content><author><name></name></author><summary type="html">Open [Source/Culture/Tech] Citizenship</summary></entry></feed>
+&lt;p&gt;Distributed Web of Care is an independent, self funded initiative. We are actively searching for supporters. If you’d like to make donation, or hire Taeyoon Choi and the collaborators to lead a workshop, please contact studio@taeyoonchoi.com.&lt;/p&gt;</content><author><name></name></author><summary type="html">Design &amp;amp; Storytelling Fellow</summary></entry></feed>
