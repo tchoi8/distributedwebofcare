@@ -140,7 +140,7 @@ To remember in between the lines is where everything happens
 
 So why should I even write 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anything?
+Anything?
 
 **An extremely good question.**   Is it possible to rest our poetics on a question. To think we can. I think we can –let the poetry move long after it has ended. To quote what I just read, “Why should I even write anything.” I just did. So there. Translate as needed. 
 It feels like maybe I haven’t really said anything there/here with the some things I said…In these in between the lines, insistences, repetitions…getting at…an ***un-destination…*** To get at an un-defined space of between the lines. 
