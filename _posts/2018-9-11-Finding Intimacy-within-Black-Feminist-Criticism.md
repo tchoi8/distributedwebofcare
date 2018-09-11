@@ -50,7 +50,7 @@ Our exchanges, formal and informal, constitute a necessary, generative meeting p
 
 I’ll probably return to Smith a few more times before the year ends. Criticism is not static. There is much left to learn. And so, this feels less like an ending and more a righteous beginning. 
 
-** About the Author: **
+**About the Author:**
 
 ![](http://distributedweb.care/static/images/air/jess.png)
 Jessica Lynne is a Brooklyn-based writer and art critic. She is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. Find her online at @lynne_bias.
