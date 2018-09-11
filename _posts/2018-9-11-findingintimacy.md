@@ -5,14 +5,13 @@ published: true
 # To set og:image:
 # image: ...
 ---
+by Jessica Lynne, DWC Arist In Residence
+
+(an evolving statement first commissioned by the [Milwaukee Artist Resource Network](https://www.artsinmilwaukee.org/) in 2017)
 
 ![](http://distributedweb.care/static/images/air/jesslynne.jpg)
 
-*Jessica Lynne, on the left with [ARTS.BLACK](http://arts.black/) partner, Taylor Aldridge. Photog: Ash Arder*
-
-by Jessica Lynne, DWC Arist In Residence
- 
-(an evolving statement first commissioned by the [Milwaukee Artist Resource Network](https://www.artsinmilwaukee.org/) in 2017)
+*Jessica Lynne, on the left with [ARTS.BLACK](http://arts.black/) partner, Taylor Aldridge. Photo: Ash Arder.*  
 
 I have been spending time with Barbara Smith’s essay, “[Towards a Black Feminist Criticism](http://webs.wofford.edu/hitchmoughsa/Toward.html).” A lot of time, actually. It has become a central point of reference for me recently as I’ve worked to get to the root of my impulses as an art critic. 
 
@@ -53,4 +52,4 @@ I’ll probably return to Smith a few more times before the year ends. Criticism
 **About the Author:**
 
 ![](http://distributedweb.care/static/images/air/jess.png)
-Jessica Lynne is a Brooklyn-based writer and art critic. She is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. Find her online at @lynne_bias.
+[Jessica Lynne](http://jessicalynne.co) is a Brooklyn-based writer and art critic. She is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. Find her online at @lynne_bias.
