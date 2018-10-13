@@ -68,7 +68,7 @@ Meme culture and fast-paced social networking have encouraged the use of copyrig
 
 Participants will engage in a conversation about gathering and using data from the web for social good. The steward will briefly show recent projects and we will use these examples to create a dialog about the legal and ethical issues involved in such projects.
 
-# #3 Jessia Lynne and Shannon Finnegan 
+# #3 Jessica Lynne and Shannon Finnegan 
 
 **Date: 07.15.2018. 1~4pm**
 
