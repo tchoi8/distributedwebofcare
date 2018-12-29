@@ -3,7 +3,7 @@ title: "Distributed Dance Floor"
 published: true
 
 # To set og:image:
-# image: ...
+# image: http://distributedweb.care/static/images/party/DDFDrawings.jpeg
 ---
 by Lai Yi Ohlsen, DWC Steward
 

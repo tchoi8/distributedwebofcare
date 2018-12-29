@@ -3,7 +3,7 @@ title: "Finding Intimacy within Black Feminist Criticism "
 published: true
 
 # To set og:image:
-# image: ...
+# image: http://distributedweb.care/static/images/air/jesslynne.jpg
 ---
 by Jessica Lynne, DWC Arist In Residence
 
