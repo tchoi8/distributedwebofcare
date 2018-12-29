@@ -2,7 +2,7 @@
 title: "Class for Code Societies at SFPC"
 
 # To set og:image:
-# image: ...
+# image: http://sfpc.io/static/img/codesocieties/banner.jpg
 ---
 *by Taeyoon Choi*
 
