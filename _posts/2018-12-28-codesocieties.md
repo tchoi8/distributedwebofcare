@@ -8,7 +8,7 @@ title: "Class for Code Societies at SFPC"
 
 A class at Code Societies Winter 2019 at the School for Poetic Computation in New York City.  
 
-Distributed Web of Care is an initiative to code to care and code carefully. In this class there will engage in three different activities. First, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular technology platforms, focusing on its network infrastructure and terms of services. We will compare them with decentralized alternatives such as [Dat](https://datproject.org) Peer to Peer Protocol and [Scutterbutt](http://www.scuttlebutt.nz). Second, we will take on performative exercises to explore the feeling of being in a network. We will learn to move around in physical space with strings in order to care, not control, each other. Lastly, we will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our code and code of conduct as zines in physical print and data, published with Beaker browser.
+Distributed Web of Care is an initiative to code to care and code carefully. In this class there will engage in three different activities. First, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular technology platforms, focusing on its network infrastructure and terms of services. We will compare them with decentralized alternatives such as [Dat](https://datproject.org) Peer to Peer Protocol and [Scuttlebutt](http://www.scuttlebutt.nz). Second, we will take on performative exercises to explore the feeling of being in a network. We will learn to move around in physical space with strings in order to care, not control, each other. Lastly, we will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our code and code of conduct as zines in physical print and data, published with Dat.
 
 Suggested readings 
 - [Reboot World](https://newrepublic.com/article/133889/reboot-world) by Paul Ford  
@@ -17,6 +17,7 @@ Suggested readings
 - [Dat Zine Library](https://gitlab.com/zachmandeville/dat-zine-library) by Zach Mandeville
 - [Distributed Web of Care](https://decentralizedweb.net/distributed-web-of-care/) by Taeyoon Choi
 - [Ethics and Archiving the Web](http://distributedweb.care/posts/eaw/) by Distributed Web of Care 
+- [At the New York Tech Zine Fair, the Digital and the Tactile Converge](https://hyperallergic.com/474137/at-the-new-york-tech-zine-fair-the-digital-and-the-tactile-converge/) by Megan N. Liberty
 
 In class, we will use terminal, git and Dat. Please familiarize yourself with using the terminal. The class is based on [a  class](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) from Summer 2018.
 
