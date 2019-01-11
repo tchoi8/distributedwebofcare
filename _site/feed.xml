@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-12-29T08:39:12-05:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Residency at LACA</title><link href="http://localhost:4000/posts/laca/" rel="alternate" type="text/html" title="Residency at LACA" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/posts/laca</id><content type="html" xml:base="http://localhost:4000/posts/laca/">&lt;p&gt;&lt;em&gt;Taeyoon Choi will hold a residency at the &lt;a href=&quot;http://lacarchive.com/taeyoon-choi-residency&quot;&gt;Los Angeles Contemporary Archive&lt;/a&gt; located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-01-11T13:34:20-05:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Residency at LACA</title><link href="http://localhost:4000/posts/laca/" rel="alternate" type="text/html" title="Residency at LACA" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/posts/laca</id><content type="html" xml:base="http://localhost:4000/posts/laca/">&lt;p&gt;&lt;em&gt;Taeyoon Choi will hold a residency at the &lt;a href=&quot;http://lacarchive.com/taeyoon-choi-residency&quot;&gt;Los Angeles Contemporary Archive&lt;/a&gt; located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Can we code to care and code carefully? The Distributed Web of Care (DWC) is a research initiative on communication infrastructure, exploring the Distributed Web as a peer-to-peer, alternative web which prioritizes personhood, collective agency and individual ownership of data and code. Initiated by Taeyoon Choi, artist and cofounder of the School for Poetic Computation in NYC,  in collaboration with various artists, writers, technologists and community organizers, DWC imagines distributed networks as a form of interdependence and stewardship, in critical opposition to the network platforms and infrastructures that dominate the world today.&lt;/p&gt;
 
@@ -24,11 +24,116 @@
   &lt;li&gt;&lt;a href=&quot;https://decentralizedweb.net/distributed-web-of-care/&quot;&gt;Distributed Web of Care&lt;/a&gt; by Taeyoon Choi&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://distributedweb.care/posts/eaw/&quot;&gt;Ethics and Archiving the Web&lt;/a&gt; by Distributed Web of Care&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hyperallergic.com/474137/at-the-new-york-tech-zine-fair-the-digital-and-the-tactile-converge/&quot;&gt;At the New York Tech Zine Fair, the Digital and the Tactile Converge&lt;/a&gt; by Megan N. Liberty&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solar.lowtechmagazine.com/about.html&quot;&gt;Low-tech Magazine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;In class, we will use terminal, git and Dat. Please familiarize yourself with using the terminal. The class is based on &lt;a href=&quot;https://github.com/tchoi8/distributedwebofcare/tree/codesocieties&quot;&gt;a  class&lt;/a&gt; from Summer 2018.&lt;/p&gt;
 
+&lt;h1 id=&quot;concepts&quot;&gt;Concepts&lt;/h1&gt;
+
+&lt;p&gt;Intersections of Race – Gender – Environment – Disability justice&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/SFPC/codeecologies/tree/master/notes&quot;&gt;Code Ecologies&lt;/a&gt; notes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewinquiry.com/artificial-advancements/&quot;&gt;Artificial Advancements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sfpc.io/classes/computingandstories/&quot;&gt;Computing and Stories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tchoi8/diversity-at-sfpc-d494d7390375&quot;&gt;Diversity at SFPC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Code of Conduct from &lt;a href=&quot;http://etextilespringbreak.org/&quot;&gt;eTextile Spring break&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;keywords&quot;&gt;Keywords&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;dat create : You are creating your digital archive.&lt;/li&gt;
+  &lt;li&gt;dat keys: In case you forget your key, you can get it again.&lt;/li&gt;
+  &lt;li&gt;dat share: You will start to seed your archive.&lt;/li&gt;
+  &lt;li&gt;dat sync: You can connect to a remote dat, and live sync to it’s changes. This also results in you sharing the archive even when the original archive is not available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;step-by-step&quot;&gt;Step by step&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Getting set up
+    &lt;ul&gt;
+      &lt;li&gt;open up terminal, go to your project directory&lt;/li&gt;
+      &lt;li&gt;mkdir datzines&lt;/li&gt;
+      &lt;li&gt;cd datzines&lt;/li&gt;
+      &lt;li&gt;install &lt;a href=&quot;https://www.npmjs.com/get-npm&quot;&gt;npm and node&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;npm install -g dat&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cloning an archive
+    &lt;ul&gt;
+      &lt;li&gt;dat clone (Taeyoon’s archive unique hash – revealed in class)&lt;/li&gt;
+      &lt;li&gt;cd (into the cloned folder)&lt;/li&gt;
+      &lt;li&gt;ls (show files)&lt;/li&gt;
+      &lt;li&gt;dat sync&lt;/li&gt;
+      &lt;li&gt;Taeyoon will update the original archive. Students will see their files synchronizing.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Making your own archive
+    &lt;ul&gt;
+      &lt;li&gt;cd ..&lt;/li&gt;
+      &lt;li&gt;mrkir yourname_zine&lt;/li&gt;
+      &lt;li&gt;cd yourname_zine&lt;/li&gt;
+      &lt;li&gt;create zine.&lt;/li&gt;
+      &lt;li&gt;touch yourname.txt&lt;/li&gt;
+      &lt;li&gt;nano yourname.txt&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;dat-zines&quot;&gt;Dat Zines&lt;/h1&gt;
+
+&lt;p&gt;Guidelines for the zines, appropriated from &lt;a href=&quot;http://designforthe.net/workshops/ascii/index.html&quot;&gt;ASCII Town Workshop&lt;/a&gt; by Mindy Seu.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;File must be titled yourfirstnamelastname.txt&lt;/li&gt;
+  &lt;li&gt;no spaces, all lowercase&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;File must include&lt;/p&gt;
+
+&lt;p&gt;Outside: 
+(for cover of your zine)&lt;/p&gt;
+
+&lt;p&gt;Inside: 
+(content of your zine)&lt;/p&gt;
+
+&lt;h2 id=&quot;for-outside&quot;&gt;For Outside:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Width: minimum 20 characters, maximum 50 characters&lt;/li&gt;
+  &lt;li&gt;Height: minimum 10 lines, maximum 20 lines&lt;/li&gt;
+  &lt;li&gt;Include a zine cover with your name so your friends know which zine belongs to you.&lt;/li&gt;
+  &lt;li&gt;In your text file, write “Outside:” (make sure you include the colon) above the house you drew, followed by a hard line break.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-inside&quot;&gt;For Inside:&lt;/h2&gt;
+
+&lt;p&gt;Below your cover, write “Inside:” followed by a hard line break.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Monospaced font&lt;/li&gt;
+  &lt;li&gt;One size (16 pt)&lt;/li&gt;
+  &lt;li&gt;One weight (no bold, italicized, etc)&lt;/li&gt;
+  &lt;li&gt;One color (black)&lt;/li&gt;
+  &lt;li&gt;No links&lt;/li&gt;
+  &lt;li&gt;No mark-up&lt;/li&gt;
+  &lt;li&gt;No motion&lt;/li&gt;
+  &lt;li&gt;There is no width or height restriction for the inside of your zine. Use the negative space creatively. Consider creating movement through scale, placement, and scrolling.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;publishing&quot;&gt;Publishing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dat share, start publishing&lt;/li&gt;
+  &lt;li&gt;write your unique key&lt;/li&gt;
+  &lt;li&gt;Give the key, written on a piece of paper to a TA or Taeyoon, who will clone it into the main archive&lt;/li&gt;
+  &lt;li&gt;View dat zines&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;img src=&quot;http://sfpc.io/static/img/codesocieties/banner.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;code-societies&quot;&gt;Code Societies&lt;/h3&gt;
 &lt;p&gt;SFPC’s &lt;a href=&quot;http://sfpc.io/codesocieties-winter-19/&quot;&gt;Code Societies&lt;/a&gt;, is a winter intensive session organized by Melanie Hoff. Code Societies will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.&lt;/p&gt;
 
@@ -569,7 +674,9 @@ As a participant in the skillshare, all we require is an open mind and desire to
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;Free, RSVP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;We are planning to offer skillshares and party in July in partnership with the Ace Hotel New York. We will announce details about workshops and events via Taeyoon Choi’s &lt;a href=&quot;http://tinyletter.com/tchoi8&quot;&gt;mailing list&lt;/a&gt;. Please join us for the &lt;a href=&quot;https://dwc-tchoi8.hashbase.io/posts/party/&quot;&gt;Distributed Web of Care Party&lt;/a&gt; on July 29th.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Web of Care presents a skillshare series called Peers in Practice. This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.</summary></entry><entry><title type="html">Distributed Web of Care Party</title><link href="http://localhost:4000/posts/party/" rel="alternate" type="text/html" title="Distributed Web of Care Party " /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/party</id><content type="html" xml:base="http://localhost:4000/posts/party/">&lt;p&gt;&lt;img src=&quot;/static/images/party/party.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We are planning to offer skillshares and party in July in partnership with the Ace Hotel New York. We will announce details about workshops and events via Taeyoon Choi’s &lt;a href=&quot;http://tinyletter.com/tchoi8&quot;&gt;mailing list&lt;/a&gt;. Please join us for the &lt;a href=&quot;https://dwc-tchoi8.hashbase.io/posts/party/&quot;&gt;Distributed Web of Care Party&lt;/a&gt; on July 29th.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Web of Care presents a skillshare series called Peers in Practice. This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.</summary></entry><entry><title type="html">Distributed Web of Care Party</title><link href="http://localhost:4000/posts/party/" rel="alternate" type="text/html" title="Distributed Web of Care Party " /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/party</id><content type="html" xml:base="http://localhost:4000/posts/party/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IDbdPNCSx34?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/party/party.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;July 29th, 5-9pm, 2018&lt;/li&gt;
