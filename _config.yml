@@ -42,7 +42,7 @@ google_analytics: ""
 lang: "en"
 
 # How many posts are visible on the home page without clicking "View More"
-num_posts_visible_initially: 20
+num_posts_visible_initially: 50
 
 # Date format: See http://strftime.net/
 date_format: "%b %-d, %Y"
@@ -58,6 +58,8 @@ exclude:
   - package.json
   - hot
   - LICENSE.txt
+  - /index.md # this file is for ty's entire archive, not this specific website
+  - art
 
 plugins:
   - jekyll-feed

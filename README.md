@@ -1,4 +1,4 @@
-![group photo](static/images/og.jpg)
+![group photo](/og.jpg)
 
 
 Distributed Web of Care is an initiative to *code to care* and *code carefully*.

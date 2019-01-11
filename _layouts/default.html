@@ -66,12 +66,16 @@
   
         </section>
       {% endif %}
-      {% if site.posts.size > 0 %}
         <hr />
         <section class="pv2">
           <ul class="list pl0">
+          <!-- make the list 'pages' that contains all pages with
+            a date property in the front matter. in other words, 
+            you need to specify a date for a document to show up here.
+            then sort the pages in descending order of date -->
+          {% assign pages = site.pages | where_exp: "item","item.date" | sort: "date" | reverse %}
           {% if is_home %}
-            {% for post in site.posts %}
+            {% for post in pages %}
               {% if forloop.index0 == site.num_posts_visible_initially %}
               <li class="mt0 mb4">
                 <h4 class="ma0">
@@ -83,16 +87,21 @@
               {% endif %}
               <li class="mt0 mb4 {% if forloop.index0 >= site.num_posts_visible_initially %}dn js-hidden{% endif %}">
                 <h3 class="ma0">
-                  <a class=" no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <a class=" no-underline" href="{{ post.url | relative_url }}">{% capture current_title %}{{post.title}}{% endcapture %}
+                  {{ current_title | escape }}
+                  </a>
                 </h3>
+                <!-- Display author if the front matter specifies one -->
+                {% if post.author %}<span class="silver small">by {{ post.author }}</span>{% endif %}
               </li>
             {% endfor %}
           {% else %}
-            {% for post in site.posts limit:site.num_posts_visible_initially %}
+            {% for post in pages limit:site.num_posts_visible_initially %}
               <li class="mt0 mb4">
                 <span class="silver db mb1">{{ post.date | date: site.date_format }}</span>
                 <h3 class="ma0">
-                  <a class=" no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <a class=" no-underline" href="{{ post.url | relative_url }}">{% capture current_title %}{{post.title}}{% endcapture %}
+                  {{ current_title | escape }}</a>
                 </h3>
               </li>
             {% endfor %}
@@ -108,7 +117,6 @@
           {% endif %}
           </ul>
         </section>
-      {% endif %}
     </main>
     <script>
       var moreLink = document.querySelector('.js-more')
