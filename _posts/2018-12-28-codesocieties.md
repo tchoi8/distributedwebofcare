@@ -60,8 +60,8 @@ Intersections of Race – Gender – Environment – Disability justice
 - mrkir yourname_zine
 - cd yourname_zine
 - create zine. 
-- touch yourname.txt
-- nano yourname.txt 
+- touch inside.txt
+- nano inside.txt 
 
 
 # Dat Zines 
