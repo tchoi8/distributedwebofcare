@@ -106,7 +106,7 @@ Below your cover, write “Inside:” followed by a hard line break.
 - write your unique key  
 - Give the key, written on a piece of paper to a TA or Taeyoon, who will clone it into the main archive
 - View dat zines
- 
+- Dat clone to Taeyoon's unique hash or use [Beaker Browser](https://beakerbrowser.com/)  
 
 ![](http://sfpc.io/static/img/codesocieties/banner.jpg)
 
