@@ -23,10 +23,15 @@ Compare the examples in tweets hashtagged [#RampFail](https://twitter.com/search
 Now, let’s look at the “accessible” route to the Ace Hotel New York’s boardroom, where the Distributed Web of Care skillshares took place. This route is a prime example of uninspired, compliance-oriented access. This route was clearly designed by an architect to meet code and then never considered again. The route reveals not only the vast limitations of the ADA, but also reflects the architect and building owner’s lack of attention to disabled visitors.   
 
 ![]({{ site.base-url }}/static/images/shannon//04_Shannon.jpg)
+###### Description: A simple, hand-drawn diagram showing my memory of the route from the boardroom to the lobby. Features include: loooooong hallway, multiple unmarked doors, a kitchen area, and the back area of a cafe.
+
 
 While I am extremely grateful for the protections of the ADA, it should never be considered a template for accessibility, as is obvious from the “accessible” route to the boardroom. The route is very indirect — a classic problem with “accessible” routes. This may work okay for some wheelchair users, but presents problems for lots of other people. Imagine someone using a walker. Likely, the the stairs aren’t an option for them but neither is walking a long distance to get to the elevator. 
 
 In addition to it’s logistical failures, the route conveys volumes about the business owner’s understanding of their disabled visitors. The route has no signage and goes through many back-of-house areas. There is nothing about the route that communicates that the hotel thought an actual human would travel it, much less a human they want to delight and welcome to their hotel. 
+
+![]({{ site.base-url }}/static/images/shannon//4.5_Shannon.jpg)
+###### Description: Distributed Web of Care Skillshare participants being lead through the Ace Hotel's accessible route.
 
 Access is complex. I went to a talk in 2017 by scholar [Simi Linton](https://www.similinton.com/) where she said access is often “expensive and disruptive.” We are all operating with limited money, time, and capacity to organize, but I am disappointed by how often people and institutions miss opportunities to do better, even if in small ways. 
 
@@ -49,6 +54,7 @@ I created the lounge as a way to highlight the inaccessibility of the exhibition
 The Wassaic Project has a long way to go to becoming an accessible space. As one disabled artist, I am not interested in (nor am I necessarily trained to) help make those changes. There are accessibility consultants who have expertise in all the details of creating an accessible space. But my hope is that *Anti-Stairs Club Lounge* pushes people to recognize that things need to change and that change can come in many forms. 
 
 ![]({{ site.base-url }}/static/images/shannon//07_Shannon.jpg)
+######  Description: On the left side, a screenshot of an Instagram post by @museummammy. The photo is describe in the caption as "two authors who just saw a layout of their first book. the woman in the foreground wears glasses and the woman in the background wears pink sunglasses and is holding up a peace sign. both women are radiating with pride and hope for the future. On the other side, a screenshot of an Instagram post by @mzalopany. The photo is describe in the caption as "a screen shot of me being very impressed by my nephew Harry’s new hat. The hat is a plastic green roof taken from a doll’s house. 
 
 Digital and physical access have interesting parallels. I am currently a resident at [Eyebeam](https://www.eyebeam.org/) where I’ve been thinking about creative ways to write and present [alt-text](https://webaim.org/techniques/alttext/) (image descriptions for blind and low vision people who use screen readers). I want to move alt-text from the realm of compliance to a space of exploration and experimentation. Alt-text has the potential to be a form of poetry, a process where people put care into the way they use language. This project is a starting point for imagining an internet that prioritizes disabled people’s interests, desires, inclusion, and delight. 
 
