@@ -57,11 +57,11 @@ Intersections of Race – Gender – Environment – Disability justice
 
 3. Making your own archive
 - cd .. 
-- mrkir yourname_zine
+- mkdir yourname_zine
 - cd yourname_zine
 - create zine. 
-- touch yourname.txt
-- nano yourname.txt 
+- touch inside.txt
+- nano inside.txt 
 
 
 # Dat Zines 
@@ -106,7 +106,7 @@ Below your cover, write “Inside:” followed by a hard line break.
 - write your unique key  
 - Give the key, written on a piece of paper to a TA or Taeyoon, who will clone it into the main archive
 - View dat zines
- 
+- Dat clone to Taeyoon's unique hash or use [Beaker Browser](https://beakerbrowser.com/)  
 
 ![](http://sfpc.io/static/img/codesocieties/banner.jpg)
 
@@ -117,3 +117,6 @@ SFPC’s [Code Societies](http://sfpc.io/codesocieties-winter-19/), is a winter 
 [Code Soceties complete syllabus](https://github.com/SFPC/codesocieties-winter-19) 
 
 
+### Further Reading on P2P Protocols
+[Dat Prototcol Guide](https://vtduncan.github.io/how-dat-works/#encryption)
+[SSB Protocol Guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
