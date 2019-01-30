@@ -2,7 +2,7 @@
 title: "Accessibility Dreams"
 
 # To set og:image:
-# image: http://sfpc.io/static/img/codesocieties/banner.jpg
+# image: http://distributedweb.care/static/images/shannon/01_Shannon.jpg
 ---
 by Shannon Finnegan, DWC Artist in Residence 
 
