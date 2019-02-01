@@ -73,7 +73,7 @@ I’m hopeful that the ways we approach access as a society will continue to exp
 
 ## Credits
 
-This essay is based on a skillshare by Shannon Finnegan on July 15.2018 at the Ace Hotel New York. It's been edited by [Shira Feldman](http://www.shira-feldman.net/) and published on January 30.ß 2019. 
+This essay is based on a skillshare by Shannon Finnegan on July 15.2018 at the Ace Hotel New York. It's been edited by [Shira Feldman](http://www.shira-feldman.net/) and published on January 30, 2019. 
 
 # About the author: 
 
