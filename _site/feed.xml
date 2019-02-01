@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-01-29T09:20:09-05:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Creative Self Publishing</title><link href="http://localhost:4000/posts/creative-publishing/" rel="alternate" type="text/html" title="Creative Self Publishing" /><published>2019-01-18T00:00:00-05:00</published><updated>2019-01-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/creative-publishing</id><content type="html" xml:base="http://localhost:4000/posts/creative-publishing/">&lt;p&gt;by Cleo Miao, DWC Design Fellow&lt;/p&gt;
 
 &lt;p&gt;I’m an artist working with video, sound, sculpture, and performance. I’m from China and I’m currently based in Boston. A lot of my art plays with the poetics and absurdities of digital tools and culture and tries to make sense of identities and bodies in virtual spaces.&lt;/p&gt;
@@ -101,24 +102,51 @@
   &lt;li&gt;When have you noticed steps being taken toward access in your life? This could be at your job, at events you attend, as you move through the city, in your social circles, etc. Do you have any thoughts about the quality or characteristics of that access?&lt;/li&gt;
   &lt;li&gt;What are some ways we can advocate for access?&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">by Shannon Finnegan</summary></entry><entry><title type="html">DWC &amp;amp; Racial Justice</title><link href="http://localhost:4000/posts/racial-justice/" rel="alternate" type="text/html" title="DWC &amp; Racial Justice" /><published>2019-01-11T00:00:00-05:00</published><updated>2019-01-11T00:00:00-05:00</updated><id>http://localhost:4000/posts/racial-justice</id><content type="html" xml:base="http://localhost:4000/posts/racial-justice/">&lt;p&gt;I consider the internet an environment, a space where limits are imposed upon access just as in physical, built environments. Reflective of the society which we inhabit, discriminatory principles are embedded in this digital space through racist, sexist, and ableist ideologies and exclusionary algorithms. Jeff Chang writes in his &lt;a href=&quot;http://bealright.net/&quot;&gt;recent book&lt;/a&gt;, &lt;em&gt;We Gon’ Be Alright: Notes on Race and Resegregation&lt;/em&gt;, “Segregation is still linked to racial disparities of every kind. Where you live plays a significant role in the quality of food and the quality of education available to you, your ability to get a job, buy a home, and build wealth, the kind of health care you receive and how long you live, and whether you will have anything to pass on to the next generation.” The ability to access online spaces and information can certainly be added to this list. As a disparity unfolds in this digital space, I see a responsibility to intervene in these systems of exclusion, and to build a more equitable web.&lt;/p&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-01-14T04:24:26-08:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Racial Justice in the Distributed Web</title><link href="http://localhost:4000/posts/racial-justice/" rel="alternate" type="text/html" title="Racial Justice in the Distributed Web" /><published>2019-01-11T00:00:00-08:00</published><updated>2019-01-11T00:00:00-08:00</updated><id>http://localhost:4000/posts/racial-justice</id><content type="html" xml:base="http://localhost:4000/posts/racial-justice/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
+>>>>>>> master
 
-&lt;p&gt;There is now a moment and opportunity to develop a different kind of internet, an internet which is more just, diverse and caring. The &lt;a href=&quot;https://hacks.mozilla.org/2018/07/introducing-the-d-web/&quot;&gt;distributed web&lt;/a&gt;, sometimes referred to as the decentralized web, presents an alternative to the centralization of the big five tech companies. Harnessing new protocols like IPFS, Dat and blockchain experiments, the distributed web is a peer-to-peer model, prioritizing collective agency and individual ownership of data and code. Much like its technological infrastructure of autonomous nodes, the development of the distributed web is a collaborative effort, based on the community’s genuine excitement about the do-it-yourself, grassroots approach to rebuilding the web.&lt;/p&gt;
+&lt;p&gt;I consider the internet as an environment, a digital space where limits are imposed upon access just as in physical environments. Reflective of the society which we inhabit, discriminatory principles are embedded in the digital space through racist, sexist, and ableist ideologies and exclusionary algorithms. Jeff Chang writes in his recent book &lt;em&gt;&lt;a href=&quot;http://bealright.net/&quot;&gt;We Gon’ Be Alright: Notes on Race and Resegregation&lt;/a&gt;&lt;/em&gt;, “Segregation is still linked to racial disparities of every kind. Where you live plays a significant role in the quality of food and the quality of education available to you, your ability to get a job, buy a home, and build wealth, the kind of health care you receive and how long you live, and whether you will have anything to pass on to the next generation.” The ability to access online spaces and information can certainly be added to this list. As a disparity unfolds in the digital space, I feel a shared responsibility to intervene in these systems of exclusion, and to build a more equitable web.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://dwc-tchoi8.hashbase.io/&quot;&gt;The Distributed Web of Care&lt;/a&gt; is an art project that engages this moment of technological change through performance, drawing, critical writing and community building to address the inequalities in the internet and the power dynamics within the traditional axis of technological production. Central to this project is the question: “What kind of network do we want for the future?” In redistributing the internet’s keys (literally as unique hashes for data and metaphorically as invitations to access), and infrastructure (the fiber optic cables connecting new and obsolete electronics), there is an opportunity to redistribute power and reconfigure who can code the principles and ideologies of our technologies.&lt;/p&gt;
+&lt;p&gt;There is now a moment and opportunity to develop a different kind of internet, an internet which is more just, diverse and caring. The &lt;a href=&quot;https://hacks.mozilla.org/2018/07/introducing-the-d-web/&quot;&gt;distributed web&lt;/a&gt; presents an alternative to the centralization of the big five tech companies. Similar initiatives are often referred to as the decentralized web. Although they have signficiant semantic and technical differences, I will group them as a family of likeminded projects for this essay. Harnessing new protocols like &lt;a href=&quot;https://datproject.org&quot;&gt;Dat&lt;/a&gt;, &lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt;, &lt;a href=&quot;https://www.scuttlebutt.nz/&quot;&gt;SSB&lt;/a&gt; and various blockchain experiments, the distributed web presents a peer-to-peer model, prioritizing collective agency and individual ownership of data and code. Much like its infrastructure of autonomous nodes, the development of the distributed web is a collaborative effort, based on the community’s genuine excitement about the do-it-yourself, grassroots approach to rebuilding the web.&lt;/p&gt;
 
-&lt;p&gt;The Distributed Web of Care seeks to shift the center of tech culture from corporations to a diverse community of technologists, artists, engineers, and scholars, holding identities across races, genders, privilege, and abilities. If the “new internet” is developed by people of color, women, queer folk, and differently abled people, we can imagine new protocols and networks, untethered by the constraints which have led to these voices to remain excluded. To bring equality to access and equity to ownership of technology, we need to create new narratives of the internet, tools for learning and empowerment, and systems of interdependence among communities.&lt;/p&gt;
+&lt;p&gt;From my limited exposure and engagement with the distributed web communities, the developers and contributors working on the distributed web have not been ethnically or sexually diverse. Most people I interact with in real life and on line have been white or light skinned, cis-gender or male, from or working in the first world countries. This is not anything new. The ‘internet’ as we know today have been developed by white male engineers working in academia and military-industrial complexes. It’s not surprising the protocols and networks, as well as it’s epistemologies and affects are contained in their imaginations. To be more accurate, the internet has not been developed solely by the white male engineers, but the narratives of it’s development have been dominated by the triumphs of white male engineers. To learn about the queer engineers, your can read Jacob Gaboury’s &lt;em&gt;&lt;a href=&quot;http://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/em&gt; and to learn about the female engineers, you can read about Clare L. Evan’s book &lt;em&gt;&lt;a href=&quot;https://www.penguinrandomhouse.com/books/545427/broad-band-by-claire-l-evans/9780735211759/&quot;&gt;Broad Band&lt;/a&gt;&lt;/em&gt;. Things are changing. For example the first &lt;a href=&quot;decentralizedweb.net&quot;&gt;Decentralized Web Summit&lt;/a&gt; organized by the Internet Archive in San Franscisco in the summer of 2018 made explicit efforts to invite people of color, artists and creatives, and those who would not be able to afford to attend an expensive conference. While the sense of unsettling innovations, threats, opportunities were present in the conference, so were the presence of human rights advocates-lawyers, activists-community organizers, artists-storytellers. A space that’s cohabitated by various species will be mutually advantagenous and more sustainable.&lt;/p&gt;
 
-&lt;p&gt;Issues of race, disability, habitat and gender all intersect in the places we live and interact in, whether physical or digital, on the condition of access. Social media and web 2.0 has encouraged a gentrification of the internet, where information is segregated and digital labor commodified. Aria Dean writes in &lt;em&gt;&lt;a href=&quot;https://reallifemag.com/poor-meme-rich-meme/&quot;&gt;Poor Meme, Rich Meme&lt;/a&gt;&lt;/em&gt; about the displacement of capital in the attention economy, in which young creators of memes, most often people of color, rarely get compensated while the tech giants profit from our engagement with these platforms. I see my practise as ‘networking,’ like weaving or knitting, where racial justice is the fundamental building block to examine and connect the intersectionalities of justice and equality.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://distributedwed.care/&quot;&gt;Distributed Web of Care&lt;/a&gt; is an art project that engages this moment of technological change through performance, drawing, critical writing and community building to address the inequalities in the internet and the power dynamics within the traditional axis of technological production. Central to this project is the question: “What kind of network do we want for the future?” In redistributing the internet’s keys (literally as unique hashes for data and metaphorically as invitations to access), and infrastructure (the fiber optic cables connecting new and obsolete electronics), there is an opportunity to redistribute power and reconfigure who can code the principles and ideologies of our technologies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/racialjustice/01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Distributed Web of Care seeks to shift the center of tech culture from corporations to a diverse community of technologists, artists, engineers, and scholars, holding identities across races, genders, privilege, and abilities. If the “new internet” is developed by people of color, women, queer folk, and disabled people, we can imagine new protocols and networks, untethered by the constraints which have led to these voices to remain excluded. To bring equality to access and equity to ownership of technology, we need to create new narratives of the internet, tools for learning and empowerment, and systems of interdependence among communities.&lt;/p&gt;
 
-&lt;p&gt;I remain struck by the &lt;a href=&quot;https://soundcloud.com/bloodorange/do-you-see-my-skin-through-the-flames&quot;&gt;song&lt;/a&gt;, “Do you see my skin through the flames” by artist Blood Orange, Dev Hynes. He writes, “Tasting pain coming from a place of truth, to be another in a messy world to feel like giving in another turn? You wouldn’t listen if I told you so how can I become anyone?” The transformation to become anyone, to surmount being another - or, an Other - necessitates a direct invitation to the spaces marginalized people have been told they can’t be anyone in. Beyond an invitation, artists can also visually intervene in the concept of the Other.&lt;/p&gt;
+&lt;p&gt;Issues of race, disability, habitat and gender all intersect in the places we live and interact in, whether physical or digital, on the condition of access. Social media and web 2.0 has encouraged a gentrification of the internet, where information is segregated and digital labor commodified. Aria Dean writes in &lt;em&gt;&lt;a href=&quot;https://reallifemag.com/poor-meme-rich-meme/&quot;&gt;Poor Meme, Rich Meme&lt;/a&gt;&lt;/em&gt; about the displacement of capital in the attention economy, in which young creators of memes, most often people of color, rarely get compensated while the tech giants profit from our engagement with these platforms. I see my practise as ‘networking,’ like weaving or knitting, where access is the fundamental building block to examine and connect the intersectionalities of race, gender, disability and environment.&lt;/p&gt;
 
-&lt;p&gt;Take for example Roy Decarava, a photographer who was active during the ‘60s and onward. Teju Cole writes about his photography and its use of the commercially available films, optimized for light skin since the majority of consumers were white people preferring to look tan. This bias embedded in the technology of film led to photographs of people of color depicted with skin much darker. DeCarava uses the biased optics against itself, presenting a photograph of Mississippi Freedom Marchers in Washington D.C. in 1963, where the determination in her face is captured by the dark image. Rather than manipulate the photograph to make her skin brighter, DeCarava highlights both the subject’s presence in the photo and the exclusionary principles of the technology.&lt;/p&gt;
+&lt;p&gt;I remain struck by the &lt;a href=&quot;https://soundcloud.com/bloodorange/do-you-see-my-skin-through-the-flames&quot;&gt;song&lt;/a&gt;, &lt;em&gt;“Do you see my skin through the flames”&lt;/em&gt; by artist Blood Orange, Dev Hynes. He sings,
+&lt;br /&gt;
+&lt;br /&gt;
+“Tasting pain coming from a place of truth,
+&lt;br /&gt;
+&lt;br /&gt;
+to be another in a messy world
+&lt;br /&gt;
+to feel like giving in another turn?
+&lt;br /&gt; 
+You wouldn’t listen if I told you
+&lt;br /&gt;
+&lt;br /&gt;
+so how can I become anyone?” 
+&lt;br /&gt;
+&lt;br /&gt;
+People who have been identified as an ‘another,’ marginalized people who carry ‘otherness,’ find inaccessible spaces to be hostile. They are told they can’t be anyone in that space. In order for them to feel welcome there, they need a direct invitation from the people who hold power in that space. In other words, the distributed web developers and organizations need to make active invitations to artists, creatives, policy makers, activists, organizers and those who don’t identify as developers or hold privileges to access education and technology. With a warm welcome, they can visually, sonically, empathetically redefine the distributed web. They may hold a power of queering, cripping, imagining and reverse engineering which can mend the boundaries between code and code of conduct, challenge the definitions and bring together those who saw each other as ‘another’ or the ‘Other.’&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/racialjustice/DeCarava.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Take for example Roy Decarava, a photographer who was active during the ‘60s and onward. In an article &lt;a href=&quot;https://www.nytimes.com/2015/02/22/magazine/a-true-picture-of-black-skin.html&quot;&gt;&lt;em&gt;A True Picture of Black Skin&lt;/em&gt;&lt;/a&gt;, Teju Cole writes about Decarava’s photography and its use of the commercially available films, optimized for light skin since the majority of consumers were white people preferring to look tan. This bias embedded in the technology of film led to photographs of people of color depicted with skin much darker. DeCarava uses the biased optics against itself, presenting a photograph of Mississippi Freedom Marchers in Washington D.C. in 1963, where the determination in her face is captured by the high contrast dark image. Rather than manipulate the photograph to make her skin brighter, or normalizing data, DeCarava makes creative interpretations of both the subject’s presence in the photo and the exclusionary principles of the technology.&lt;/p&gt;
 
-&lt;p&gt;Like the consumer film of the ‘60s, software and protocol can condition reality to appear with bias. What’s urgent about racial justice now is to acknowledge we are not in a post-racial environment. The goal of the Distributed Web of Care is to expand the understanding of ‘code’ and ‘coder’ to a more racially diverse, inclusive and creative definition, building resources and a community invested in a more equitable internet.&lt;/p&gt;</content><author><name></name></author><summary type="html">I consider the internet an environment, a space where limits are imposed upon access just as in physical, built environments. Reflective of the society which we inhabit, discriminatory principles are embedded in this digital space through racist, sexist, and ableist ideologies and exclusionary algorithms. Jeff Chang writes in his recent book, We Gon’ Be Alright: Notes on Race and Resegregation, “Segregation is still linked to racial disparities of every kind. Where you live plays a significant role in the quality of food and the quality of education available to you, your ability to get a job, buy a home, and build wealth, the kind of health care you receive and how long you live, and whether you will have anything to pass on to the next generation.” The ability to access online spaces and information can certainly be added to this list. As a disparity unfolds in this digital space, I see a responsibility to intervene in these systems of exclusion, and to build a more equitable web.</summary></entry><entry><title type="html">Residency at LACA</title><link href="http://localhost:4000/posts/laca/" rel="alternate" type="text/html" title="Residency at LACA" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/posts/laca</id><content type="html" xml:base="http://localhost:4000/posts/laca/">&lt;p&gt;&lt;em&gt;Taeyoon Choi will hold a residency at the &lt;a href=&quot;http://lacarchive.com/taeyoon-choi-residency&quot;&gt;Los Angeles Contemporary Archive&lt;/a&gt; located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/racialjustice/DeCarava.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image Description: Black and white photograph of a young black woman wearing uniform, standing among other black people.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Like the consumer film of the ‘60s, contemporary code condition the reality to appear with biases. Our perceptions are altered by the information we have access to, and our decisions are never independent from the consciousness altering technologies. When a facial detection algorithm categorizes dark skinned person as animals, how is that different from films that render dark skinned person invisible? The most urgent task for anyone concerned with racial justice now is to acknowledge &lt;em&gt;we are not living in a post-racial environment.&lt;/em&gt; The goal of the Distributed Web of Care is to expand the definition of ‘code’ and ‘coder’ to a more racially diverse, inclusive and creative definition, building resources and a community invested in a more equitable internet.&lt;/p&gt;
+
+&lt;p&gt;In the past ten months of the project, I’ve been learning and unlearning from my collaborators: fellows, residents, stewards and students about the web we want. I’m glad to have had oppportunities to work with diverse artists and writers on the project. Many of the essays in this project are not addressing the internet directly. Instead, they explore racism, Feminism, disability theory and arts. It was my intention to &lt;em&gt;fold&lt;/em&gt; cultural criticism with technology criticism, creating a lush garden of epistemologies and a chasm for new definitions. For example, how can we define ‘peer’ from a social practice art perspective, from a community banking perspective and from a peer to peer protocol perspective? When the new distributed web becomes something tangible, it will be a network of various people who are generous with their talent and care. If the current distributed technologies (such as blockchain applications) start from a place of trustlessness, the distributed web of care will start from trustfullness. Let’s imagine a world of trustfullness and care, where protocols work on behalf of those who need the most support. Perhaps it will be an equitable web, an environment where people who associate in multiple racial identities cohabitate in a nurturing ecosystem. Racial justice is connected to all other aspects of justice in our environment. As Nabil Hassein, my co-organizer of &lt;a href=&quot;http://sfpc.io/codeecologies&quot;&gt;Code Ecologies&lt;/a&gt; conference asked “How are all of our relationships?” in &lt;em&gt;&lt;a href=&quot;https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships&quot;&gt;Computing Climate Change and All Our Relationships&lt;/a&gt;&lt;/em&gt;. Race, environment and code (language, math, logic, systems and infrastructure) are connected web of intentions, desires, hopes and needs.  I think of &lt;a href=&quot;http://poeticcomputation.info&quot;&gt;poetic computation&lt;/a&gt;, distributed web and other do-it-yourself low tech alternatives such as &lt;a href=&quot;https://solar.lowtechmagazine.com/about.html&quot;&gt;Low-tech Magazine&lt;/a&gt; as small, honest attempts to create justice in the technological environment and digital space.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;I want to thank everyone who’s expressed their support and interest, especially those who purchased Care T-shirts and Hoodies for fundraising and the &lt;a href=&quot;http://datasociety.org&quot;&gt;Data and Society&lt;/a&gt; for my fellowship. I plan to continue the project in 2019 with various public events in art institutions, conferences and schools. Coming up, I will lead the Accessibility, Disability and Care track at the &lt;a href=&quot;https://day.processing.org/pcd-la-tracks.html&quot;&gt;Processing Community Day&lt;/a&gt; in LA and speak at the Deaf and Disability Futures at the &lt;a href=&quot;http://tangledarts.org/events/cripping-the-arts-2019/&quot;&gt;Cripping the Arts&lt;/a&gt; conference in Toronto in January. I have some more plans for events in NYC this spring along with an open call for fellows to be announced in March, 2019. My &lt;a href=&quot;https://tinyletter.com/tchoi8&quot;&gt;newsletter&lt;/a&gt; maybe the best place to find out the latest information.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Residency at LACA</title><link href="http://localhost:4000/posts/laca/" rel="alternate" type="text/html" title="Residency at LACA" /><published>2018-12-29T00:00:00-08:00</published><updated>2018-12-29T00:00:00-08:00</updated><id>http://localhost:4000/posts/laca</id><content type="html" xml:base="http://localhost:4000/posts/laca/">&lt;p&gt;&lt;em&gt;Taeyoon Choi will hold a residency at the &lt;a href=&quot;http://lacarchive.com/taeyoon-choi-residency&quot;&gt;Los Angeles Contemporary Archive&lt;/a&gt; located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Can we code to care and code carefully? The Distributed Web of Care (DWC) is a research initiative on communication infrastructure, exploring the Distributed Web as a peer-to-peer, alternative web which prioritizes personhood, collective agency and individual ownership of data and code. Initiated by Taeyoon Choi, artist and cofounder of the School for Poetic Computation in NYC,  in collaboration with various artists, writers, technologists and community organizers, DWC imagines distributed networks as a form of interdependence and stewardship, in critical opposition to the network platforms and infrastructures that dominate the world today.&lt;/p&gt;
 
@@ -129,30 +157,7 @@
 &lt;p&gt;&lt;img src=&quot;http://taeyoonchoi.com/wp-content/uploads/2017/02/sign-0640-768x512.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;http://taeyoonchoi.com/wp-content/uploads/2017/02/sign-0631-768x512.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://taeyoonchoi.com/2017/02/sign-making-workshop-la/&quot;&gt;Sign Making Workshop&lt;/a&gt; in 2017&lt;/p&gt;</content><author><name></name></author><summary type="html">Taeyoon Choi will hold a residency at the Los Angeles Contemporary Archive located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.</summary></entry><entry><title type="html">shira test</title><link href="http://localhost:4000/posts/shira/" rel="alternate" type="text/html" title="shira test" /><published>2018-12-28T00:00:00-05:00</published><updated>2018-12-28T00:00:00-05:00</updated><id>http://localhost:4000/posts/shira</id><content type="html" xml:base="http://localhost:4000/posts/shira/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A class at Code Societies Winter 2019 at the School for Poetic Computation in New York City.&lt;/p&gt;
-
-&lt;p&gt;Distributed Web of Care is an initiative to code to care and code carefully. In this class there will engage in three different activities. First, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular technology platforms, focusing on its network infrastructure and terms of services. We will compare them with decentralized alternatives such as &lt;a href=&quot;https://datproject.org&quot;&gt;Dat&lt;/a&gt; Peer to Peer Protocol and &lt;a href=&quot;http://www.scuttlebutt.nz&quot;&gt;Scuttlebutt&lt;/a&gt;. Second, we will take on performative exercises to explore the feeling of being in a network. We will learn to move around in physical space with strings in order to care, not control, each other. Lastly, we will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our code and code of conduct as zines in physical print and data, published with Dat.&lt;/p&gt;
-
-&lt;p&gt;Suggested readings&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://newrepublic.com/article/133889/reboot-world&quot;&gt;Reboot World&lt;/a&gt; by Paul Ford&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.vanityfair.com/culture/2015/01/ray-johnson-art-pranks&quot;&gt;Meet Ray Johnson, the Greatest Artist You’ve Never Heard Of&lt;/a&gt; by Rachel Tashjian&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/&quot;&gt;My website is a shifting house next to a river of knowledge. What could yours be?&lt;/a&gt; by Laurel Schwulst&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/zachmandeville/dat-zine-library&quot;&gt;Dat Zine Library&lt;/a&gt; by Zach Mandeville&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://decentralizedweb.net/distributed-web-of-care/&quot;&gt;Distributed Web of Care&lt;/a&gt; by Taeyoon Choi&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://distributedweb.care/posts/eaw/&quot;&gt;Ethics and Archiving the Web&lt;/a&gt; by Distributed Web of Care&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hyperallergic.com/474137/at-the-new-york-tech-zine-fair-the-digital-and-the-tactile-converge/&quot;&gt;At the New York Tech Zine Fair, the Digital and the Tactile Converge&lt;/a&gt; by Megan N. Liberty&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In class, we will use terminal, git and Dat. Please familiarize yourself with using the terminal. The class is based on &lt;a href=&quot;https://github.com/tchoi8/distributedwebofcare/tree/codesocieties&quot;&gt;a  class&lt;/a&gt; from Summer 2018.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://sfpc.io/static/img/codesocieties/banner.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;code-societies&quot;&gt;Code Societies&lt;/h3&gt;
-&lt;p&gt;SFPC’s &lt;a href=&quot;http://sfpc.io/codesocieties-winter-19/&quot;&gt;Code Societies&lt;/a&gt;, is a winter intensive session organized by Melanie Hoff. Code Societies will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/SFPC/codesocieties-winter-19&quot;&gt;Code Soceties complete syllabus&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Class for Code Societies at SFPC</title><link href="http://localhost:4000/posts/codesocieties/" rel="alternate" type="text/html" title="Class for Code Societies at SFPC" /><published>2018-12-28T00:00:00-05:00</published><updated>2018-12-28T00:00:00-05:00</updated><id>http://localhost:4000/posts/codesocieties</id><content type="html" xml:base="http://localhost:4000/posts/codesocieties/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://taeyoonchoi.com/2017/02/sign-making-workshop-la/&quot;&gt;Sign Making Workshop&lt;/a&gt; in 2017&lt;/p&gt;</content><author><name></name></author><summary type="html">Taeyoon Choi will hold a residency at the Los Angeles Contemporary Archive located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.</summary></entry><entry><title type="html">Class for Code Societies at SFPC</title><link href="http://localhost:4000/posts/codesocieties/" rel="alternate" type="text/html" title="Class for Code Societies at SFPC" /><published>2018-12-28T00:00:00-08:00</published><updated>2018-12-28T00:00:00-08:00</updated><id>http://localhost:4000/posts/codesocieties</id><content type="html" xml:base="http://localhost:4000/posts/codesocieties/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A class at Code Societies Winter 2019 at the School for Poetic Computation in New York City.&lt;/p&gt;
 
@@ -216,11 +221,11 @@
   &lt;li&gt;Making your own archive
     &lt;ul&gt;
       &lt;li&gt;cd ..&lt;/li&gt;
-      &lt;li&gt;mrkir yourname_zine&lt;/li&gt;
+      &lt;li&gt;mkdir yourname_zine&lt;/li&gt;
       &lt;li&gt;cd yourname_zine&lt;/li&gt;
       &lt;li&gt;create zine.&lt;/li&gt;
-      &lt;li&gt;touch yourname.txt&lt;/li&gt;
-      &lt;li&gt;nano yourname.txt&lt;/li&gt;
+      &lt;li&gt;touch inside.txt&lt;/li&gt;
+      &lt;li&gt;nano inside.txt&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
@@ -273,6 +278,7 @@
   &lt;li&gt;write your unique key&lt;/li&gt;
   &lt;li&gt;Give the key, written on a piece of paper to a TA or Taeyoon, who will clone it into the main archive&lt;/li&gt;
   &lt;li&gt;View dat zines&lt;/li&gt;
+  &lt;li&gt;Dat clone to Taeyoon’s unique hash or use &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://sfpc.io/static/img/codesocieties/banner.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -280,7 +286,11 @@
 &lt;h3 id=&quot;code-societies&quot;&gt;Code Societies&lt;/h3&gt;
 &lt;p&gt;SFPC’s &lt;a href=&quot;http://sfpc.io/codesocieties-winter-19/&quot;&gt;Code Societies&lt;/a&gt;, is a winter intensive session organized by Melanie Hoff. Code Societies will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/SFPC/codesocieties-winter-19&quot;&gt;Code Soceties complete syllabus&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Building a Museum 353 Years in the Future</title><link href="http://localhost:4000/posts/ari/" rel="alternate" type="text/html" title="Building a Museum 353 Years in the Future" /><published>2018-12-21T00:00:00-05:00</published><updated>2018-12-21T00:00:00-05:00</updated><id>http://localhost:4000/posts/ari</id><content type="html" xml:base="http://localhost:4000/posts/ari/">&lt;p&gt;by Ari Melenciano, DWC Artist in Residence&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/SFPC/codesocieties-winter-19&quot;&gt;Code Soceties complete syllabus&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading-on-p2p-protocols&quot;&gt;Further Reading on P2P Protocols&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://vtduncan.github.io/how-dat-works/#encryption&quot;&gt;Dat Prototcol Guide&lt;/a&gt;
+&lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;SSB Protocol Guide&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Building a Museum 353 Years in the Future</title><link href="http://localhost:4000/posts/ari/" rel="alternate" type="text/html" title="Building a Museum 353 Years in the Future" /><published>2018-12-21T00:00:00-08:00</published><updated>2018-12-21T00:00:00-08:00</updated><id>http://localhost:4000/posts/ari</id><content type="html" xml:base="http://localhost:4000/posts/ari/">&lt;p&gt;by Ari Melenciano, DWC Artist in Residence&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@AriMelenciano_88366/el-museu-de-afrotopolis-building-a-museum-353-years-in-the-future-1cb9d9f668b8&quot;&gt;Ari’s blog&lt;/a&gt; on July 2, 2018, reposted on December 26, 2018 with permission.&lt;/em&gt;&lt;/p&gt;
 
@@ -510,7 +520,7 @@ Tsige, re-identified as Zen, was a writer, photographer, and film director who e
 
 &lt;p&gt;There will be more &lt;a href=&quot;https://distributedweb.care/posts/skillshares/&quot;&gt;skillshares&lt;/a&gt; with other Artists in Residence in July and &lt;strong&gt;&lt;a href=&quot;https://distributedweb.care/posts/party/&quot;&gt;The Distributed Web of Care Party&lt;/a&gt;&lt;/strong&gt; will be held at the Liberty Hall at the Ace Hotel New York on July 29th from 3–7pm.&lt;/p&gt;
 
-&lt;p&gt;Ari Melenciano is a Brooklyn-based interdisciplinary artist, designer, creative technologist and activist. She recently graduated from NYU’s Interactive Telecommunications Graduate Program (ITP) and will be returning to NYU ITP to be a researcher — focusing on imaginative uses of technology, digital carceral infrastructure, archiving Blackness in new media, and digital activism efforts. Learn more about her work at &lt;a href=&quot;http://www.ariciano.com/&quot;&gt;www.ariciano.com.&lt;/a&gt; She can also be found on twitter (&lt;a href=&quot;https://twitter.com/aricianoo&quot;&gt;@ aricianoo&lt;/a&gt;) and instagram (&lt;a href=&quot;https://www.instagram.com/ariciano/&quot;&gt;@ ariciano&lt;/a&gt;).&lt;/p&gt;</content><author><name></name></author><summary type="html">by Ari Melenciano, DWC Artist in Residence</summary></entry><entry><title type="html">Finding Intimacy within Black Feminist Criticism</title><link href="http://localhost:4000/posts/findingintimacy/" rel="alternate" type="text/html" title="Finding Intimacy within Black Feminist Criticism " /><published>2018-09-11T00:00:00-04:00</published><updated>2018-09-11T00:00:00-04:00</updated><id>http://localhost:4000/posts/findingintimacy</id><content type="html" xml:base="http://localhost:4000/posts/findingintimacy/">&lt;p&gt;by Jessica Lynne, DWC Arist In Residence&lt;/p&gt;
+&lt;p&gt;Ari Melenciano is a Brooklyn-based interdisciplinary artist, designer, creative technologist and activist. She recently graduated from NYU’s Interactive Telecommunications Graduate Program (ITP) and will be returning to NYU ITP to be a researcher — focusing on imaginative uses of technology, digital carceral infrastructure, archiving Blackness in new media, and digital activism efforts. Learn more about her work at &lt;a href=&quot;http://www.ariciano.com/&quot;&gt;www.ariciano.com.&lt;/a&gt; She can also be found on twitter (&lt;a href=&quot;https://twitter.com/aricianoo&quot;&gt;@ aricianoo&lt;/a&gt;) and instagram (&lt;a href=&quot;https://www.instagram.com/ariciano/&quot;&gt;@ ariciano&lt;/a&gt;).&lt;/p&gt;</content><author><name></name></author><summary type="html">by Ari Melenciano, DWC Artist in Residence</summary></entry><entry><title type="html">Finding Intimacy within Black Feminist Criticism</title><link href="http://localhost:4000/posts/findingintimacy/" rel="alternate" type="text/html" title="Finding Intimacy within Black Feminist Criticism " /><published>2018-09-11T00:00:00-07:00</published><updated>2018-09-11T00:00:00-07:00</updated><id>http://localhost:4000/posts/findingintimacy</id><content type="html" xml:base="http://localhost:4000/posts/findingintimacy/">&lt;p&gt;by Jessica Lynne, DWC Arist In Residence&lt;/p&gt;
 
 &lt;p&gt;(an evolving statement first commissioned by the &lt;a href=&quot;https://www.artsinmilwaukee.org/&quot;&gt;Milwaukee Artist Resource Network&lt;/a&gt; in 2017)&lt;/p&gt;
 
@@ -555,7 +565,7 @@ Tsige, re-identified as Zen, was a writer, photographer, and film director who e
 &lt;p&gt;&lt;strong&gt;About the Author:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/air/jess.png&quot; alt=&quot;&quot; /&gt;
-&lt;a href=&quot;http://jessicalynne.co&quot;&gt;Jessica Lynne&lt;/a&gt; is a Brooklyn-based writer and art critic. She is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. Find her online at @lynne_bias.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Jessica Lynne, DWC Arist In Residence</summary></entry><entry><title type="html">still stuck with words</title><link href="http://localhost:4000/posts/stillstuckwithwords/" rel="alternate" type="text/html" title="still stuck with words" /><published>2018-07-26T00:00:00-04:00</published><updated>2018-07-26T00:00:00-04:00</updated><id>http://localhost:4000/posts/stillstuckwithwords</id><content type="html" xml:base="http://localhost:4000/posts/stillstuckwithwords/">&lt;p&gt;by Stephanie Gray, DWC Arist In Residence&lt;/p&gt;
+&lt;a href=&quot;http://jessicalynne.co&quot;&gt;Jessica Lynne&lt;/a&gt; is a Brooklyn-based writer and art critic. She is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. Find her online at @lynne_bias.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Jessica Lynne, DWC Arist In Residence</summary></entry><entry><title type="html">still stuck with words</title><link href="http://localhost:4000/posts/stillstuckwithwords/" rel="alternate" type="text/html" title="still stuck with words" /><published>2018-07-26T00:00:00-07:00</published><updated>2018-07-26T00:00:00-07:00</updated><id>http://localhost:4000/posts/stillstuckwithwords</id><content type="html" xml:base="http://localhost:4000/posts/stillstuckwithwords/">&lt;p&gt;by Stephanie Gray, DWC Arist In Residence&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;What does it mean to be “stuck with words” or “reading between the lines” or “not reading into anything” as a hearing impaired person? Read on for a poetic exploration…&lt;/em&gt;&lt;/p&gt;
 
@@ -707,7 +717,7 @@ I think I’m surprised by such a question. I think the cumulative effect does d
 
 &lt;p&gt;&lt;img src=&quot;/static/images/air/stephanie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.poetryfoundation.org/poets/stephanie-gray&quot;&gt;Stephanie Gray&lt;/a&gt; is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, &lt;em&gt;Shorthand and Electric Language Stars&lt;/em&gt; (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including &lt;em&gt;Under the Surface&lt;/em&gt; (above/ground press, 2018) and &lt;em&gt;A Country Road Going Back in Your Direction&lt;/em&gt; (Argos Books, 2015). Work also appears in the anthology &lt;em&gt;How Lovely the Ruins&lt;/em&gt; (Spiegel &amp;amp; Grau/Random House, 2017).&lt;/p&gt;</content><author><name></name></author><summary type="html">by Stephanie Gray, DWC Arist In Residence</summary></entry><entry><title type="html">Distributed Dance Floor</title><link href="http://localhost:4000/posts/distributeddancefloor/" rel="alternate" type="text/html" title="Distributed Dance Floor" /><published>2018-07-26T00:00:00-04:00</published><updated>2018-07-26T00:00:00-04:00</updated><id>http://localhost:4000/posts/distributeddancefloor</id><content type="html" xml:base="http://localhost:4000/posts/distributeddancefloor/">&lt;p&gt;by Lai Yi Ohlsen, DWC Steward&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.poetryfoundation.org/poets/stephanie-gray&quot;&gt;Stephanie Gray&lt;/a&gt; is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, &lt;em&gt;Shorthand and Electric Language Stars&lt;/em&gt; (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including &lt;em&gt;Under the Surface&lt;/em&gt; (above/ground press, 2018) and &lt;em&gt;A Country Road Going Back in Your Direction&lt;/em&gt; (Argos Books, 2015). Work also appears in the anthology &lt;em&gt;How Lovely the Ruins&lt;/em&gt; (Spiegel &amp;amp; Grau/Random House, 2017).&lt;/p&gt;</content><author><name></name></author><summary type="html">by Stephanie Gray, DWC Arist In Residence</summary></entry><entry><title type="html">Distributed Dance Floor</title><link href="http://localhost:4000/posts/distributeddancefloor/" rel="alternate" type="text/html" title="Distributed Dance Floor" /><published>2018-07-26T00:00:00-07:00</published><updated>2018-07-26T00:00:00-07:00</updated><id>http://localhost:4000/posts/distributeddancefloor</id><content type="html" xml:base="http://localhost:4000/posts/distributeddancefloor/">&lt;p&gt;by Lai Yi Ohlsen, DWC Steward&lt;/p&gt;
 
 &lt;p&gt;The dance floor is a network. Bodies are nodes and the connections between them are edges.&lt;/p&gt;
 
@@ -737,4 +747,192 @@ I think I’m surprised by such a question. I think the cumulative effect does d
 
 &lt;p&gt;&lt;strong&gt;About the Author:&lt;/strong&gt;&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;&lt;a href=&quot;http://laiyiohlsen.com&quot;&gt;Lai Yi Ohlsen&lt;/a&gt; is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Lai Yi Ohlsen, DWC Steward</summary></entry></feed>
+=======
+&lt;p&gt;&lt;a href=&quot;http://laiyiohlsen.com&quot;&gt;Lai Yi Ohlsen&lt;/a&gt; is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Lai Yi Ohlsen, DWC Steward</summary></entry><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-07:00</published><updated>2018-06-27T00:00:00-07:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
+
+&lt;p&gt;Through an intimate interactive event, participants and artists will develop a dialog related to their practices by performing acts of collective caring, discussion and documentation.
+As a participant in the skillshare, all we require is an open mind and desire to share together. We will be experimenting with different modes of documentation throughout the events. &lt;strong&gt;We will also send out a small set of readings and ask you to generate a few questions based on those readings so we can come together with an informed baseline.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There will be four skillshares held between July 1st and July 22nd, culminating in a vibrant party in July 29th where the fellows and stewards from the Distributed Web of Care project will present their work on both tools and theory on a web of care, not control. Space is limited for the skillshare event. Please &lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;RSVP here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;stephanie-gray-and-eliza-chandler&quot;&gt;Stephanie Gray and Eliza Chandler&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Date: 07.22.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare4_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.poetryfoundation.org/poets/stephanie-gray&quot;&gt;Stephanie Gray&lt;/a&gt; is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, Shorthand and Electric Language Stars (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including Under the Surface (above/ground press, 2018) and A Country Road Going Back in Your Direction (Argos Books, 2015). Work also appears in the anthology How Lovely the Ruins (Spiegel &amp;amp; Grau/Random House, 2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare4_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eliza Chandler, an Assistant Professor at the School of Disability Studies at Ryerson University, aims to bring together the arts, disability studies, and justice-based activism. She teaches courses on disability arts and culture, disability rights and justice, and community-based social activism; she is the co-director of the project Bodies in Translation: Activist Art, Technology, and Access to Life, a many-partnered grant supports the development of activist art (including Deaf &amp;amp; disability art, fat art, and Indigenous art) and interrogates its connection to the enactment of social justice. Chandler is a practicing curator, a board member of the Ontario Arts Council, and the co-founder of Creative Users Projects, a community arts/activist initiative that supports crip artists through artistic development and works to create a more accessible arts culture. Prior to these roles, she was the founding artistic director of Tangled Art Gallery, a gallery in Toronto that showcases disability arts and advances accessible curatorial practices. Chandler regularly give lectures, interviews, and consultations related to disability arts, inclusive curatorial practices, and disability politics in Canada.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;Free, RSVP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All Events - Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The space is accessible via service elevator. Please note your access needs in the RSVP form and ask the front desk for assistance. 7.22 skillshare will have a Communication Access Realtime Translation (CART) service&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;past-events&quot;&gt;Past Events&lt;/h1&gt;
+
+&lt;h1 id=&quot;1-ari-melenciano&quot;&gt;#1 Ari Melenciano&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshares1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date: 07.01.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ariciano.com/&quot;&gt;Ari Melenciano&lt;/a&gt; is a multidisciplinary artist, designer, creative technologist and DJ. She is a master’s candidate at NYU’s ITP department, practicing at the intersection of experiential design and emerging technologies via creative computation, human-computer interaction, engineering and design. She is the creator and producer of new media arts, culture and technology festival Afrotectopia, as well as the creator of Justice Factory, a data visualization platform that highlights social justice issues and human rights violations.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@AriMelenciano_88366/el-museu-de-afrotopolis-building-a-museum-353-years-in-the-future-1cb9d9f668b8&quot;&gt;Building a Museum 353 Years in the Future&lt;/a&gt; by Ari about her residency.&lt;/p&gt;
+
+&lt;h1 id=&quot;2-mindy-seu&quot;&gt;#2 Mindy Seu&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshares2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date: 07.08.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mindyseu.com/&quot;&gt;Mindy Seu&lt;/a&gt; is a designer and educator. She is currently a student in Harvard’s Graduate School of Design, where her research focuses on digital archives UI and methods of digitization. Formerly, she was a designer at 2x4 and instructor for Interactive 2 at California College of the Arts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/workshops.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The skillshare will also include the following short workshops presented by stewards of the DWC project:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.laiyiohlsen.com/&quot;&gt;&lt;strong&gt;Lai Yi Ohlsen&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Peer to peer protocols require trust and the negotiation of shared resources - so does the dance floor. Webs of moving bodies and sound are an ideal environment to understand how we can, and already do, prioritize care over control within a system. With a good enough groove, peers work together without ever skipping a beat. ‘100 Scores’ by Lai Yi Ohlsen is a repository of improvisational movement scores based upon computer science algorithms. For DWC she will present scores related to the potential of the distributed, peer to peer web.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://julianacastro.co/&quot;&gt;&lt;strong&gt;Juliana Castro&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Meme culture and fast-paced social networking have encouraged the use of copyrighted resources without proper attribution. This talk will highlight the benefits of open-access, show a selection of available public domain and Creative Commons archives, and address best practices and fair use uses of institutional repositories and other people’s work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zachcoble.com/&quot;&gt;&lt;strong&gt;Zach Coble&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Participants will engage in a conversation about gathering and using data from the web for social good. The steward will briefly show recent projects and we will use these examples to create a dialog about the legal and ethical issues involved in such projects.&lt;/p&gt;
+
+&lt;h1 id=&quot;3-jessia-lynne-and-shannon-finnegan&quot;&gt;#3 Jessia Lynne and Shannon Finnegan&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Date: 07.15.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare3_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.jessicalynne.co/&quot;&gt;Jessica Lynne&lt;/a&gt; is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. She received her B.A. in Africana Studies from NYU and has been awarded residencies and fellowships from Art21 and The Cue Foundation, Callaloo, and The Center for Book Arts. Her writing has appeared in publications such as Aperture, Art in America, The Brooklyn Rail, and Kinfolk. She was a Winter 2018 Columnist-in-Residence at &lt;a href=&quot;https://openspace.sfmoma.org/&quot;&gt;Open Space&lt;/a&gt;, SFMoMA’s interdisciplinary publishing platform, and is co-editor, alongside Sharon Louden, of the forthcoming book, The Innovators: Defining Change in the Art World, that will be published by Intellect Ltd. and The University of Chicago Press.&lt;/p&gt;
+
+&lt;p&gt;She is a board member of Black Art Futures Fund and The Organization of Women Writers of Africa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare3_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://shannonfinnegan.com/&quot;&gt;Shannon Finnegan&lt;/a&gt; is an artist whose practice involves a mix of drawing, design and writing. Her current motto is “Reinventing my strangeness as an art form that only I am the perfect practitioner of.” She’s created Anti-Stairs Club Lounge, Disability History PSA, and other projects about disability culture and access.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;Free, RSVP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;We are planning to offer skillshares and party in July in partnership with the Ace Hotel New York. We will announce details about workshops and events via Taeyoon Choi’s &lt;a href=&quot;http://tinyletter.com/tchoi8&quot;&gt;mailing list&lt;/a&gt;. Please join us for the &lt;a href=&quot;https://dwc-tchoi8.hashbase.io/posts/party/&quot;&gt;Distributed Web of Care Party&lt;/a&gt; on July 29th.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Web of Care presents a skillshare series called Peers in Practice. This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.</summary></entry><entry><title type="html">Distributed Web of Care Party</title><link href="http://localhost:4000/posts/party/" rel="alternate" type="text/html" title="Distributed Web of Care Party " /><published>2018-06-27T00:00:00-07:00</published><updated>2018-06-27T00:00:00-07:00</updated><id>http://localhost:4000/posts/party</id><content type="html" xml:base="http://localhost:4000/posts/party/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IDbdPNCSx34?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/party/party.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;July 29th, 5-9pm, 2018&lt;/li&gt;
+  &lt;li&gt;Liberty Hall at Ace Hotel New York, 20 W 29th St, New York, NY 10001&lt;/li&gt;
+  &lt;li&gt;Free with &lt;a href=&quot;https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721&quot;&gt;RSVP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The party space is wheelchair accessible via service elevator. Please inquire about access needs. taeyoonstudio@gmail.com&lt;/li&gt;
+  &lt;li&gt;Cash bar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Distributed Web of Care Party will be held at the Liberty Hall at Ace Hotel New York on July 29th from 5-9pm. The party will be a collection of talks, presentations, interactions and music to illustrate the collective power of caring.&lt;/p&gt;
+
+&lt;p&gt;The team of Fellows, Stewards and Artists in residence will all contribute toward sharing their knowledge and expertise in a series of talks concerning the distributed web. These talks will be both technical and abstract, but grounded in the project’s mission:&lt;/p&gt;
+
+&lt;p&gt;“Care, in contrast to cure, is a form of stewardship between people who support each other in communication, action, and social engagement. It is actualized by extending one’s mindfulness of another person’s dignity and feelings, while respecting their independence.”&lt;/p&gt;
+
+&lt;p&gt;After the talks, &lt;a href=&quot;https://www.laiyiohlsen.com/&quot;&gt;Lai Yi Ohlsen&lt;/a&gt; will lead a distributed dance. &lt;a href=&quot;http://laurelschwulst.com/&quot;&gt;Laurel Schwulst&lt;/a&gt; and &lt;a href=&quot;http://cdxs.ist/&quot;&gt;Becca Abbe&lt;/a&gt; will be doing live drawing with code.&lt;/p&gt;
+
+&lt;p&gt;The event will progress into dancing and socializing with music curated by the multi-instrumental artist and DJ &lt;a href=&quot;http://stud1nt.nyc/&quot;&gt;stud1nt&lt;/a&gt; of Discwoman.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/party/unnamed.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;stud1nt is a multi-disciplinary sound artist from Queens. Their work sits at the intersection of improvisation and meticulous approaches to composition. A member of the collectives #KUNQ and Discwoman, their work is especially attentive to queerness, the body, sound, and space. stud1nt has given workshops on creative production at Vassar College, the New School, Recess Art, Pioneer Works, Moogfest, and Ableton Loop.&lt;/p&gt;
+
+&lt;p&gt;The timing of the event is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;5:00-6:30pm
+    &lt;ul&gt;
+      &lt;li&gt;Talks and Discussion about care, distribution and publishing in the context of the distributed web by Taeyoon, Callil and Cleo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;6:30-7:00pm
+    &lt;ul&gt;
+      &lt;li&gt;Collective Poetry and Distribution with &lt;a href=&quot;http://distributedweb.care/posts/skillshares/&quot;&gt;Distributed Web of Care Team&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;7:00-7:30pm
+    &lt;ul&gt;
+      &lt;li&gt;Movement as Peers with &lt;a href=&quot;https://www.laiyiohlsen.com/&quot;&gt;Lai Yi Ohlsen&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Music with &lt;a href=&quot;http://stud1nt.nyc/&quot;&gt;Stud1nt&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;7:30-8:00pm
+    &lt;ul&gt;
+      &lt;li&gt;Live Code Cameras with &lt;a href=&quot;http://laurelschwulst.com/&quot;&gt;Laurel Schwulst&lt;/a&gt; and &lt;a href=&quot;http://cdxs.ist/&quot;&gt;Becca Abbe&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Music with &lt;a href=&quot;http://stud1nt.nyc/&quot;&gt;Stud1nt&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;8:00-9:00pm
+    &lt;ul&gt;
+      &lt;li&gt;Hang out!&lt;/li&gt;
+      &lt;li&gt;Music with &lt;a href=&quot;http://stud1nt.nyc/&quot;&gt;Stud1nt&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The party will be governed by the DWC &lt;a href=&quot;https://dwc-tchoi8.hashbase.io/posts/coc/&quot;&gt;code of conduct&lt;/a&gt;. It is open to the public and free with &lt;a href=&quot;https://www.eventbrite.com/e/distributed-web-of-care-party-tickets-47220143721&quot;&gt;RSVP&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Communities and new infrastructures</title><link href="http://localhost:4000/posts/cleo/" rel="alternate" type="text/html" title="Communities and new infrastructures" /><published>2018-06-27T00:00:00-07:00</published><updated>2018-06-27T00:00:00-07:00</updated><id>http://localhost:4000/posts/cleo</id><content type="html" xml:base="http://localhost:4000/posts/cleo/">&lt;p&gt;&lt;img src=&quot;/static/images/fellows/cleoimg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;by Cleo, DWC fellow&lt;/p&gt;
+
+&lt;p&gt;Some things I am thinking about:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the role and importance of communities in the access of information&lt;/li&gt;
+  &lt;li&gt;communications through communities vs. information curated by platforms and medias&lt;/li&gt;
+  &lt;li&gt;offline communities vs. online communities&lt;/li&gt;
+  &lt;li&gt;locality of the net&lt;/li&gt;
+  &lt;li&gt;integration of the offline and the online&lt;/li&gt;
+  &lt;li&gt;ownership of information and related power structures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Google exited China when I was just about to enter middle school in a small city somewhat close to Shanghai. That was around the time when I really started using the Internet. I was made aware of the importance of the freedom to access information in the digital age and started to see technology as an alternative possibility for that freedom. When censorship is done in the analog world (an example would be books banned from circulation in any market or library), the information being controlled is very hard to access. However, in the case of digital censorship, the counteraction can be easier and safer. Tools such as VPNs provide easy access to locally censored information while offering anonymity to users.&lt;/p&gt;
+
+&lt;p&gt;At the same time, these technologies can be alienating and exclusive. For most of the general public with an Internet connection, the loss of Google did not have a substantial effect. But because of the government’s central control over digital information and the public’s need for open knowledge and discourse, the Internet in China grew into a very different thing then in most of the western countries. Even though there is a bootleg version of Facebook that was popular very briefly, it was forgotten quickly. There seem to be somewhat less of an interest in creating a version of real identities and connections virtually, and more of one in creating and discovering new communities through channels of online communication. Forums and chat groups became an important part of online activities for a lot of people. These forums and private chat groups are still monitored and censored by the government. After sensitive topics and keywords come up in a group chat, the chat group would usually get deleted. Even then, people were able to come up with alternative terms that address the same subjects without hitting the keyword detections. These forums therefore are becoming important channels for knowledge and discourse.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I moved to the states for college. I went to a computer engineering program that was very competitive. Having gone into the program because of a fascination towards the poetics of computing, I soon became very disillusioned. My peers were the people who wanted to build digital infrastructures, but many of them fail to think about the communities being affected by the infrastructures outside of being either users or a part of the datasets. Everyone was concerned with efficiency and marketing, but few thought about the ethics of coding and algorithmic bias. During my first months in the program, I was told by almost every professor for the engineering classes I took that the program would be hard, but the financial payout was promising. I became skeptical of the approach taken by core engineering programs and the disconnect between the general social science classes and the technical classes.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I was introduced to experimental music and performance art and started going to shows in living rooms, basements, and alternative venues. Around the same time I moved to Boston and transferred into a studio art program. I started booking and running shows as well as performing in them. I was excited by the ecology of these subculture communities and the focus on ideals and inclusivity. This extends to the larger creative community, but is unique in its dependency on a gift economy. A small group of people actively participate through creative endeavors, contribute through small donations, and usually both. This community thrives on the idea of supporting and caring for each other. However, communication is largely based on proprietary platforms that can limit the freedom of such communication while contradicting (or at least poorly reflecting) the idea of caring.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/fellows/cleoprj.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Jennifer Vanilla performing at Becoming Posthuman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Becoming Posthuman was an &lt;a href=&quot;https://www.facebook.com/events/174088576497818/&quot;&gt;event&lt;/a&gt; I co-curated last year. I was trying to use the model of DIY underground shows on a new media art show. My own &lt;a href=&quot;https://www.cleomiao.info/archive/&quot;&gt;art practice&lt;/a&gt; involves playful investigation of technology both critically and romantically. Recently I have been &lt;a href=&quot;https://docs.google.com/document/d/1OQQ7lqCsw5mOKZOpSKZjapr4D6AtghZNhZgfCs_jTYc/edit&quot;&gt;thinking&lt;/a&gt; a lot about how art like mine can exist within the larger art world. Is it necessary to adapt to the old institution and create tangible artifacts that a gallery can sell, or is it more important to establish new institutions?&lt;/p&gt;
+
+&lt;p&gt;Traditional functions of art spaces see art as merchandise, and unavoidably have to consider the function of art for its patronage. Most of the art being made will not enter art museums. The end result of most art should not be as decoration in a private home or in an inconsequential semi-public space (such as hotels and offices).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The first thing that has to be conserved or even created is a situation where art can be seen and accessed. Why is this so? Because art is not art if it cannot be seen.- Hito Steyerl.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A new structure for creative communities and the art world at large should consider a redistribution of power that is conscious of the post-internet context and what that means for the process of learning, creating, and dispersion. The distinction between the artists and the curator becomes vague. Traditionally, the curator represents the institutions. As art and curation integrate with each other, maybe it is time to think about a collective approach / strategy as a more sustainable model for creative communities.&lt;/p&gt;
+
+&lt;p&gt;I was introduced to the idea of distributed systems by a friend who was looking into creating a mesh network in areas in Boston. Mesh networks immediately became interesting to me. It creates an ecosystem that promotes communities that are both offline and online. It allows for offline local communities to expand to a local “online” and vice versa. This is interesting in that it strengthens and broadens offline communities by creating another channel for communication, while adding an element of caring to digital connections. A similar case can be made for a distributed internet. Besides the expansion of communities, it also gives each member more access and control over information.&lt;/p&gt;
+
+&lt;p&gt;One important question that was brought up during a conversation about potential mesh networks in Boston is how to make people want to use it. How do we make a tool accessible to anyone, and not just the technologists?&lt;/p&gt;
+
+&lt;p&gt;This is something that has to be considered. These distributed systems are exciting new infrastructures that can subvert power structures and give the power of data and information back to the people. In developing these new infrastructures, we need to build with care and consideration of communities.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+>>>>>>> master
