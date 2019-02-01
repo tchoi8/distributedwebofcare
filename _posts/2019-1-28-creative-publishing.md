@@ -2,7 +2,7 @@
 title: "Creative Self Publishing"
 
 # To set og:image:
-# image: http://sfpc.io/static/img/codesocieties/banner.jpg
+# image: https://lh5.googleusercontent.com/SUp55V87tpHEUE_lT2_HNI7g9-qD7mMrSoREXNtIKk5Ejrk7chW9BC2G1TzPa1EVPh5R76_uboVrMfKSPHGJ0VhumLERWfxzIrvIi56q0L4WutTeV5MJ2OWTkzUelWQNArZOXBTEswI
 ---
 by Cleo Miao, DWC Design Fellow
 
@@ -20,7 +20,7 @@ Here he’s talking about print media, but the same idea can be expanded to othe
 
 We started a [collective](http://mediarins.xyz) in Boston with people doing digital, electronic, and experimental music and art. The whole collective is very much based around the DIY ethos. Existing in a community of people making and publishing from their living rooms and bedrooms with computers and tape machines, we took a very similar approach. But we didn’t really want to release our music on cassettes since we’re very drawn to the digital hi-fi, and we didn’t want the albums to only have music. We ended up making these flash drive releases that camouflage as cassettes, and on the flash drives are songs, digital paintings, snippets of codes, etc. 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_79687CB86C77D254B48099B8745A2C944A666AB5AAF145D484B04439E49198F0_1546716577029_Screen+Shot+2019-01-05+at+2.29.18+PM.png)
+![]({{ site.base-url }}/static/images/fellows/cleo3.png)
 
 One of the biggest challenges of publishing through platforms is that it becomes something that limits the formats for creative publishing. The platforms are taking care of every aspect of creative publishing which ends up leaving the content creators very little freedom when they want to go beyond the formats supported by the platforms. When we released the albums on the internet through platforms such as Bandcamp and Soundcloud, we’re no longer able to publish everything that was included in the flash drives and the albums had to be reduced to only stereo music. 
 
@@ -28,7 +28,8 @@ Newer digital technologies such as the distributed web, create room for a new DI
 
 The first thing I ever made on the distributed web was a [website](http://dat://a57302f3cb4dc9bf8176e08e0470fd3ba805e0a57d11c5a792f8df237fa44e90/) that tracks all active users’ cursor information. This was a very liberating experience because I didn’t have to go through all the hoops of getting a URL and trying to find somewhere to host it because it was hosted straight from my computer. And it was a very fun experience of being able to see actual connections that I’m making with other people that are also online at the same time.
 
-![](https://lh4.googleusercontent.com/HkZPmJCbTe2WH5N2YLtBbwM4dbJaMoO0DdWvoAeBReoneqplYaBP-uBoIGwWYT_hdswdLTl5tZwaKwcrq5S_yHW7i0LX6pk_Eni4SPEXTELjVIabYTf6TN8TmobLnRdFCUONxyL5C-w)
+
+![]({{ site.base-url }}/static/images/fellows/cursors.gif)
 
 The freedom to publish and remix is something that’s very important for creative people today. Sampling collages and found footages are such a big part of what a lot of people are creating, and also in terms of making zines. The history of making zines is copying from a lot of other things because you have a scanner, a printer, and access to information. You want to curate and remix that information and make it your own. However, attribution and history are very important in this aspect of remixing. This is a quote from Aria Dean’s “[Poor Meme Rich Meme](https://reallifemag.com/poor-meme-rich-meme/),” which was mentioned in one of the skillshares. “When we say that the internet extends and exacerbates the same old offline relations, we mean it. In keeping with historical precedent, the cultural and affective labor of black individuals online largely goes unrecognized and un(der)compensated.” 
 
@@ -36,8 +37,19 @@ This is another aspect of the distributed web that I think is very interesting. 
 
 We created activities for every one of the skillshares. The first one was an analog experience of the distributed web, where we created poetry collectively. And in the last one, we created a digital zine that’s based on the distributed web, where everyone created one page of it, and we made it into a letter to the artist. All of the pages are forked from this main page of the zine, and everyone still has authorship to all the pages, so if they ever want to change anything, any of the content, or if they ever want to delete pages, there’s still the control to do that. 
 
-![](https://lh5.googleusercontent.com/SUp55V87tpHEUE_lT2_HNI7g9-qD7mMrSoREXNtIKk5Ejrk7chW9BC2G1TzPa1EVPh5R76_uboVrMfKSPHGJ0VhumLERWfxzIrvIi56q0L4WutTeV5MJ2OWTkzUelWQNArZOXBTEswI)
+
+![]({{ site.base-url }}/static/images/fellows/cleo4.png)
 
 Because of this fascination with digital formats and the physical distribution of digital formats, I made a simple tool called [Dat QR](http://dat://b15e9f30ce83cb0fbc437b980a343e75701f02dd15531542f8d1f850657465e1/), which is a QR code reader and generator for Dat URLs. It de-obscure the very long strings of letters and numbers for Dat addresses. Being able to print out the codes and give something physical to someone else becomes another part of the process of sharing and creating communities. 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_79687CB86C77D254B48099B8745A2C944A666AB5AAF145D484B04439E49198F0_1546721402523_Screen+Shot+2019-01-05+at+3.43.36+PM.png)
+
+![]({{ site.base-url }}/static/images/fellows/cleo5.png)
+
+## About the Author: 
+![]({{ site.base-url }}/static/images/fellows/cleo.png)
+
+[cleo (yuekai) miao](http://www.cleomiao.info/
+) is a Chinese artist currently based in boston, MA. She is an anti-disciplinary media artist and works to make sense of identities and bodies in virtual spaces. She plays with both the poetics and the absurdity of digital tools and culture, and considers the reality that is configured and mediated by images. Through playful investigation, cleo questions and spectates the role and affect of photographic images and mediums. Having grown up with the Chinese Internet, she is passionate about new possibilities of freedom and democracy offered by technology. However, at the same time she is wary of the systematic and algorithmic oppression and violence supported by unethical or inconsiderate technological infrastructures.
+
+
+
