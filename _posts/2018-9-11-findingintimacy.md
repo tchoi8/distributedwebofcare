@@ -1,6 +1,7 @@
 ---
 title: "Finding Intimacy within Black Feminist Criticism "
 published: true
+layout: post
 
 # To set og:image:
 # image: http://distributedweb.care/static/images/air/jesslynne.jpg

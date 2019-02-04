@@ -1,6 +1,7 @@
 ---
 title: "still stuck with words"
 published: true
+layout: post
 
 # To set og:image:
 # image: ...

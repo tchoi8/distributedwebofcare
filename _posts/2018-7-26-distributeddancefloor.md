@@ -1,6 +1,7 @@
 ---
 title: "Distributed Dance Floor"
 published: true
+layout: post
 
 # To set og:image:
 # image: http://distributedweb.care/static/images/party/DDFDrawings.jpeg
