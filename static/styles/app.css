@@ -1,7 +1,7 @@
-@import "tachyons";
+@import "./tachyons.css";
 /* https://github.com/jneen/rouge/pull/804 */
 @import "./ayu.css";
-@import "material-colors/dist/colors.css";
+@import "./material-colors.css";
 
 html {
   font-size: 16px;

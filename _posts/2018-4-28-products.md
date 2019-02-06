@@ -1,5 +1,6 @@
 ---
 title: "Care shirt and hoodie"
+layout: post
 
 # To set og:image:
 # image: ...

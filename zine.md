@@ -1,5 +1,6 @@
 ---
 title: "zine for skillshare 4"
+layout: post
 
 # To set og:image:
 # image: ...

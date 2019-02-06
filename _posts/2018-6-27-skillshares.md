@@ -1,5 +1,6 @@
 ---
 title: "Skillshares: Peers in Practice"
+layout: post
 
 # To set og:image:
 # image: ...

@@ -1,5 +1,6 @@
 ---
 title: "Announcing Summer 2018 Fellows"
+layout: post
 
 # To set og:image:
 # image: ...

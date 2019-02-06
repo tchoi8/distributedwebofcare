@@ -1,5 +1,6 @@
 ---
 title: "Class for Code Societies at SFPC"
+layout: post
 
 # To set og:image:
 # image: http://sfpc.io/static/img/codesocieties/banner.jpg
