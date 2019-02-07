@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-01T11:31:46-05:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Accessibility Dreams</title><link href="http://localhost:4000/posts/accessibility-dreams/" rel="alternate" type="text/html" title="Accessibility Dreams" /><published>2019-01-29T00:00:00-05:00</published><updated>2019-01-29T00:00:00-05:00</updated><id>http://localhost:4000/posts/accessibility-dreams</id><content type="html" xml:base="http://localhost:4000/posts/accessibility-dreams/">&lt;p&gt;by Shannon Finnegan, DWC Artist in Residence&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-07T12:58:15-05:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Making Space in Online Archives</title><link href="http://localhost:4000/posts/mindy/" rel="alternate" type="text/html" title="Making Space in Online Archives" /><published>2019-02-07T00:00:00-05:00</published><updated>2019-02-07T00:00:00-05:00</updated><id>http://localhost:4000/posts/mindy</id><content type="html" xml:base="http://localhost:4000/posts/mindy/">&lt;p&gt;&lt;em&gt;by Mindy Seu&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The following is a condensed transcription of a conversational talk given by the author for the Distributed Web of Care workshop series.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My studio experience as a designer focused on interactive installations. While user experience usually connotes people’s movements through an online interface, the phrase could also apply to engagement with physical installations. There are cues that help people navigate a physical environment with a digital layer. This weaving in and out of physical and digital space — which  all could be considered an interface — is a space that should motivate discursion rather than display.&lt;/p&gt;
+
+&lt;p&gt;This sense of navigation informs how I construct online archives, which I consider a type of activation of a physical site and collection of objects. I would call myself an archival enthusiast, but I’m not a trained archivist, and I would never use the term because it disregards the years of required training. When I first moved to San Francisco, as in all new cities, I sought out used bookstores. Then I fell into a rich library/archival community. While indexes, taxonomy, and categorization have always fascinated me, I was dissatisfied with the use of pre-existing platforms and their navigational structures. Digitized books, regardless of their form or content, were seemingly dumped into templates that used skeuomorphic design (like page turns) and poor UX (like clicking through hundreds of pages).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/01_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: L: Jedi Archives, Star Wars: Episode 2, Attack of the Clones // R: Trinity College Library, Dublin”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;These are the Jedi archives from &lt;em&gt;Star Wars: Episode 2, Attack of the Clones.&lt;/em&gt; It looks like a real library, except these book spines have transmissive light. I see this as a metaphor for how people think about digital or online libraries, transplanting shelves onto the screen with a search field, and not necessarily considering how digital space is different. The original library is based off Trinity College Library in Dublin. Physical libraries have a constraint of nesting books next to each other on shelves. And despite this, libraries have an embedded serendipitous discovery. It’s really easy to get lost in a library. There’s nooks, aisles, hidden corners, shelves nested on top of each other. And that depth, even if it’s linear online, is gone.&lt;/p&gt;
+
+&lt;p&gt;The Prelinger Library and Archives in San Francisco offers a fascinating example of a physical space that creates its own unique taxonomy as a reflection of their collected objects. Founded by Megan and Rick Prelinger, the library includes obscure printed ephemera for which Megan created a novel indexing system based on geospatial location. At the front of the aisles you have all the books related to San Francisco, based on theme. The further back you move into the library, you travel through different regions and finally land in outer space.&lt;/p&gt;
+
+&lt;p&gt;While the archive exists in physical space, Rick Prelinger offers encouraging insight the digitization of collections. In his &lt;a href=&quot;https://drive.google.com/file/d/1JDDanuvz1fJXxhHzD64ymQQ20eMsOWHj/view&quot;&gt;&lt;em&gt;Appropriation Manifesto&lt;/em&gt;&lt;/a&gt; he writes, “If cultural permaculture is our goal, we might think of finding thoughtful ways to represent and re-contextualize old works. So how can we think of alternative methods for digitizing analog materials into a digital interface or a digital screen.” I embraced this as a move away from templatization online and towards the creation of bespoke interfaces that allow for specific viewing conditions for different types of content, much like the geospatial index adopted in his own collection. Rick also states that “mortar is just as historical as bricks, but we only ever talk about the bricks.” Mortar to bricks. We, lay people, can break these histories apart, add or note what is missing, and then rearrange or reform these bricks for our current climate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/02_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: Close-Up: 110 West 40th Street as a domain to note the studio of Herb Lubalin and Ralph Ginzburg in New York ; &lt;a href=&quot;http://avantgarde.110west40th.com&quot;&gt;http://avantgarde.110west40th.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/03_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: 110 West 40th Street, New York, present day&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I created the &lt;em&gt;Avant Garde&lt;/em&gt;, &lt;em&gt;Fact&lt;/em&gt;, and &lt;em&gt;Eros&lt;/em&gt; archival microsites with Jon Gacnik, co-founder of Folder Studio, and Alexander Tochilovsky, curator of the Herb Lubalin Study Center at the Cooper Union. (Note: in the original talk, I explained our decisions for the site interface, redacted here). These publications, created by Ralph Ginzburg and Herb Lubalin in the 1960s-70s, were considered controversial at the time, and led to prison time over a battle with the US Government over obscenity charges.&lt;/p&gt;
+
+&lt;p&gt;When we first launched these sites, I was happy that Laurel [Schwulst] noted the domain name 110west40th.com. Sasha [Alexander Tochilovsky] and I had carefully considered other domain names. It didn’t seem right to name it after one of the co-creators. They have a larger body of work, first of all, and these publications are the result of a collaboration in a physical space. We decided to embed this in the naming structure to ground the online sites in the physical site, their studio in Manhattan on 110 West 40th. When Laurel mentioned it, she included a screenshot of Google Maps of the location which has become a shop called Crisp. The domain was able to narrate a bit of the story about where these three iconic publications were born.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/04_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: “Mosaic of Subcultures,” image excerpt from A Pattern Language&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The chapter “A Mosaic of Subcultures” in &lt;a href=&quot;https://drive.google.com/file/d/1vDHRtYnKYzchQtMTZOPQfXOQrepc8LB_/view&quot;&gt;&lt;em&gt;A Pattern Language&lt;/em&gt;&lt;/a&gt;, notes the importance of subcultures, which I find helpful to revisit when designing bespoke interfaces and considering online communities. Instead of homogenizing, or templatizing, visible differences in different communities should be embraced. Moving from one space to another should feel unique, representative of the various cultures, people, identities included. These spaces, however, should be small and nested closely together so you can naturally stumble out of one and into another. You can feel aesthetic or tonal shifts; they are not walled gardens. They are open for others who may not be part of the subculture to visit, embracing inclusivity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/05_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: ASCII Town, A-B-Z-TXT 2017, &lt;a href=&quot;http://ascii.designforthe.net&quot;&gt;http://ascii.designforthe.net&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This chapter motivated a workshop that I created for &lt;a href=&quot;https://a-b-z.co/&quot;&gt;A-B-Z-TXT&lt;/a&gt; 2017. This computational typography summer school is based in Toronto, created by Michèle Champagne, Garry Ing, and Greg Smith. We named it ASCII Town, or A-B-Z-TWN. After a brief introduction to ASCII art, typewriter art, and concrete poetry, the two hour drawing exercise asked how we might still draw with these gridded, constrained systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/06_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: ASCII Town text file, example by Owen Dodd, 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a humble text editor, participants drew the exterior of their ‘home’ and a room that others could visit after clicking through. Jon [Gacnik] created a script that would aggregate the exteriors on a group landing page and create detail pages of the interiors using simple labels, ‘Outside:’ and ‘Inside:’ in the text file. The only constraint were these labels and the inclusion of their name somewhere on the exterior. Participants could publish by dragging the file into a communal FTP. ASCII Town asks the user to consider alternative interfaces for online communities, and how this change in interaction might affect how we choose to engage with others in digital spaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/mindy/07_mindy.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Image description: Kameelah Rasheed, “On Refusal,” 2016&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In an interview on &lt;em&gt;&lt;a href=&quot;https://thecreativeindependent.com/people/kameelah-janan-rasheed-on-research-and-archiving/&quot;&gt;The Creative Independent&lt;/a&gt;&lt;/em&gt;, Kameelah Rasheed states that archiving our histories is a way to actively engage with the way we move through the world. This recenters us, so we think of ourselves as constructed subjects that come from a long lineage of histories that we can reflect back into our personal archives. I think this idea is crucial, particularly when we consider archiving digital space, and the histories of our own constructions online.&lt;/p&gt;
+
+&lt;p&gt;I’m currently a summer fellow at the Internet Archive, co-organizing the Arts Track of the Decentralized Web Summit with Sam Hart. The goal of the Summit at large is to bring together technologists, humanitarians, policy-makers, designers, and artists to discuss the constraints and affordances of various forms of decentralization. For example, with the Dat protocol and Beaker browser, it’s really easy to create and clone a static site or dataset. This feature suggests an invitation to archiving the web, which is noticeably different from ‘scraping’ a site, which is possible but traditionally unauthorized. The Dat and Beaker browser foregrounds cloning and archiving as an essential feature of a decentralized network. Your peers can seed and help host the site. Paul Frazee, a co-founder of Beaker, aptly stated, “Your friends are your data center.” We decide what is valuable, what we want to support, and question what we should read or publish online. While I’m excited about the possibilities, I’m cautious about a technocratic misconception that implementing a decentralized technical or architectural infrastructure will lead to ethical governance or the thoughtful development of culture. How can we reshape online culture as a whole? It’s not like creating a decentralized Facebook will actually make us more connected, even if we do have ownership of our data.&lt;/p&gt;
+
+&lt;p&gt;The Arts Track has a conversation series, installations, workshops, and performances that will try to create accessible points of entry, historicize the movement, and consider novel uses of the decentralized web. It’s nice to see some of those people here too. Laurel Schwulst is co-leading a workshop called p2p2p2p. Melanie Hoff, Callil Capuozzo, and a larger team are creating an interactive installation called Distributed Gardens. Yeli Omayeli Arenyeka is co-leading a workshop that prototypes the DWeb with browser extensions. And Taeyoon Choi, with help from Lai Yi Ohlsen, will kick-off the Summit with a large-scale string network performance of Distributed Web of Care.&lt;/p&gt;
+
+&lt;h3 id=&quot;qa-audio-transcript-shortened-for-coherence&quot;&gt;Q&amp;amp;A, Audio transcript shortened for coherence.&lt;/h3&gt;
+
+&lt;p&gt;Q: Do you experience tension with making something with a single version or duplication that is reproducible endlessly?&lt;/p&gt;
+
+&lt;p&gt;A [Mindy]: Attribution immediately comes to mind. I think it’s fine to duplicate something endlessly if the source material is noted. In some ways, this is what’s great about an open source model. The problem is the difficulty of a precedent that does not include this. I believe it is very important to include this, a clear source or an initial link that is archived to prevent link rot. p2p protocols like dat or platforms like Github allows for this, because you’re cloning something that already exists and a is trail built. Duplication is also important for preservation purposes also. Even at the Internet Archive, where I’m currently a fellow, they have crawlers that click every link and archive every page. They are able to archive the internet once every four months, roughly. It’s only through screenshots, so dynamic content is really hard to capture. But while they have a copy of everything on their servers in the Bay, they have a duplicate in Alexandria and another in an undisclosed location, understandably. The fire at the Library of Alexandria destroyed all of the content it held, and the founder of Internet Archive, Brewster Kahle, will state that this was a key reference for their priority to duplicate.&lt;/p&gt;
+
+&lt;p&gt;Q: When you were talking about your Avant Garde work, you mentioned that you wished the rest of the internet could be more like this. Were you trying to emphasis on idiosyncratic archives?&lt;/p&gt;
+
+&lt;p&gt;A [Mindy]: By that statement, I meant I would like things to be comprehensive. When people go to an article, do they actually read the whole text? The way it’s laid out now, in these long scrolls with embedded links, with link rot, most don’t read the entirety. In the essay “How We Read: Close, Hyper, Machine,” N. Katherine Hayles writes about how we scan the first few sentences and then your eyes go down. It could be attributed to short term attention span, but I think we can give people more credit than that. It’s built into the reading structure. So by comprehensive, I meant, yes, make the information more robust, but also, what are ways we can explore different ways that encourage comprehension on the screen. I don’t know if Avant Garde is the best way to do that. But I felt that for this publication, we were trying to be very thoughtful about the interface, so people can keep digging. I’d hope that we can be more thoughtful about digestion and comprehension, instead of speed, whatever form that takes.&lt;/p&gt;
+
+&lt;p&gt;Q: Could talk about the difference between the library and the archive?&lt;/p&gt;
+
+&lt;p&gt;A [Mindy]: Can I throw that to you, Zach [Zach Coble, head of the Digital Scholarship Services at the NYU Libraries]?&lt;/p&gt;
+
+&lt;p&gt;A [Zach]: I’m a librarian, and I see libraries as being primarily driven by access. If you want a book or an article or a piece of data, libraries will help you get access to them. Whereas archives are driven by preservation. For that book in the archive that you want to read, every time it’s pulled that off the shelf, the archivist is thinking if there’s some damage that’s happened to the book.&lt;/p&gt;
+
+&lt;p&gt;A [Mindy]: I was going to say something similar. I was thinking about inclusivity versus exclusivity. Public libraries are amazing because they’re becoming these new cultural centers, as well as continuing to be a silent space. It is about access. It’s easier to enter a public library rather than an archive — no appointments or white gloves. I feel like there’s a tension between who an archive is for and who created it. It claims to be for community memory, but if it’s inaccessible, it becomes an ethical question about whose memory we are preserving, what we consider valuable, who has the credentials to access it, etc.&lt;/p&gt;
+
+&lt;p&gt;A [Taeyoon]: One thing about libraries and archives and their distinction: archives tend to centralize knowledge and power to the institution. Libraries tend to open up and distribute that knowledge and power. While libraries have selection policies, archives tend to be have even more narrow and strict policies about what comes in to the archive. The power of collection leads to preservation, and prioritizing of certain information to last a long time. Take for example, in Los Angeles, The Getty Archive is a very powerful collection of articles and cultural items. It’s a vast resource but it’s not accessible. You need to be a scholar or an authorized person to access the archive. On the other side of town, there’s also a group called Los Angeles Contemporary Archive (LACA), which is an artist-run non-profit organization. LACA takes on a more subversive and grassroots approach to the archive.&lt;/p&gt;
+
+&lt;p&gt;A [Mindy]: When I mentioned Irit Rogoff and inherited knowledge, that’s exactly what I meant, The same stories are being told over and over, so certain narratives develop cultural capital. That affects what is preserved and what is fixed in history books. Her “response to conditions,” then, is trying to push against these taught histories and how these smaller histories can be told. A strategy for that is, like Taeyoon mentioned, citizen archives and grassroots spaces.&lt;/p&gt;
+
+&lt;p&gt;Q: Earlier, you were talking about the difference between digital and physical archives and getting lost in physical spaces. In your work, have you thought about how developers and designers can help users have a serendipitous experience like that online?&lt;/p&gt;
+
+&lt;p&gt;A [Mindy]: If you can make your own website, even if it’s ugly and messy, maybe we can reframe it as ugly beautiful. It does give you a lot of power when you see something that you’ve made living in the world. It doesn’t have to be perfect. Does it really matter if something is responsive or snapped to a grid? Maybe that works well for some things but not necessarily for personal voice.&lt;/p&gt;
+
+&lt;h3 id=&quot;readings-for-the-skillshare&quot;&gt;Readings for the skillshare&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1vDHRtYnKYzchQtMTZOPQfXOQrepc8LB_/view&quot;&gt;A Pattern Language, “A Mosaic of Subcultures”&lt;/a&gt; by Christopher Alexander, Sara Ishikawa, and Murray Silverstein&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.e-flux.com/journal/00/68470/turning/&quot;&gt;Turning, “Education”&lt;/a&gt; by Irit Rogoff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thecreativeindependent.com/people/kameelah-janan-rasheed-on-research-and-archiving/&quot;&gt;Kameelah Rasheed on research and archiving&lt;/a&gt; by Kameelah Rasheed and Brandon Stosuy&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://denten.plaintext.in/think.stack/archives&quot;&gt;Archives&lt;/a&gt; excerpt by Dennis Yi Tenen&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1JDDanuvz1fJXxhHzD64ymQQ20eMsOWHj/view&quot;&gt;Appropriation: is it finished? A Manifesto&lt;/a&gt; by Rick Prelinger&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">by Mindy Seu</summary></entry><entry><title type="html">Accessibility Dreams</title><link href="http://localhost:4000/posts/accessibility-dreams/" rel="alternate" type="text/html" title="Accessibility Dreams" /><published>2019-01-29T00:00:00-05:00</published><updated>2019-01-29T00:00:00-05:00</updated><id>http://localhost:4000/posts/accessibility-dreams</id><content type="html" xml:base="http://localhost:4000/posts/accessibility-dreams/">&lt;p&gt;by Shannon Finnegan, DWC Artist in Residence&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/static/images/shannon/01_Shannon.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Image description: A framed print reading, “Reinventing my strangeness as an art form that only I am the perfect practitioner of.”&lt;/em&gt;&lt;/p&gt;
@@ -758,84 +842,4 @@ I think I’m surprised by such a question. I think the cumulative effect does d
 
 &lt;p&gt;&lt;strong&gt;About the Author:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://laiyiohlsen.com&quot;&gt;Lai Yi Ohlsen&lt;/a&gt; is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Lai Yi Ohlsen, DWC Steward</summary></entry><entry><title type="html">Skillshares: Peers in Practice</title><link href="http://localhost:4000/posts/skillshares/" rel="alternate" type="text/html" title="Skillshares: Peers in Practice" /><published>2018-06-27T00:00:00-04:00</published><updated>2018-06-27T00:00:00-04:00</updated><id>http://localhost:4000/posts/skillshares</id><content type="html" xml:base="http://localhost:4000/posts/skillshares/">&lt;p&gt;The Distributed Web of Care presents a skillshare series called &lt;strong&gt;Peers in Practice.&lt;/strong&gt; This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.&lt;/p&gt;
-
-&lt;p&gt;Through an intimate interactive event, participants and artists will develop a dialog related to their practices by performing acts of collective caring, discussion and documentation.
-As a participant in the skillshare, all we require is an open mind and desire to share together. We will be experimenting with different modes of documentation throughout the events. &lt;strong&gt;We will also send out a small set of readings and ask you to generate a few questions based on those readings so we can come together with an informed baseline.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There will be four skillshares held between July 1st and July 22nd, culminating in a vibrant party in July 29th where the fellows and stewards from the Distributed Web of Care project will present their work on both tools and theory on a web of care, not control. Space is limited for the skillshare event. Please &lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;RSVP here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;stephanie-gray-and-eliza-chandler&quot;&gt;Stephanie Gray and Eliza Chandler&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Date: 07.22.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare4_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.poetryfoundation.org/poets/stephanie-gray&quot;&gt;Stephanie Gray&lt;/a&gt; is a poet-filmmaker known for Super 8 films and poetry that explore the experience of urban space, queerness, disability and class. She explores the mysterious ground between pop culture, fact, fiction and desire, while working between nostalgia, place and memory. She is the author of two poetry books, most recently, Shorthand and Electric Language Stars (Portable Press at Yo-Yo Labs, 2015), and four chapbooks, including Under the Surface (above/ground press, 2018) and A Country Road Going Back in Your Direction (Argos Books, 2015). Work also appears in the anthology How Lovely the Ruins (Spiegel &amp;amp; Grau/Random House, 2017).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare4_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Eliza Chandler, an Assistant Professor at the School of Disability Studies at Ryerson University, aims to bring together the arts, disability studies, and justice-based activism. She teaches courses on disability arts and culture, disability rights and justice, and community-based social activism; she is the co-director of the project Bodies in Translation: Activist Art, Technology, and Access to Life, a many-partnered grant supports the development of activist art (including Deaf &amp;amp; disability art, fat art, and Indigenous art) and interrogates its connection to the enactment of social justice. Chandler is a practicing curator, a board member of the Ontario Arts Council, and the co-founder of Creative Users Projects, a community arts/activist initiative that supports crip artists through artistic development and works to create a more accessible arts culture. Prior to these roles, she was the founding artistic director of Tangled Art Gallery, a gallery in Toronto that showcases disability arts and advances accessible curatorial practices. Chandler regularly give lectures, interviews, and consultations related to disability arts, inclusive curatorial practices, and disability politics in Canada.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;Free, RSVP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;All Events - Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The space is accessible via service elevator. Please note your access needs in the RSVP form and ask the front desk for assistance. 7.22 skillshare will have a Communication Access Realtime Translation (CART) service&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;past-events&quot;&gt;Past Events&lt;/h1&gt;
-
-&lt;h1 id=&quot;1-ari-melenciano&quot;&gt;#1 Ari Melenciano&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshares1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date: 07.01.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.ariciano.com/&quot;&gt;Ari Melenciano&lt;/a&gt; is a multidisciplinary artist, designer, creative technologist and DJ. She is a master’s candidate at NYU’s ITP department, practicing at the intersection of experiential design and emerging technologies via creative computation, human-computer interaction, engineering and design. She is the creator and producer of new media arts, culture and technology festival Afrotectopia, as well as the creator of Justice Factory, a data visualization platform that highlights social justice issues and human rights violations.&lt;/p&gt;
-
-&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@AriMelenciano_88366/el-museu-de-afrotopolis-building-a-museum-353-years-in-the-future-1cb9d9f668b8&quot;&gt;Building a Museum 353 Years in the Future&lt;/a&gt; by Ari about her residency.&lt;/p&gt;
-
-&lt;h1 id=&quot;2-mindy-seu&quot;&gt;#2 Mindy Seu&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshares2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date: 07.08.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://mindyseu.com/&quot;&gt;Mindy Seu&lt;/a&gt; is a designer and educator. She is currently a student in Harvard’s Graduate School of Design, where her research focuses on digital archives UI and methods of digitization. Formerly, she was a designer at 2x4 and instructor for Interactive 2 at California College of the Arts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/workshops.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The skillshare will also include the following short workshops presented by stewards of the DWC project:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.laiyiohlsen.com/&quot;&gt;&lt;strong&gt;Lai Yi Ohlsen&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Peer to peer protocols require trust and the negotiation of shared resources - so does the dance floor. Webs of moving bodies and sound are an ideal environment to understand how we can, and already do, prioritize care over control within a system. With a good enough groove, peers work together without ever skipping a beat. ‘100 Scores’ by Lai Yi Ohlsen is a repository of improvisational movement scores based upon computer science algorithms. For DWC she will present scores related to the potential of the distributed, peer to peer web.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://julianacastro.co/&quot;&gt;&lt;strong&gt;Juliana Castro&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Meme culture and fast-paced social networking have encouraged the use of copyrighted resources without proper attribution. This talk will highlight the benefits of open-access, show a selection of available public domain and Creative Commons archives, and address best practices and fair use uses of institutional repositories and other people’s work.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://zachcoble.com/&quot;&gt;&lt;strong&gt;Zach Coble&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Participants will engage in a conversation about gathering and using data from the web for social good. The steward will briefly show recent projects and we will use these examples to create a dialog about the legal and ethical issues involved in such projects.&lt;/p&gt;
-
-&lt;h1 id=&quot;3-jessia-lynne-and-shannon-finnegan&quot;&gt;#3 Jessia Lynne and Shannon Finnegan&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Date: 07.15.2018. 1~4pm&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location: Ace Hotel Boardroom, 20 W 29th St, New York, NY 10001&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare3_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.jessicalynne.co/&quot;&gt;Jessica Lynne&lt;/a&gt; is co-founder and editor of ARTS.BLACK, a journal of art criticism from Black perspectives. She received her B.A. in Africana Studies from NYU and has been awarded residencies and fellowships from Art21 and The Cue Foundation, Callaloo, and The Center for Book Arts. Her writing has appeared in publications such as Aperture, Art in America, The Brooklyn Rail, and Kinfolk. She was a Winter 2018 Columnist-in-Residence at &lt;a href=&quot;https://openspace.sfmoma.org/&quot;&gt;Open Space&lt;/a&gt;, SFMoMA’s interdisciplinary publishing platform, and is co-editor, alongside Sharon Louden, of the forthcoming book, The Innovators: Defining Change in the Art World, that will be published by Intellect Ltd. and The University of Chicago Press.&lt;/p&gt;
-
-&lt;p&gt;She is a board member of Black Art Futures Fund and The Organization of Women Writers of Africa.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/skillshare3_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://shannonfinnegan.com/&quot;&gt;Shannon Finnegan&lt;/a&gt; is an artist whose practice involves a mix of drawing, design and writing. Her current motto is “Reinventing my strangeness as an art form that only I am the perfect practitioner of.” She’s created Anti-Stairs Club Lounge, Disability History PSA, and other projects about disability culture and access.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrnr16Oq6oalF1S1&quot;&gt;Free, RSVP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;We are planning to offer skillshares and party in July in partnership with the Ace Hotel New York. We will announce details about workshops and events via Taeyoon Choi’s &lt;a href=&quot;http://tinyletter.com/tchoi8&quot;&gt;mailing list&lt;/a&gt;. Please join us for the &lt;a href=&quot;https://dwc-tchoi8.hashbase.io/posts/party/&quot;&gt;Distributed Web of Care Party&lt;/a&gt; on July 29th.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Distributed Web of Care presents a skillshare series called Peers in Practice. This series invites the artists in residence at the Ace Hotel to investigate the distribution of power, autonomy and control.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;http://laiyiohlsen.com&quot;&gt;Lai Yi Ohlsen&lt;/a&gt; is an artist and project manager with a background in movement and computer science.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Lai Yi Ohlsen, DWC Steward</summary></entry></feed>
