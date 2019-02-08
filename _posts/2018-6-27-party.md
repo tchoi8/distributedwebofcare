@@ -1,5 +1,6 @@
 ---
 title: "Distributed Web of Care Party "
+layout: post
 
 # To set og:image:
 # image: ...

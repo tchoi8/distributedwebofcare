@@ -1,5 +1,6 @@
 ---
 title: "Racial Justice in the Distributed Web"
+layout: post
 
 # To set og:image:
 # image: http://sfpc.io/static/img/codesocieties/banner.jpg

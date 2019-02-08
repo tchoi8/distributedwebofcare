@@ -1,5 +1,6 @@
 ---
 title: "Creative Self Publishing"
+layout: post
 
 # To set og:image:
 # image: https://lh5.googleusercontent.com/SUp55V87tpHEUE_lT2_HNI7g9-qD7mMrSoREXNtIKk5Ejrk7chW9BC2G1TzPa1EVPh5R76_uboVrMfKSPHGJ0VhumLERWfxzIrvIi56q0L4WutTeV5MJ2OWTkzUelWQNArZOXBTEswI

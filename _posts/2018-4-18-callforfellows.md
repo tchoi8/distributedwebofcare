@@ -1,5 +1,6 @@
 ---
 title: "Call for Fellows and Stewards"
+layout: post
 
 # To set og:image:
 # image: ...

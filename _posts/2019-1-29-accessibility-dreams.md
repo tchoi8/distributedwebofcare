@@ -1,5 +1,6 @@
 ---
 title: "Accessibility Dreams"
+layout: post
 
 # To set og:image:
 # image: http://distributedweb.care/static/images/shannon/01_Shannon.jpg

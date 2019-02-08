@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<main class="measure-wide center ph3 pt5 pb6">
+  <h1 class="mt0 mb4">
+    <a
+      href="{{ "/" | relative_url }}"
+      class="no-underline bg-{{ site.brand_color }}">
+      {{site.title}}
+    </a>
+  </h1>
+  <section class="pv2">
+    {{ content }}
+  </section>
+  {% if site.posts.size > 0 %}
+    <hr />
+    <section class="pv2">
+      <ul class="list pl0">
+        {% for post in site.posts %}
+          {% if forloop.index0 == site.num_posts_visible_initially %}
+          <li class="mt0 mb4">
+            <h4 class="ma0">
+              <a class="bg-{{ site.brand_color }} pv2 ph3 dib ba b--black-20 br3 no-underline js-more" href="#">
+                View All
+              </a>
+            </h4>
+          </li>
+          {% endif %}
+          <li class="mt0 mb4 {% if forloop.index0 >= site.num_posts_visible_initially %}dn js-hidden{% endif %}">
+            <h3 class="ma0">
+              <a class=" no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h3>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+</main>
