@@ -5,7 +5,7 @@ title: "Making Space in Online Archives"
 # image: http://sfpc.io/static/img/codesocieties/banner.jpg
 ---
 
-*by Mindy Seu*
+*by Mindy Seu, DWC Artist in Residence*
 
 *The following is a condensed transcription of a conversational talk given by the author for the Distributed Web of Care workshop series.*
 
@@ -91,6 +91,17 @@ A [Mindy]: If you can make your own website, even if it’s ugly and messy, mayb
 + [Archives](http://denten.plaintext.in/think.stack/archives) excerpt by Dennis Yi Tenen
 + [Appropriation: is it finished? A Manifesto](https://drive.google.com/file/d/1JDDanuvz1fJXxhHzD64ymQQ20eMsOWHj/view) by Rick Prelinger
 
+
+## Credits
+
+This essay is based on a skillshare by Mindy Seu on July 8.2018 at the Ace Hotel New York. It's been edited by [Shira Feldman](http://www.shira-feldman.net/) and published on February 8, 2019.
+
+# Mindy Seu 
+
+![]({{ site.base-url }}/static/images/air/mindy.jpg)
+
+
+[Mindy Seu](http://mindyseu.com/) is a designer and educator. She is currently a student in Harvard's Graduate School of Design, where her research focuses on digital archives UI and methods of digitization. Formerly, she was a designer at 2x4 and instructor for Interactive 2 at California College of the Arts.
 
 
 
