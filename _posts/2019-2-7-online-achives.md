@@ -2,7 +2,7 @@
 title: "Making Space in Online Archives"
 
 # To set og:image:
-# image: http://sfpc.io/static/img/codesocieties/banner.jpg
+# image: http://distributedweb.care/static/images/mindy/01_mindy.png
 ---
 
 *by Mindy Seu, DWC Artist in Residence*
@@ -75,7 +75,7 @@ A [Zach]: I’m a librarian, and I see libraries as being primarily driven by ac
 
 A [Mindy]: I was going to say something similar. I was thinking about inclusivity versus exclusivity. Public libraries are amazing because they’re becoming these new cultural centers, as well as continuing to be a silent space. It is about access. It’s easier to enter a public library rather than an archive — no appointments or white gloves. I feel like there’s a tension between who an archive is for and who created it. It claims to be for community memory, but if it’s inaccessible, it becomes an ethical question about whose memory we are preserving, what we consider valuable, who has the credentials to access it, etc.
 
-A [Taeyoon]: One thing about libraries and archives and their distinction: archives tend to centralize knowledge and power to the institution. Libraries tend to open up and distribute that knowledge and power. While libraries have selection policies, archives tend to be have even more narrow and strict policies about what comes in to the archive. The power of collection leads to preservation, and prioritizing of certain information to last a long time. Take for example, in Los Angeles, The Getty Archive is a very powerful collection of articles and cultural items. It's a vast resource but it's not accessible. You need to be a scholar or an authorized person to access the archive. On the other side of town, there’s also a group called Los Angeles Contemporary Archive (LACA), which is an artist-run non-profit organization. LACA takes on a more subversive and grassroots approach to the archive.  
+A [Taeyoon]: One thing about libraries and archives and their distinction: archives tend to centralize knowledge and power to the institution. Libraries tend to open up and distribute that knowledge and power. While libraries have selection policies, archives tend to be have even more narrow and strict policies about what comes in to the archive. The power of collection leads to preservation, and prioritizing of certain information to last a long time. Take for example, in Los Angeles, The Getty Archive is a very powerful collection of articles and cultural items. It's a vast resource but it's not accessible. You need to be a scholar or an authorized person to access the archive. On the other side of town, there’s also a group called Los Angeles Contemporary Archive ([LACA](http://lacarchive.com/)), which is an artist-run non-profit organization. LACA takes on a more subversive and grassroots approach to the archive.  
 
 A [Mindy]: When I mentioned Irit Rogoff and inherited knowledge, that’s exactly what I meant, The same stories are being told over and over, so certain narratives develop cultural capital. That affects what is preserved and what is fixed in history books. Her “response to conditions,” then, is trying to push against these taught histories and how these smaller histories can be told. A strategy for that is, like Taeyoon mentioned, citizen archives and grassroots spaces. 
 
