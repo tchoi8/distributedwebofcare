@@ -2,7 +2,7 @@
 title: "Call for stewards who identify as a Deaf or disabled person"
 
 # To set og:image:
-# image:.. 
+# image: http://distributedweb.care/static/images/party/mplus.jpg
 ---
 
 Distributed Web of Care (DWC) is a collaboration between artists, writers and engineers to imagine a more equitable, caring internet for the future. The project is initiated by Taeyoon Choi, who has been working with disability community and artists to criticially challenge the notions of accessibility and inclusion. Read his article [Artificial Advancement](https://thenewinquiry.com/artificial-advancements/) and Shannon Finnegan's article [Accessibility Dreams](http://distributedweb.care/posts/accessibility-dreams/). 
@@ -25,7 +25,7 @@ Stewards are guest collaborators, contributing to DWC initiatives with their dom
 
 The rehearsal dates are March 3, 2-5 PM and March 25, 2-5 PM, 2019 in Manhattan, NYC. 
 
-[Apply](https://airtable.com/shrJKwgf305PUDKjm)
+[Apply](https://airtable.com/shrJKwgf305PUDKjm) or email studio@taeyoonchoi.com 
 
 Equal opportunity:
 Distributed Web of Care is committed to providing an environment that is free from discrimination and harassment based on race, age, creed, color, religion, national origin or ancestry, sex, gender, disability, veteran status, genetic information, sexual orientation, gender identity or expression, or pregnancy. 
