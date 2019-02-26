@@ -23,7 +23,7 @@ In February - March 2019, we are looking for stewards who identify as a Deaf or 
 
 Stewards are guest collaborators, contributing to DWC initiatives with their domain expertise. Stewards are invited to rehearsals for DWC events and contribute to building the piece as well as code of conduct. In this volunteer role, stewards will collaborate with fellow artists, engineers, organizers, staff and with Taeyoon Choi directly.  
 
-The rehearsal dates are March 2, 2-5 PM and March 25, 2-5 PM, 2019 in Manhattan, NYC. 
+The rehearsal dates are March 3, 2-5 PM and March 25, 2-5 PM, 2019 in Manhattan, NYC. 
 
 [Apply](https://airtable.com/shrJKwgf305PUDKjm)
 
