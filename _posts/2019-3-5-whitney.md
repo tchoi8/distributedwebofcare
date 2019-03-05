@@ -41,3 +41,5 @@ The Whitney Museum of American Art Staff: Andrew Hawkes, Isabelle Dow, Justin Al
 Poster: [Mark Allen](https://www.instagram.com/markallenartjams/)
 
 Postcard: [Coralie Gourguechon](http://coraliegourguechon.fr)
+
+Support: The Whitney Museum of American Art, [Code for Science and Society](https://codeforscience.org/)
