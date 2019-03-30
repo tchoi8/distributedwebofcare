@@ -26,9 +26,9 @@ This lecture-performance by Taeyoon Choi imagines a more equitable, caring Inter
 
 ASL interpretation and audio description are available.
 
-With [Jerron Harman](http://heidilatskydance.org/current-company/g5n1f8y4lv3y48p7afxncbgmwlqbdx), [stud1nt](https://soundcloud.com/stud1nt), [Tiriree Kananuruk](http://xxx.tiri.xxx/), [Jonathan Dahan](http://jedahan.com/), [Chancey Fleet](http://twitter.com/ChanceyFleet) and the [School for Poetic Computation](http://sfpc.io)
+With [Jerron Harman](http://heidilatskydance.org/current-company/g5n1f8y4lv3y48p7afxncbgmwlqbdx), [stud1nt](https://stud1nt.nyc/), [Tiriree Kananuruk](http://xxx.tiri.xxx/), [Jonathan Dahan](http://jedahan.com/), [Chancey Fleet](http://twitter.com/ChanceyFleet) and the [School for Poetic Computation](http://sfpc.io)
 
-Bibliography: [Alexander R. Galloway](http://cultureandcommunication.org/galloway/), [Ari Malenciano](http://www.ariciano.com/), [Ingrid Burrington](http://lifewinning.com/), [Jessica Lynne](http://www.jessicalynne.co/), [Mindy Seu](http://mindyseu.com/), [Shannon Finnegan](http://shannonfinnegan.com/), [Shannon Mattern](http://wordsinspace.net/shannon/), [Stephanie Gray](http://www.poetryfoundation.org/poets/stephanie-gray), [Édouard Glissant](https://en.wikipedia.org/wiki/%C3%89douard_Glissant), 
+Bibliography and inspiration: [Alexander R. Galloway](http://cultureandcommunication.org/galloway/), [Ari Malenciano](http://www.ariciano.com/), [Callil Capuozzo](https://callil.com/), [Christine Sun Kim](http://christinesunkim.com/), [Nora Khan](https://noranahidkhan.com), Cori Kresge, [Cleo Miao](http://cleomiao.info/), [Ingrid Burrington](http://lifewinning.com/), [Jessica Lynne](http://www.jessicalynne.co/), [Mindy Seu](http://mindyseu.com/), [Shannon Finnegan](http://shannonfinnegan.com/), [Shannon Mattern](http://wordsinspace.net/shannon/), [Stephanie Gray](http://www.poetryfoundation.org/poets/stephanie-gray), [Édouard Glissant](https://en.wikipedia.org/wiki/%C3%89douard_Glissant), 
 
 Stewards: [Emily Saltz](http://saltzshaker.github.io), [Marcus Fleming](www.marcusbrittainfleming.com), [Suphitcha "Jan" Donsrichan](http://www.jayspaper.com/), [Carlos Sanchez](carlos-sanchez.info), [Lori Hepner](https://www.lorihepner.com), [Nahee Kim](https://nahee.website/),
 [Maya Man](mayaontheinter.net), [Natalia Flores Zalles](https://nataliafloreszalles.tumblr.com/), Sarah McCaffery, [Rigoberto Lara](https://twitter.com/chicanocyborg), [Ashley Jane Lewis](https://ashleyjanelewis.com/), [Nitcha Fame Tothong](http://nitchafa.me/), 
@@ -38,7 +38,9 @@ Production: [Neta Bomani](http://www.netabomani.com/), [Emily Miller](http://www
 
 The Whitney Museum of American Art Staff: Andrew Hawkes, Isabelle Dow, Justin Allen, Madison Zalopany, Max Chester, Megan Heuer, Sasha Wortzel
 
-Poster: [Mark Allen](https://www.instagram.com/markallenartjams/)
+Poster: [Mark Allen](https://www.instagram.com/markallenartjams/) 
+
+[Posters](https://taeyoon-workshop.myshopify.com/products/dwc-poster) are on sale until April 14, 2019 
 
 Postcard: [Coralie Gourguechon](http://coraliegourguechon.fr)
 
