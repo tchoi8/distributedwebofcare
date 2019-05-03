@@ -50,3 +50,7 @@ In the past ten months of the project, I've been learning and unlearning from my
 
 ------------------------------------------------
 I want to thank everyone who's expressed their support and interest, especially those who purchased Care T-shirts and Hoodies for fundraising and the [Data and Society](http://datasociety.org) for my fellowship. I plan to continue the project in 2019 with various public events in art institutions, conferences and schools. Coming up, I will lead the Accessibility, Disability and Care track at the [Processing Community Day](https://day.processing.org/pcd-la-tracks.html) in LA and speak at the Deaf and Disability Futures at the [Cripping the Arts](http://tangledarts.org/events/cripping-the-arts-2019/) conference in Toronto in January. I have some more plans for events in NYC this spring along with an open call for fellows to be announced in March, 2019. My [newsletter](https://tinyletter.com/tchoi8) maybe the best place to find out the latest information.
+
+## Credits
+
+This essay has been edited by **Shira Feldman** and published on January 11th, 2019.

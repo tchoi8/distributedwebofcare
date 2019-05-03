@@ -46,7 +46,10 @@ Because of this fascination with digital formats and the physical distribution o
 
 ![]({{ site.base-url }}/static/images/fellows/cleo5.png)
 
-## About the Author: 
+## Credits:
+
+This essay has been edited by **Shira Feldman** and published on January 28th, 2019.
+
 ![]({{ site.base-url }}/static/images/fellows/cleo.png)
 
 [cleo (yuekai) miao](http://www.cleomiao.info/

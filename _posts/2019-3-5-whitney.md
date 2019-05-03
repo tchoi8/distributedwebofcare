@@ -1,5 +1,5 @@
 ---
-title: "Lecture Performance at the Whitney Museum – 3.27.2019"
+title: "Announcing Lecture Performance at the Whitney Museum, March 27th"
 
 # To set og:image:
 # image: http://distributedweb.care/static/images/og.jpg
