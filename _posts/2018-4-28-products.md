@@ -1,5 +1,5 @@
 ---
-title: "Care shirt and hoodie"
+title: "DWC Merchandise: Care Shirt & Hoodie"
 layout: post
 
 # To set og:image:

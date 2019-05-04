@@ -1,5 +1,5 @@
 ---
-title: "Skillshares: Peers in Practice"
+title: "Announcing Skillshares: Peers in Practice"
 layout: post
 
 # To set og:image:
