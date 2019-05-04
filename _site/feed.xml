@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-04T15:19:50-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Who Owns the Stars: The Trouble with Urbit</title><link href="http://localhost:4000/posts/who-owns-the-stars/" rel="alternate" type="text/html" title="Who Owns the Stars: The Trouble with Urbit" /><published>2019-05-04T00:00:00-04:00</published><updated>2019-05-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/who-owns-the-stars</id><content type="html" xml:base="http://localhost:4000/posts/who-owns-the-stars/">&lt;p&gt;by Francis Tseng&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-04T16:28:40-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Who Owns the Stars: The Trouble with Urbit</title><link href="http://localhost:4000/posts/who-owns-the-stars/" rel="alternate" type="text/html" title="Who Owns the Stars: The Trouble with Urbit" /><published>2019-05-04T00:00:00-04:00</published><updated>2019-05-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/who-owns-the-stars</id><content type="html" xml:base="http://localhost:4000/posts/who-owns-the-stars/">&lt;p&gt;by Francis Tseng&lt;/p&gt;
 
 &lt;p&gt;The application that introduced peer-to-peer (P2P) computing to the mainstream was file sharing, services like Napster, Kazaa, Gnutella, and BitTorrent. For me, these programs were the first time the contradiction of artificial scarcity—the imposed scarcity of infinitely replicable digital information—and the excessive measures that were used to enforce it became startlingly clear. Over time, I encountered the term P2P in other settings and alongside other ideas—democratic governance, communalism, autonomy, cooperatives—and I started to see the purchase this idea had beyond file sharing and networking protocols.&lt;/p&gt;
 
@@ -186,15 +185,12 @@
       &lt;p&gt;Murphy, Justin. “On Urbit and Exit (featuring Urbit Engineer Ted Blackman).” YouTube. November 24, 2018. Accessed May 02, 2019.&lt;a href=&quot;https://www.youtube.com/watch?v=07LE6SAhUdo&quot;&gt;https://www.youtube.com/watch?v=07LE6SAhUdo&lt;/a&gt;.&amp;nbsp;&lt;a href=&quot;#fnref:24&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">by Francis Tseng</summary></entry><entry><title type="html">Lecture Performance at the Whitney Museum – 3.27.2019</title><link href="http://localhost:4000/posts/whitney/" rel="alternate" type="text/html" title="Lecture Performance at the Whitney Museum – 3.27.2019" /><published>2019-03-05T00:00:00-05:00</published><updated>2019-03-05T00:00:00-05:00</updated><id>http://localhost:4000/posts/whitney</id><content type="html" xml:base="http://localhost:4000/posts/whitney/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
-=======
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-04T10:57:11-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Announcing WYFY School with BUFU</title><link href="http://localhost:4000/posts/wyfy/" rel="alternate" type="text/html" title="Announcing WYFY School with BUFU" /><published>2019-05-01T00:00:00-04:00</published><updated>2019-05-01T00:00:00-04:00</updated><id>http://localhost:4000/posts/wyfy</id><content type="html" xml:base="http://localhost:4000/posts/wyfy/">&lt;p&gt;by Taeyoon Choi&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">by Francis Tseng</summary></entry><entry><title type="html">Announcing WYFY School with BUFU</title><link href="http://localhost:4000/posts/wyfy/" rel="alternate" type="text/html" title="Announcing WYFY School with BUFU" /><published>2019-05-01T00:00:00-04:00</published><updated>2019-05-01T00:00:00-04:00</updated><id>http://localhost:4000/posts/wyfy</id><content type="html" xml:base="http://localhost:4000/posts/wyfy/">&lt;p&gt;by Taeyoon Choi&lt;/p&gt;
 
 &lt;p&gt;We are excited to collaborate with BUFU (By Us For Us). The WYFY (With You For You) School Board of the Wise is a free, online and IRL school for a distributed learning community. We hope to explore new models for collective learning for code, code of ethics and code of conduct, please follow the &lt;a href=&quot;http://www.bufubyusforus.com/thewyfyschool&quot;&gt;BUFU’s site&lt;/a&gt; for the updates.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/wyfyposter1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/wyfyposter2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/wyfyposter1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/static/images/wyfy/wyfyposter2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;BUFU is a unique collective of artists, designers, storytellers and organizers. I first learned about BUFU around 2016 and I’ve been following their work closely. BUFU is building cultural solidarity among QTPOC and the wider public, combining art, fashion and music, and recently through technology. BUFU’s events feel different from any other arts and technology events. There’s an electric sense of excitement and radical inclusivity. BUFU’s conceptual approach is fearless and provocative. They explore the intersections of ideas and identifications with grace. Their aesthetic practice is rich and enticing, often combining graphic elements with photo, video and online storytelling. I’m thrilled to collaborate with them and their large community.&lt;/p&gt;
 
@@ -208,8 +204,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I hosted the inaugural “Orientation &amp;amp; Co-creation” at the Data and Society Research Institute (D&amp;amp;S) on May 1, 2019. The event was a culmination of long term collaboration with the D&amp;amp;S team. I intended to invite BUFU community to the D&amp;amp;S’s space and encourage them to learn about the D&amp;amp;S’s research on topics such as algorithmic accountability and AI, privacy and security, truth in the age of misinformation. I also wanted my friends at the D&amp;amp;S to experience BUFU’s organizing style and meet their community. The Distributed Web of Care project grew out of my fellowship at the D&amp;amp;S and it has been an intellecutal home for me. The researchers and fellows at the D&amp;amp;S are creating powerful conceptual tools to gain critical perspectives about technology. I hope artists, organizers and creative individuals can utilize &lt;a href=&quot;https://datasociety.net/output/&quot;&gt;their research&lt;/a&gt;, activate it in their practice and to empower their community. A number of D&amp;amp;S researchers and staff participated in the orientation event and contributed to imagining ‘dream schools’. Thanks to Rigo, Audrey, Janet, Sam, Erica, Natalie, Eli, Shadi, Sareeta and the Data and Society family.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Announcing Lecture Performance at the Whitney Museum</title><link href="http://localhost:4000/posts/whitney/" rel="alternate" type="text/html" title="Announcing Lecture Performance at the Whitney Museum" /><published>2019-03-05T00:00:00-05:00</published><updated>2019-03-05T00:00:00-05:00</updated><id>http://localhost:4000/posts/whitney</id><content type="html" xml:base="http://localhost:4000/posts/whitney/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
->>>>>>> 4bd4b47a00d9a0cf88d47224b7e5f83bce9246ef
+&lt;p&gt;I hosted the inaugural “Orientation &amp;amp; Co-creation” at the Data and Society Research Institute (D&amp;amp;S) on May 1, 2019.The &lt;a href=&quot;https://www.youtube.com/watch?v=h3azPormLc0&quot;&gt;video&lt;/a&gt; is available but forgive us about the poor sound quality. The event was a culmination of long term collaboration with the D&amp;amp;S team. I intended to invite BUFU community to the D&amp;amp;S’s space and encourage them to learn about the D&amp;amp;S’s research on topics such as algorithmic accountability and AI, privacy and security, truth in the age of misinformation. I also wanted my friends at the D&amp;amp;S to experience BUFU’s organizing style and meet their community. The Distributed Web of Care project grew out of my fellowship at the D&amp;amp;S between 2017 - 2018 and it has been an intellectual home for me. The researchers and fellows at the D&amp;amp;S are creating powerful conceptual tools to gain critical perspectives about technology. I hope artists, organizers and creative individuals can utilize &lt;a href=&quot;https://datasociety.net/output/&quot;&gt;their research&lt;/a&gt;, activate it in their practice and to empower their community. A number of D&amp;amp;S researchers and staff participated in the orientation event and contributed to imagining ‘dream schools’. Thanks to Rigo, Audrey, Janet, Sam, Madeline, Erica, Natalie, Eli, Shadi, Sareeta and the Data and Society family.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Announcing Lecture Performance at the Whitney Museum</title><link href="http://localhost:4000/posts/whitney/" rel="alternate" type="text/html" title="Announcing Lecture Performance at the Whitney Museum" /><published>2019-03-05T00:00:00-05:00</published><updated>2019-03-05T00:00:00-05:00</updated><id>http://localhost:4000/posts/whitney</id><content type="html" xml:base="http://localhost:4000/posts/whitney/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;I’m excited to present the Distributed Web of Care project with my collaborators and stewards this month in New York City. Hope to meet you there!&lt;/em&gt;&lt;/p&gt;
 
@@ -681,242 +676,4 @@ People who have been identified as an ‘another,’ marginalized people who car
 
 &lt;h3 id=&quot;further-reading-on-p2p-protocols&quot;&gt;Further Reading on P2P Protocols&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://vtduncan.github.io/how-dat-works/#encryption&quot;&gt;Dat Prototcol Guide&lt;/a&gt;
-&lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;SSB Protocol Guide&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Building a Museum 353 Years in the Future</title><link href="http://localhost:4000/posts/ari/" rel="alternate" type="text/html" title="Building a Museum 353 Years in the Future" /><published>2018-12-21T00:00:00-05:00</published><updated>2018-12-21T00:00:00-05:00</updated><id>http://localhost:4000/posts/ari</id><content type="html" xml:base="http://localhost:4000/posts/ari/">&lt;p&gt;by Ari Melenciano, DWC Artist in Residence&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@AriMelenciano_88366/el-museu-de-afrotopolis-building-a-museum-353-years-in-the-future-1cb9d9f668b8&quot;&gt;Ari’s blog&lt;/a&gt; on July 2, 2018, reposted on December 26, 2018 with permission.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;An exploration on the eradication of racial oppression in future times, through speculative design and futuristic ideating of a utopian city and society called, Afrotopolis.&lt;/p&gt;
-
-&lt;p&gt;We’re fighting for a better future. But what does that future actually look like? What will it feel like when Black Americans are no longer living in intensely toxic situations that have been carefully designed for White American gain? What type of art would Black artists be able to make when we no longer have to simultaneously fulfill our artistic needs while also fighting to push our culture forward? What will happen when automation entirely wipes out the proletariat and a war on current societal standards have erupted? This is a speculative exploration on the future through a Blackness lens on the psycho-geography of afro-futurism and societal design.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-1&quot;&gt;Part 1&lt;/h2&gt;
-
-&lt;p&gt;As one of the Ace Hotel in New York City &lt;a href=&quot;https://www.acehotel.com/newyork/events-and-spaces/calendar/detail/ace-air-taeyoon-ari-menlenciano/&quot;&gt;Artist-In-Residence&lt;/a&gt; (curated by &lt;a href=&quot;http://taeyoonchoi.com/&quot;&gt;Taeyoon Choi&lt;/a&gt;), I began my 24 hour residency by presenting a &lt;a href=&quot;https://distributedweb.care/posts/skillshares/&quot;&gt;skillshare&lt;/a&gt;, where there were about 15 participants, a mix of artists, designers, activists and engineers, who signed up to participate. The presentation started with a survey of my past works from building cameras, to creating a new media arts, culture and technology festival called &lt;a href=&quot;https://www.afrotectopia.com/&quot;&gt;Afrotectopia&lt;/a&gt;, to the &lt;a href=&quot;https://twitter.com/aricianoo/status/1002268551582048257&quot;&gt;data visualizations&lt;/a&gt; I’ve built that analyze the relationships between music video cinematography with the rhetoric and sentiments within lyrics. After the survey of past works, I dived into more recent thoughts on the structure of America and the ways these structures have been identified and highlighted within different pieces of art.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/01_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;lets-talk-about-race-oprah-magazine--photographer-chris-buck&quot;&gt;“Let’s Talk About Race” Oprah Magazine | Photographer: Chris Buck&lt;/h6&gt;
-
-&lt;p&gt;This survey included monumental work photographed by Chris Buck for the Oprah Magazine (May 2017) that highlights stereotypes and offers an opportunity to reimagine, by reversing them — as well as the hyper-surveillance of Black communities by police, that Jay Z communicates in his &lt;a href=&quot;https://www.youtube.com/watch?v=i5fxxMRzi1Q&quot;&gt;Marcy Me&lt;/a&gt; music video.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/02_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;marcy-mejay-z-music-video-screenshots&quot;&gt;Marcy Me — Jay Z (music video screenshots)&lt;/h6&gt;
-
-&lt;p&gt;My presentation then shifted to the job of activists and the feelings of being “jaded”. Which, inevitably becomes a sort of Activism Exhaust.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/03_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Activism Exhaust&lt;/em&gt; is the feeling of being “low on fuel” after having exercised various forms of activism for extensive periods of time. It is a frustration that occurs when success and progress within the fights for civil human rights is difficult to identify through standard success metrics. Thankfully, through several conversations with friends and colleagues— I was able to experience necessary paradigm shifts to reinvigorate my sense of possibilities within my own activism work. One included a conversation with Rashida Richardson, a lawyer that spoke on the &lt;em&gt;Black Resistance White Algorithms&lt;/em&gt; panel at &lt;a href=&quot;https://www.afrotectopia.com/&quot;&gt;Afrotectopia&lt;/a&gt;. In brainstorming possible solutions for the advancement of Black society, she noted how our fight as activists was missing a key element: a constructive and well-researched idea of the future.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/04_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;illustration-by-ari-melenciano&quot;&gt;Illustration by Ari Melenciano&lt;/h6&gt;
-
-&lt;p&gt;Leaving that conversation inspired me to begin my future activist work by defining an ideal place in time of racial equity and then move backward, creating a series of steps on how to get to this utopia. My thinking shifted from “how do we create a &lt;strong&gt;more&lt;/strong&gt; equitable future for the Black society?” to, “what does an ideal society for Black people &lt;strong&gt;look&lt;/strong&gt; like, and what steps would need to be taken to get there?”&lt;/p&gt;
-
-&lt;p&gt;In this new paradigm, I also spent more time researching digital carceral infrastructure (Jackie Wang’s &lt;a href=&quot;https://mitpress.mit.edu/books/carceral-capitalism&quot;&gt;Carceral Capitalism&lt;/a&gt; has become a new favorite), technological automation’s effect on the proletariat, geo-political activism, and different forms of speculative design. Through this lens, I embarked on a more intense analysis of current societal structures, beginning with capitalism and decentralized vs. centralized forms of access — to eventually building my own society and vision for the future, called Afrotopolis.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/05_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/06_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This new paradigm allowed me to dive deeper into an older idea of mine titled, The Afronet — which would serve as a key component in the development of Afrotopolis.&lt;/p&gt;
-
-&lt;p&gt;Black culture is Black society’s most lucrative export. It is also currently the world’s most profitable culture. Yet, the Black producers of this culture are barely receiving any of the monetary gains, while those that do have the capital to invest in the exploitation of Black culture for capital gain, which are predominately White men, are the only ones truly able to profit off of the culture. It is a cycle of cultural exploitation through racial expropriation via culture vultures funded by venture capitalists who’s ability to exist is off of the backs of poor, Black citizens. So, what sort of tool could be developed to no longer give access to Black culture to the people that do not quintessentially understand it or its history? What sort of system could be developed so that Black culture producers are the only ones profiting off of their creations (or at least profiting the most)? How would America have been able to operate differently if the ability to access a youtube video of Jay Z first required the ability to pass a series of tests analyzing one’s comprehension of Blackness and racial politics? Ideally, the development of The Afronet, would inspire new forms of radical digital activism for other cultures — similar to how the construction and practices of the Black Panther Party inspired the Chicano Brown Berets and Puerto Rican Young Lords.&lt;/p&gt;
-
-&lt;p&gt;In this exploration and development of Afrotopolis, I established a series of common values.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/07_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;values-of-afrotopolis-illustration-by-ari-melenciano&quot;&gt;Values of Afrotopolis, Illustration by Ari Melenciano&lt;/h6&gt;
-
-&lt;p&gt;My study progressed to focus on what has currently and previously occurred in various societies around the world — that I feel should be dismantled for the sake of mankind. I began exploring how social media introduces and exercises a form of social capital, and how social media has introduced hyper levels of individualism that may be doing more harm than good. As opposed to collective contribution to a communal society, we are finding odd situations occur — like non-profits of similar objectives competing for the same pool of money (maybe one entity feels that they are more equipped to handle the job than the other — which is understandable, but maybe one group aims for a larger amount of power — which requires a sort of hypocritical oppression of the other) or bureaucracy getting in the way of societal advancement that would better the lives of millions. This ties to a sort of greed (which I believe is current society’s greatest flaw) that is produced by capitalism. Social media has bred a new form of individualism that makes faces and identity a form of currency. It is a type of individualism that is intensely competitive and one that establishes new forms of digital oppression.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/08_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This form of individualism’s most common objective is fame. Fame, i’ve found, is strongly tied to capitalism. What if, in this new society of Afrotopolis, individualism was dismantled and replaced with communal strategy for holistic cultural advancement of all? Would that require the elimination of capitalism? I’m currently not finding a way that fame (in it’s current framework) could succeed without capitalism.&lt;/p&gt;
-
-&lt;p&gt;These ideas were presented in the skillshare part of the Distributed Web of Care residency. They were followed by an open discussion on afrofuturism, socialism, Blackness, hegemony, decentralized web structures and more — held both inside the Ace Hotel’s Boardroom and in Madison Square Park.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/09_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;participants-of-dwc-skillshare-1-photo-by-ari-melenciano&quot;&gt;Participants of DWC Skillshare #1 Photo by Ari Melenciano&lt;/h6&gt;
-
-&lt;p&gt;(Following photos taken by Taeyoon Choi, and DWC Fellows Cleo Miao and Callil Capuozzo)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/10_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/11_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/12_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/13_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/14_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/15_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/16_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;part-ii&quot;&gt;Part II&lt;/h2&gt;
-
-&lt;p&gt;The second part of the Distributed Web of Care residency, was a speculative design practice and social experiment.&lt;/p&gt;
-
-&lt;p&gt;In returning to this idea of &lt;em&gt;Activism Exhaust&lt;/em&gt;, I wanted to give a few of my friends and I a chance to explore a future where we no longer have to be activists of racial oppresion. This exploration tied back to my questions at the beginning of this essay:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;What will it feel like when Black Americans are no longer living in intensely toxic situations that have been carefully designed for White American gain? What type of art would Black artists be able to make when we no longer have to simultaneously fulfill our artistic needs while also fighting to push our culture forward? What will happen when automation entirely wipes out the proletariat and a war on current societal standards have erupted?&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To speculatively answer these questions, I designed a space for my friends and I to enter and explore with deep imagination, for the night.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/17_Ari.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;participants-of-el-museo-de-afrotopolis&quot;&gt;Participants of El Museo de Afrotopolis&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/18_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;instant-photos-of-the-artists-of-afrotopolis-2371&quot;&gt;Instant Photos of the Artists of Afrotopolis, 2371&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/19_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;illustration-by-ari-melenciano-1&quot;&gt;Illustration by Ari Melenciano&lt;/h6&gt;
-
-&lt;p&gt;&lt;strong&gt;We entered into the year, 2371.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In the timeline of events:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/20_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;By 2100, the massive amounts of investments and research that were being poured into the advancements of technological automation (machine learning and artificial intelligence) had completely wiped out the proletariat — producing an extreme level of poverty, exponentially greater than ever experienced before. As introduced by Walter Mosley in his short read, &lt;a href=&quot;http://www.orbooks.com/catalog/folding-red-black-walter-mosley/&quot;&gt;Folding the Read into the Black&lt;/a&gt;, I began to further explore the possibility of AI technology developers being taxed for their productions by metrics of the human labor it has eradicated. By 2150, this taxation on AI would be heavily enforced in attempt to supplement the displacement of the previously existing working class. By 2150, there is a war on capitalism and a true Power to the People Revolution, where the oppressed people of the entire world would unify in the redistribution of access to sustainable living. This would also be the era when the Afronet has fully infiltrated the centralized web network — creating immense amounts of capital for the Black society, right before capitalism is completely destroyed. By 2250, capitalism no longer exists, the tax on automation has eliminated classism by providing all with a bountiful amount of resources to sustain a desired life. Afrotopolis is considered a true Republic of The People, and has completely redefined societal standards — reflecting the Afrotopolis values aforementioned.&lt;/p&gt;
-
-&lt;p&gt;In this speculative design experience, the idea was that we had traveled to the year 2371, which was generations further into the future from the war on capitalism and the true Power to the People revolution — leaving the current society in opportunity to relish in this new world of equality in regards to civil rights, distribution of power, and access. Humans alive in the year of 2371 were 353 years removed from the tribulations of today, and deeply immersed in a world that no longer required them to be activists of racial advancement.&lt;/p&gt;
-
-&lt;p&gt;With this context, each participant of the night was then given an entirely new identity and told that they have been invited by the archivists of El Museo de Afrotopolis, to contribute their art into this museum. These moments throughout the experience were possibly the most disorienting as each person in the room currently (today in 2018) creates art that somehow stems from their racial identity, and ways that it oppresses their agency. How would it feel to no longer have that responsibility, but to instead be able to create purely for art’s sake? Would the art we create be purely for art’s sake or would we have other subjects to focus on? We started off with a 45 minute long conversation exploring the possibilities of our new realities, over a group dinner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/21_Ari.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/22_Ari.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/23.1_Ari.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/static/images/air/ari/23_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We then spent the next 30 minutes creating art as we further imagined where we’d artistically communicate from, with this new reality.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/24_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;tsige-zen-capturing-for-her-film&quot;&gt;Tsige (Zen) capturing for her film&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/25_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;artists-at-work&quot;&gt;Artists at work&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/26_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;artists-at-work-1&quot;&gt;Artists at work&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/27_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;roxana-migo-at-work&quot;&gt;Roxana (Migo) at work&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/28_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;tsige-zen-at-work&quot;&gt;Tsige (Zen) at work&lt;/h6&gt;
-
-&lt;p&gt;We then spent the next 30 minutes sharing our work with one another.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/29_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;el-museo-de-afrotopolis-archive&quot;&gt;El Museo de Afrotopolis Archive&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/30_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;tao-leigh-goffe&quot;&gt;Tao Leigh Goffe&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/31_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tao, re-identified as Pumoash, was a dancer, dance coach and urban designer who also enjoyed traveling, going to broadways and baking sweets. Pumoash studied historical games, including Dance Dance Revolution to create, “Dance Dance Revolution Architecture as dancing 2150 Power to the People Revolution as dance dance as revolution urban design + dance.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/32_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;terrell&quot;&gt;Terrell&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/33_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Terrell, re-identified as Yayot, was a digital media artist and painter who professionally practiced computer science and bartending and also enjoyed meditating, drawing and problem solving, in their free time. Yayot created “an interactive tool to compile stories of local customers to capture the stories behind bar visits. Customers tell, bar captures, the tech appropriates data into viable info for population.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/34_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;tsige&quot;&gt;Tsige&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/35_Ari.gif&quot; alt=&quot;&quot; /&gt;
-Tsige, re-identified as Zen, was a writer, photographer, and film director who enjoyed gardening, stargazing and debating on politics. Zen made a “meditation with intimacy/love by lil B.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/36_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;roxana-santana&quot;&gt;Roxana Santana&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/37_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Roxana, re-identified as Migo, was a video artist, podcaster, and florist who also enjoyed poetry, drawing flowers, and reading about astronomy. Migo explored botanism and how the creation of a “traditional flower … transitions into freedom of growth.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/38_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/39_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;finding-home-an-immersive-re-discovery-of-identity-through-flavor&quot;&gt;Finding Home: An Immersive re-discovery of Identity Through Flavor&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/40_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;cover-of-recipe-book&quot;&gt;Cover of recipe book&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/41_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;contents-of-recipe-book&quot;&gt;Contents of recipe book&lt;/h6&gt;
-
-&lt;p&gt;Sandra, re-identified as Oeii, was a writer and journalist for the Afrotropolis Times who was also passionate about the bioengineering of fruits and international recipes. In describing her work, she said, “Art is a written connection of questions and quotes around identity, memory, ancestry, and food. Also, recipes.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/42_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;romil&quot;&gt;Romil&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/43_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Romil, re-identified as Nellano, was a street artist, public sculpture artist and carpenter who enjoyed sculpting with soap bars and watching indie films. For his piece, “Population Projection”, Nellano created an “LED wall with wooden dials. Dials change societal variables to project impacts on population. LED wall also shows historical population changes over time.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/44_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;c-lee&quot;&gt;C. Lee&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/45_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;twiobi-creator-of-time-travel-robe-exhibits-operation-as-migo-wears-the-robe&quot;&gt;Twiobi, creator of time travel robe, exhibits operation as Migo wears the robe.&lt;/h6&gt;
-
-&lt;p&gt;Christopher, re-identified as Twiobi, was a seamstress and fashion model who enjoyed collecting stamps and other historical artifacts, hiking and mixing music. Twiobi created a “Metallic time-travel robe with audio clips over the 350 year period when wearer puts on the robe.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/46_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;ari&quot;&gt;Ari&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/47_Ari.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;illustrated-cake-before&quot;&gt;Illustrated Cake (before)&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/48_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;illustrated-cake-after&quot;&gt;Illustrated Cake (after)&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/49_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;woman-001&quot;&gt;Woman 001&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/50_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;woman-002&quot;&gt;Woman 002&lt;/h6&gt;
-
-&lt;p&gt;Ari (me), re-identified as Mirable, was a cake designer, physicist and molecular scientist who enjoyed cycling, reading vintage sci-fi novels and painting portraits of animals. Through a “series of image manipulations”, Mirable used “part one [to create] illustrations of cakes .. morphed into other objects of abstract form” and “part two [consisted of] photos of Black women of the 21st century … gone through a series of digital distortions — changing their hair and appearance as they attempted to fit into White notions of beauty.”&lt;/p&gt;
-
-&lt;p&gt;The night brought incredible insight and new alterations to current paradigms of thought. We meditated heavily on thoughts of what the necessary levels of maturity might be needed to experience a night like this (Terrell), how our place in the world changes when we thinking of future societies being descendants of our actions of today (Tsige), what freedom actually means, and what Blackness means absent of oppression.&lt;/p&gt;
-
-&lt;p&gt;None of the audio from the night was recorded, to create a genuine sense of liberty and freedom within our creativity, as well as security and safety within our expression.&lt;/p&gt;
-
-&lt;p&gt;The following morning was spent documenting the night.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/51_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;ari-me-in-front-of-the-hotel-mirror&quot;&gt;Ari (me) in front of the hotel mirror&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/52_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;entry-in-ace-air-sign-book&quot;&gt;Entry in Ace AIR sign book&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/53_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;photos-from-afrotopolis&quot;&gt;Photos from Afrotopolis&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/54_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;contribution-to-the-ace-air-archive&quot;&gt;Contribution to the Ace AIR archive&lt;/h6&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/air/ari/55_Ari.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;thank-you-ace-hotel-for-featuring-my-work-on-your-tvs&quot;&gt;Thank you, Ace Hotel, for featuring my work on your TVS.&lt;/h6&gt;
-
-&lt;p&gt;I left the hotel inspired to continue developing and growing the idea of Afrotopolis, with more minds to collaborate with.&lt;/p&gt;
-
-&lt;p&gt;Thank you Taeyoon Choi, for the opportunity to explore art and technology in my first artist residency. Thank you, Ace Hotel New York City, for the great hospitality. And thank you Christopher, Terrell, Sandra, Tsige, Tao, Romil, and Roxana for joining me in a night of futuristic and experimental thinking.&lt;/p&gt;
-
-&lt;p&gt;There will be more &lt;a href=&quot;https://distributedweb.care/posts/skillshares/&quot;&gt;skillshares&lt;/a&gt; with other Artists in Residence in July and &lt;strong&gt;&lt;a href=&quot;https://distributedweb.care/posts/party/&quot;&gt;The Distributed Web of Care Party&lt;/a&gt;&lt;/strong&gt; will be held at the Liberty Hall at the Ace Hotel New York on July 29th from 3–7pm.&lt;/p&gt;
-
-<<<<<<< HEAD
-&lt;p&gt;Ari Melenciano is a Brooklyn-based interdisciplinary artist, designer, creative technologist and activist. She recently graduated from NYU’s Interactive Telecommunications Graduate Program (ITP) and will be returning to NYU ITP to be a researcher — focusing on imaginative uses of technology, digital carceral infrastructure, archiving Blackness in new media, and digital activism efforts. Learn more about her work at &lt;a href=&quot;http://www.ariciano.com/&quot;&gt;www.ariciano.com.&lt;/a&gt; She can also be found on twitter (&lt;a href=&quot;https://twitter.com/aricianoo&quot;&gt;@ aricianoo&lt;/a&gt;) and instagram (&lt;a href=&quot;https://www.instagram.com/ariciano/&quot;&gt;@ ariciano&lt;/a&gt;).&lt;/p&gt;</content><author><name></name></author><summary type="html">by Ari Melenciano, DWC Artist in Residence</summary></entry></feed>
-=======
-&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-
-&lt;p&gt;This essay has been edited by &lt;strong&gt;Shira Feldman&lt;/strong&gt; and published on December 21st, 2018.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ari Melenciano&lt;/strong&gt; is a Brooklyn-based interdisciplinary artist, designer, creative technologist and activist. She recently graduated from NYU’s Interactive Telecommunications Graduate Program (ITP) and will be returning to NYU ITP to be a researcher — focusing on imaginative uses of technology, digital carceral infrastructure, archiving Blackness in new media, and digital activism efforts. Learn more about her work at &lt;a href=&quot;http://www.ariciano.com/&quot;&gt;www.ariciano.com.&lt;/a&gt; She can also be found on twitter (&lt;a href=&quot;https://twitter.com/aricianoo&quot;&gt;@ aricianoo&lt;/a&gt;) and instagram (&lt;a href=&quot;https://www.instagram.com/ariciano/&quot;&gt;@ ariciano&lt;/a&gt;).&lt;/p&gt;</content><author><name></name></author><summary type="html">by Ari Melenciano, DWC Artist in Residence</summary></entry></feed>
->>>>>>> 4bd4b47a00d9a0cf88d47224b7e5f83bce9246ef
+&lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;SSB Protocol Guide&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry></feed>

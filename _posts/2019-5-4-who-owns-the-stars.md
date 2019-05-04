@@ -113,7 +113,7 @@ In asking these questions, we should consider them not only as tools for evaluat
 ## About the Author: 
 ![]({{ site.base-url }}/static/images/francis/francis.jpg)
 
-Francis Tseng in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.
+[Francis Tseng](https://frnsys.com) in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.
 
 [^1]: "UR." Unqualified Reservations by Mencius Moldbug. Accessed May 02, 2019. [https://www.unqualified-reservations.org/#archive](https://www.unqualified-reservations.org/#archive). 
 
