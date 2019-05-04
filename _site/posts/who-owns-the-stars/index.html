@@ -1,0 +1,442 @@
+
+
+
+
+<!DOCTYPE html>
+<html
+  lang="en"
+  class="dark-gray">
+  <head>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Distributed Web of Care" />
+    <link rel="stylesheet" href="/static/styles/app.css">
+    
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Who Owns the Stars: The Trouble with Urbit | Distributed Web of Care</title>
+<meta property="og:title" content="Who Owns the Stars: The Trouble with Urbit" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="by Francis Tseng" />
+<meta property="og:description" content="by Francis Tseng" />
+<link rel="canonical" href="http://localhost:4000/posts/who-owns-the-stars/" />
+<meta property="og:url" content="http://localhost:4000/posts/who-owns-the-stars/" />
+<meta property="og:site_name" content="Distributed Web of Care" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-05-04T00:00:00-04:00" />
+<script type="application/ld+json">
+{"name":null,"description":"by Francis Tseng","author":null,"@type":"BlogPosting","url":"http://localhost:4000/posts/who-owns-the-stars/","publisher":null,"image":null,"headline":"Who Owns the Stars: The Trouble with Urbit","dateModified":"2019-05-04T00:00:00-04:00","datePublished":"2019-05-04T00:00:00-04:00","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/who-owns-the-stars/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+
+    <main class="measure-wide center ph3 pt5 pb6">
+  <h2 class="mt0 mb5">
+  <a
+    href="/"
+    class="no-underline bg-100">
+    Distributed Web of Care
+  </a>
+  </h2>
+  <section class="pv2">
+    <h1 class="mt0 mb1">Who Owns the Stars: The Trouble with Urbit</h1>
+    
+
+    <p>by Francis Tseng</p>
+
+<p>The application that introduced peer-to-peer (P2P) computing to the mainstream was file sharing, services like Napster, Kazaa, Gnutella, and BitTorrent. For me, these programs were the first time the contradiction of artificial scarcity—the imposed scarcity of infinitely replicable digital information—and the excessive measures that were used to enforce it became startlingly clear. Over time, I encountered the term P2P in other settings and alongside other ideas—democratic governance, communalism, autonomy, cooperatives—and I started to see the purchase this idea had beyond file sharing and networking protocols.</p>
+
+<p><a href="https://p2pfoundation.net/the-p2p-foundation/about-the-p2p-foundation">The P2P Foundation’s mission and strategic priorities</a>, for example, extend the early P2P ideas of open culture and exchange into values of cooperative living and regenerative production. <a href="https://www.scuttlebutt.nz/principles/">Scuttlebutt, a more recent P2P social networking protocol, has its own “principles stack”</a> that similarly advocates pluralistic exchange and mutual interdependence. It’s beautiful how, at least in the ideal scenario, by using a P2P service we are helping others access it as well. P2P is both an acknowledgment of our shared needs and an example of how cooperation helps us fulfill those needs.</p>
+
+<p>Over the years, I’ve followed along with P2P projects because of these shared values, and I always find it exciting when new projects emerge. It seems that P2P is experiencing something of a renaissance, likely due to the frenzy around blockchain (which purports to offer something similar to P2P) and the increasing popular anxiety around centralized internet services like Facebook.</p>
+
+<p>Urbit, “<a href="https://urbit.org/">a personal server built from scratch</a>,” first came across my radar a couple of years ago. Urbit positions itself as a P2P project, but it stands out in contrast to other P2P projects, mainly because the person behind it, Curtis Yarvin, seems antithetical to what I understand P2P to represent.</p>
+
+<p>My central question is this: <em>Is Urbit a project that should be supported?</em></p>
+
+<p>We can further break this down into two parts. First, Urbit’s marketing materials correctly identify that concentrated data aggregation and decision-making power are fundamental issues of the internet-as-we-know-it. Twitter’s persistent neglect of harassment on its platform is one everyday example. It is clear that new protocols and platforms that reduce our dependency on distant power are needed to challenge these issues. What’s less clear, though, is whether or not Urbit actually offers a meaningful alternative. Does Urbit genuinely enable new kinds of relations? Or, does it merely replace the old aristocracy with a new one?</p>
+
+<p>The second, and more urgent, question is: who and what are we supporting by supporting Urbit? Many people in tech still believe that technology can be divorced from its creators; however, those of us in tech need to recognize that we have a considerable amount of influence over which products enter the mainstream consciousness, which products get created at all, and who receives both financial and social capital (shout out to <a href="https://techworkerscoalition.org/">Tech Workers Coalition</a> et al.). For example, consider Peter Thiel , who co-founded PayPal and was an early investor in Facebook. Early support of PayPal and Facebook contributed to their financial success, which developed Thiel’s influence and made him quite rich. Thiel then turned that money and influence into Palantir Technologies, a software company that <a href="https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/">develops technologies to help expand surveillance and deportation for the government</a>. We have to consider what similar groundwork we help to lay by supporting Urbit.</p>
+
+<h2 id="context">Context</h2>
+
+<p>In order to discuss Urbit’s design, we need to have an understanding of the politics of its creator, Curtis Yarvin. <a href="https://en.wikipedia.org/wiki/Curtis_Yarvin">Curtis Yarvin</a> is innocuously described on Wikipedia as an “American political theorist and computer scientist,” but to many, he is better known as <a href="https://www.theatlantic.com/politics/archive/2017/02/behind-the-internets-dark-anti-democracy-movement/516243/">one of the intellectual forebears of the alt-right</a>. From 2007 to 2014<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, working under the pen name Mencius Moldbug, Yarvin writings, which among other things espoused anti-democratic ideas and scientific racism and helped introduce many of what are now understood as the alt-right’s foundational ideologies to a wider public. The term “red pill,” which describes the process of reactionary radicalization and the community around it, was first used in this way by Yarvin.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> Defenders of Urbit are quick to dismiss any inclusion of Yarvin’s politics in discussions about Urbit as unfair or irrelevant, and might point out that Yarvin left the project in January of this year.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> However, given that Yarvin basically laid out the general design for Urbit independently, as he worked on it alone for 11 years<sup id="fnref:3:1"><a href="#fn:3" class="footnote">3</a></sup> and in parallel with his political writings<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>, and that Urbit, as a P2P project, is a fundamentally social and thus incorporates ideas about how people should be organized, Yarvin’s politics should be considered as something that influences his design decisions and his long-term vision for the project. <a href="https://lobste.rs/s/z5j1hq/urbit_2017#c_4z4gik">Dog-whistles</a> have been identified in some of his writing about Urbit and its design, including his <a href="https://urbit.org/posts/essays/the-dao-as-a-lesson-in-decentralized-governance/">leaning on Nazi philosopher Carl Schmitt</a> for questions around Urbit’s governance.</p>
+
+<p>To save space I’ll provide only a very brief overview of Yarvin’s political philosophy—if you like, you can read more about it <a href="https://thebaffler.com/latest/mouthbreathing-machiavellis">here</a>, <a href="https://www.viewpointmag.com/2017/03/28/the-darkness-at-the-end-of-the-tunnel-artificial-intelligence-and-neoreaction/">here</a>, <a href="https://thebaffler.com/latest/the-moldbug-variations-pein">here</a>, and <a href="https://slatestarcodex.com/2013/10/20/the-anti-reactionary-faq/">here</a>.</p>
+
+<p>Yavin refers to his brand of political philosophy as “neocameralism.” Neocameralism, as described in his essay “<a href="https://www.unqualified-reservations.org/2007/08/against-political-freedom/">Against Political Freedom</a>,” is a political philosophy arguing that state should be run like a business, (i.e., with a CEO at its head and no democratic mechanisms). His ideas are credited as being foundational to the “<a href="https://techcrunch.com/2013/11/22/geeks-for-monarchy/">neoreactionary” movement</a>, which could be described as a neo-monarchist movement (though Yarvin himself doesn’t identify as a “monarchist” because of its association with a constitutional monarchy and not absolute monarchy). In the neoreactionary movement, “divine right” is supplanted with “genetic right” based on scientific racism reframed as “human biodiversity.” Yarvin’s writings are also popular within the right-libertarian sects of Silicon Valley, such as <a href="https://thebaffler.com/latest/the-moldbug-variations-pein">with Peter Thiel</a> (<a href="https://www.theverge.com/2017/2/21/14671978/alt-right-mencius-moldbug-urbit-curtis-yarvin-tlon">Peter Thiel also has a stake in Tlön</a>, Yarvin’s company which develops Urbit, via Thiel’s VC firm, Founders Fund). The point here is that Yarvin is not a fringe philosopher. His writings have influence over people with considerable power and contributes to the intellectual miasma that emboldens and normalizes anti-democratic, anti-immigrant, misogynistic, and racist policies and attacks.</p>
+
+<h2 id="urbit">Urbit</h2>
+<h4 id="a-self-sovereign-internet">A self-sovereign internet</h4>
+
+<p>Urbit positions itself as infrastructure for self-sovereignty in the digital age, liberating people from ceding control of their data to corporations.<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup> The core idea is that Urbit helps you run a personal server that acts as an intermediary between you and other services, including existing services like Facebook (yes, there is a lot more to Urbit—such as its reinvention of parts of the lower-level computational stack—but its P2P layer is what’s of interest here).</p>
+
+<p>Self-sovereignty is an important principle, and I wager that many who regularly use the internet would agree that more of it is valuable for a healthy internet: for being able to control who can access your data, who can and cannot contact you, and so on. <em>But</em>, self-sovereignty is far too vague of a concept on its own. Left- and right-libertarianism both start with self-sovereignty as a core value, but they end up with vastly different conceptions of what meaningful self-sovereignty looks like and how it can be achieved. Left-libertarianism finds that self-sovereignty arises from social organizing, care, and democratic governance, which build towards positive freedoms (freedom to learn, to flourish, and so on); whereas, right-libertarianism believes it comes from the market and that negative freedoms (freedom from restrictions and regulation) are the goal. Though Yarvin does not identify as a libertarian (he is, in his own words, sympathetic to it), his neocameralism is right-libertarianism taken to its logical conclusion<sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup> of corporate tyranny and serfdom.</p>
+
+<p>To draw an example that you might be familiar with, consider the Twitter-alternative, Gab, which markets itself as a bastion for free speech. Gab, in practice, operates as a niche platform for members of the far-right who have been banned from Twitter: “<a href="https://www.nytimes.com/2018/10/28/us/gab-robert-bowers-pittsburgh-synagogue-shootings.html">a haven for white nationalists, neo-Nazis and other extremists</a>”. We might ask then, is Gab a platform for free speech, or is it a platform for hate speech? Who’s speech does Gab prioritize? It quickly becomes clear that the concept of “free speech” that Gab deploys is not quite the same as what others see it to mean.</p>
+
+<p>In a similar way, this slipperiness of self-sovereignty as a concept, especially in light of Yarvin’s political writings, makes me suspicious of what it really means in the context of Urbit. Is Urbit actually designed to give users more autonomy and control? Does it restore any power to internet users?</p>
+
+<p>One central design feature of Urbit is its network hierarchy. As a participant in Urbit, you may be a galaxy (the top of the hierarchy), a star (which fall under galaxies), or a planet (which fall under stars). The description of this hierarchy <a href="https://github.com/cgyarvin/urbit/blob/6ac688960687aa9c89d4da6fff49a3125c10aca1/Spec/urbit/3-intro.txt">used to use explicitly feudal metaphors</a> as part of what Yarvin called “digital feudalism,” with himself as the “prince,” and further contributes to my suspicion of Yarvin’s conception of self-sovereignty actually entails.</p>
+
+<p>In trying to backpedal on these naming conventions, Yarvin claims that his ideas about governance are flipped for the internet:</p>
+
+<blockquote>
+  <p>If the real world today is governed as an insanely dysfunctional republic, and the Internet today is governed as a cluster of insanely despotic corporate monarchies, it doesn’t strike me as at all inconsistent with historical thought to treat the former case of misgovernment with efficient monarchism, and the latter case with liberating republicanism.<sup id="fnref:7"><a href="#fn:7" class="footnote">7</a></sup></p>
+</blockquote>
+
+<p>The rationale for why the opposite is the ideal in each case—beyond contrarianism, at least—is unclear. We should dig into how Urbit’s governance is laid out to better understand what’s going on here.</p>
+
+<p>Urbit’s primary governance model is a “self-governing digital republic” where <em>“authority is proportional to property.</em><sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup> Galaxies, stars, and planets are conceived of as property to be purchased and in limited supply, and one’s power within Urbit is determined by what tier of ownership they occupy and how much they own. The republic is structured as a “<a href="https://urbit.org/posts/essays/the-urbit-address-space/">three-chambered legislature balanced against itself</a>,” where galaxies, stars, and planets constitute the three tiers. There is not much detail on how this government would operate, other than an <a href="https://urbit.org/posts/essays/interim-constitution/">interim constitution</a>, which doesn’t describe how these tiers actually balance each other. For instance, the “planetary assembly”, which manages technical governance, doesn’t have any oversight of the “stellar congress”, which manages internal governance, or the “galactic senate”, which selects consuls, who hold “full authority” in this interim.<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup> When it comes to the stars and galaxies, <a href="https://urbit.org/posts/essays/why-urbit-probably-does-not-need-a-blockchain/">the extent of your political agency as a planet is exit</a>—that is, the only meaningful action you can take is to move to a different host star.<sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup></p>
+
+<p>This notion of “exit,” which is popular among Silicon Valley libertarians like Peter Thiel<sup id="fnref:11"><a href="#fn:11" class="footnote">11</a></sup>, is a key part of Yarvin’s political philosophy. It is summarized as, in Yarvin’s own words as: “If residents don’t like their government, they can and should move.”<sup id="fnref:12"><a href="#fn:12" class="footnote">12</a></sup> Of course, this formulation of mobility as the ultimate form of political action neglects all the actual complications of uprooting yourself (leaving behind friends, family, and history), the question of whether or not any other place will accept you (e.g., in the case of borders or discrimination), and reduces your political expression to a single vote.</p>
+
+<p>Obviously, exit in a digital context is logistically simpler than in a physical one, but it is still not easy. People critical of Twitter’s policies still use Twitter, not because they are hypocritical but because it’s a lot of effort to migrate to a new platform and re-establish connections from the former. People critical of Facebook may remain because it’s the only connection they have to some friends and family members. In both of these cases, having some mechanisms for democratic oversight would be more effective than showing people the door.</p>
+
+<p>There are still further issues with exiting. For example, I may be unable to exit if, perhaps for discriminatory reasons, I cannot find a star that is willing to host me. Or, I may be unable to establish my own star if no one is willing to sell to me for similar reasons. Additionally, we are forced to ask, How bad do things have to get before I decide to exit? Do I just have to endure everything below that threshold? The point of other (democratic) forms of political voice and agency are that they allow us to have a nuanced process of change, one that allows for fundamental shifts as well as the fine-tuning that is inevitably necessary. Limiting one’s political agency to exit, dismisses any potential for incremental change or open discussion—basically, if you don’t like the way things are, you can go. Otherwise, shut up and take it.</p>
+
+<h4 id="property-ownership-and-power">Property, ownership, and power</h4>
+
+<p>Because <em>“authority is proportional to property”</em> in Urbit, we should look more closely at how ownership is understood and operates in its design.<sup id="fnref:8:1"><a href="#fn:8" class="footnote">8</a></sup> In <a href="https://urbit.org/posts/essays/a-founders-farewell/">his farewell</a>, Yarvin, out of ignorance or for rhetorical purposes, does not seem to recognize how ownership is a power relation. This is especially baffling because, as just quoted, in Urbit power and ownership are explicitly linked. Somehow in Yarvin’s broader understanding of things, property ownership is “random” and this means we should just let it be:</p>
+
+<blockquote>
+  <p>When you live in Manhattan, you simply don’t worry about who owns it or why; and nor does it matter. Are they Jews? Muslims? Christians? Communists? Italians? You don’t care and you don’t have to. You know it’s basically random and probably unfair. Randomness, even blatant unfairness, creates a kind of neutral, peaceful, even promising urban anonymity.<sup id="fnref:3:2"><a href="#fn:3" class="footnote">3</a></sup></p>
+</blockquote>
+
+<p>However, contrary to Yarvin’s claims, who owns what in Manhattan matters to a great many people. With <a href="https://www.nytimes.com/2017/07/21/upshot/when-the-empty-apartment-next-door-is-owned-by-an-oligarch.html">apartments left vacant</a> to be used as investment vehicles, or else in <a href="https://www.brickunderground.com/rent/pied-a-terre-airbnb-affordable-housing-crisis-nyc">low-use</a> because it’s more profitable to rent them out as Airbnbs, many people are rightfully critical of who owns (and profits) from these properties—properties that could, among other things, serve to house some <a href="https://www.bowery.org/homelessness/">New York’s homeless population</a>. Likewise, people are critical of how the developers who own large portions of the city <a href="https://www.propublica.org/article/developers-of-manhattan-luxury-towers-give-millions-to-upstate-candidates">use their positions to lobby state government</a> to compound and expand their influence. Whether or not the current allocation of Manhattan’s space is random (how developers lobby local government is a clear example that it’s not) or unfair does not mean we should throw up our hands and let it be. This line of argumentation is a red herring to deter questioning the property-power dynamics that undergird Urbit’s design.</p>
+
+<p>If power in Urbit is predicated on ownership, then it’s worth asking who owns what. The distribution of galaxies (<a href="https://urbit.org/posts/essays/the-urbit-address-space/">as of 2016 at least</a>) puts 185 of the 256 in the hands of Tlön, Tlön’s employees, and urbit.org (which is <a href="https://urbit.org/posts/essays/interim-constitution/">currently under management and ownership of Tlön</a>). The story for stars is not much different: 57.62% of stars (almost 38,000 of the 65,500 stars) are also owned by Tlön, its employees, and urbit.org. Even with Urbit’s tiered hierarchical structure, which ostensibly decentralizes power, we can see that power is quite concentrated (which they acknowledge).<sup id="fnref:9:1"><a href="#fn:9" class="footnote">9</a></sup></p>
+
+<p>This comparison to Manhattan calls back to Urbit developers’ comparison of their system to land.<sup id="fnref:8:2"><a href="#fn:8" class="footnote">8</a></sup> Urbit’s design creates a class of digital landlords who are the primary political authorities. There are obviously significant differences between physical land and digital space, but it strikes me as a regression to reproduce land scarcity (and rent-seeking structures) in cyberspace. For Urbit’s digital land, scarcity has to be manufactured, and manufactured digital scarcity seems antithetical to P2P values—where the easy replicability of data represents new opportunities and alternatives to the crude economies we’ve stumbled through in the physical world.</p>
+
+<p>How then does Urbit justify this manufactured scarcity? The primary reason is as a defense against Sybil attacks—a class of attacks endemic to pretty much any digital networking system where adversaries can generate identities in bulk to attack the system (e.g., DDoS attacks or spam).<sup id="fnref:13"><a href="#fn:13" class="footnote">13</a></sup><sup id="fnref:8:3"><a href="#fn:8" class="footnote">8</a></sup><sup id="fnref:5:1"><a href="#fn:5" class="footnote">5</a></sup> Spam is something like a Sybil attack—it’s easy to make tons of email addresses and use them to bombard people.</p>
+
+<p>The paper that introduced Sybil attacks proved that there is no way to altogether prevent such attacks without introducing a centralized identity-verification authority.<sup id="fnref:14"><a href="#fn:14" class="footnote">14</a></sup> In the case of spam this would be like one organization that manages a global registry of non-spam emails. There are, however, ways to make Sybil attacks more expensive and thus less feasible to execute. In the case of Urbit, the scarcity is meant to compel prices for stars and planets such that they are too expensive for an attacker to purchase in bulk.<sup id="fnref:8:4"><a href="#fn:8" class="footnote">8</a></sup></p>
+
+<p>There are other decentralized Sybil-defense schemes proposed for P2P networking. Some introduce cryptographic puzzles, similar to Bitcoin’s proof-of-work.<sup id="fnref:15"><a href="#fn:15" class="footnote">15</a></sup><sup id="fnref:16"><a href="#fn:16" class="footnote">16</a></sup><sup id="fnref:17"><a href="#fn:17" class="footnote">17</a></sup> Others are based on explicit trust in social networks.<sup id="fnref:18"><a href="#fn:18" class="footnote">18</a></sup><sup id="fnref:19"><a href="#fn:19" class="footnote">19</a></sup><sup id="fnref:20"><a href="#fn:20" class="footnote">20</a></sup> These approaches aren’t without their flaws—Sybil attacks can’t be completely prevented, after all—but, crucially, these schemes don’t introduce points of centralization that require concentrated trust or introduce authorities that can exclude non-adversarial actors from the network. Because Urbit’s supply is explicitly controlled by owners of galaxies and stars, they can deny people access for any arbitrary reason. This is especially concerning because of the aforementioned concentration of Urbit property.</p>
+
+<p>Yet even though Urbit’s design grants political power proportionally to ownership, “[f]or the interim, full authority is held by the (Roman style) consulate.”<sup id="fnref:9:2"><a href="#fn:9" class="footnote">9</a></sup> Urbit is functionally an authoritarian regime for now. It is designed to <a href="https://urbit.org/posts/essays/common-objections-to-urbit/">decentralize eventually</a>—Urbit documentation acknowledges a need to spread out ownership of its assets.<sup id="fnref:8:5"><a href="#fn:8" class="footnote">8</a></sup> But, given the initial distribution of galaxies—95 galaxies to the Tlön Corporation; 50 to urbit.org (the future community foundation); 40 to Tlön employees and their family members (24 to Yarvin, who started in 2002, and 16 to everyone else who started in 2014); 34 to outside investors in Tlön; and 37 galaxies to 33 other individuals, who donated to the project, contributed code or services, won a contest, or were just in the right place at the right time—it isn’t clear what kind of further distribution of ownership they have in mind, or even whether it will be meaningful. More troubling still is that in their own words, Urbit describes this distribution as being spread “across a diverse set of entities,”<sup id="fnref:8:6"><a href="#fn:8" class="footnote">8</a></sup> when it seems to only encompass people in their immediate networks. This arrangement is reminiscent of Manhattan real estate: the earlier you got in, the more ownership, and thus power, you accrued.</p>
+
+<p>Furthermore, “decentralization” when used to describe governance is notoriously slippery, especially in blockchain and blockchain-adjacent contexts such as P2P. What does it mean for a government to be meaningfully decentralized? If galaxies and stars become prohibitively expensive to the point where only the wealthy can purchase them, does that lead to a decentralized government? Decentralization also says nothing about representative ratios. In the US, we have 535 members of Congress representing 3.2 million Americans; if Urbit achieves full adoption, there’ would be 256 galactic senate members representing 4.3 billion planets.</p>
+
+<p>There’s nothing to suggest that Urbit even cares about how representative its governance structures are. The word “democratic” is scarce across descriptions of Urbit’s governance. “Democracy” only appears once throughout all of urbit.org, and it is <a href="https://urbit.org/posts/essays/the-dao-as-a-lesson-in-decentralized-governance/">in a sarcastic quote</a>. The term also appears in an older document, and its use is telling: “Urbit will never be a democracy, but it should always remain a republic.”<sup id="fnref:21"><a href="#fn:21" class="footnote">21</a></sup> In that same document, Yarvin does mention that the dukes (now “galaxies” in the new terminology) will be organized democratically, but this is consistent with the republic formulation.<sup id="fnref:21:1"><a href="#fn:21" class="footnote">21</a></sup></p>
+
+<p>This, combined with Yarvin’s <a href="https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/">admiration of the Roman Principate</a> as an example of a government that “retain[s] the symbolic structures of democracy”<sup id="fnref:6:1"><a href="#fn:6" class="footnote">6</a></sup> while being autocratic in practice (the Roman Principate was ruled by an emperor but maintained a superficial senate for the appearance of a continuing republic), gives me reason to doubt the intentions around governance here. A new internet under this regime could easily turn out to be just as bad as or worse than it is now.</p>
+
+<h2 id="who-urbit-supports">Who Urbit Supports</h2>
+
+<p>While Yarvin is officially removed from the further design and development of Urbit, he still maintains a minority share in Tlön and a few thousand stars (he is “<a href="https://urbit.org/posts/essays/a-founders-farewell/">probably the only individual with a fair amount of Urbit address space</a>”). His departure at this point is not enough to counteract his heavy, and at times exclusive, involvement in Urbit’s foundational design and development.</p>
+
+<p>For me, there is an issue that goes beyond Urbit’s design and future ambitions. It comes down to the fact that if I were to support Urbit, I would also be supporting Yarvin—he still has a substantial stake in its success and, like any network-based platform, the value of Urbit increases the more people use it. At least <a href="https://www.reddit.com/r/IAmA/comments/4bxf6f/im_curtis_yarvin_developer_of_urbit_ama/">some people do support Urbit because they support Yarvin’s politics</a>. Yarvin’s years writing as Mencius Moldbug were possible <a href="http://www.2blowhards.com/archives/2007/04/_trial_version.html">because of money made during the dot-com boom</a>. After announcing his departure, <a href="https://www.reddit.com/r/slatestarcodex/comments/ag2s4f/curtis_yarvin_quit_tlon_the_startup_making_urbit/">people have expressed excitement around his return to writing</a>, so we may see further works of political philosophy from him. Even if Yarvin were to never write again, the success of Urbit is likely to draw attention to its creator—and introduce more people to his past writings.</p>
+
+<p>Beyond introducing Yarvin’s writings to new audiences, we should also consider how supporting Urbit supports Yarvin more directly. We can get a rough sense of Yarvin’s financial stake in Urbit, leaving aside speculation about his financial stake in Tlön itself:</p>
+
+<p>There are 256 galaxies and 65,536 stars across all of Urbit.<sup id="fnref:8:7"><a href="#fn:8" class="footnote">8</a></sup> There are roughly 4.3 billion planets that were initially evenly distributed across stars, so each star started with 65,000 planets.<sup id="fnref:22"><a href="#fn:22" class="footnote">22</a></sup> In the long-run Urbit developers believe $10 to be a fair price for a planet.<sup id="fnref:23"><a href="#fn:23" class="footnote">23</a></sup> Assuming that the price eventually converges to $10 per planet and Urbit achieves widespread adoption, then each star is worth $650k in planet real estate alone. Planets are also expected to pay a monthly fee to their stars for routing services (which is the bare minimum service; the star may choose to offer services as well).<sup id="fnref:24"><a href="#fn:24" class="footnote">24</a></sup> This fee is estimated to be anywhere from $10–$100 per month.<sup id="fnref:22:1"><a href="#fn:22" class="footnote">22</a></sup></p>
+
+<p>Let’s assume the lower end, that $10/month is required for the routing services. If a star sells all of its planets and they remain under that star, that’s potentially another $650k in revenue per month. When we consider that Yarvin owns “a few percent of all stars” (which is thousands of stars)<sup id="fnref:3:3"><a href="#fn:3" class="footnote">3</a></sup>, if Urbit does achieve widespread adoption, then that is a staggering amount of wealth. Yarvin’s nominal departure from Urbit does not change the fact that he stands to gain tremendously from its success.</p>
+
+<p>What does an internet in which Urbit achieves widespread adoption look like? I’m not sure it would look much different. You would have a personal server, sure; but then there would then be a new infrastructural layer between you and your ISP (who you’ll still have to pay) owned by <em>another</em> class of rentiers who you’ll also pay. One of the great appeals of P2P is that routing occurs almost as a side-effect of everyone using the internet, so by being online, you help others be online at essentially no additional cost. Urbit abandons this P2P property of mutual aid such that the property and power relations of the internet are mostly kept intact.</p>
+
+<p>Of course, it’s not certain—or even likely—that Urbit will ever achieve this level of adoption and value. What is clear, however, is that if I were to support Urbit, then I would, even in a small way, be making its spread and adoption all the more likely. We already spend so much of our time and money supporting regimes of violence, oppression, and inequality by merely existing in a capitalist society. These relationships are hard to break because they are so deeply established and entrenched within culture and the market. Urbit is not yet entrenched in the same way, and I do not want to help it get there. I want to have no part in supporting Yarvin or any other project or creator whose underlying ideology is hateful, reactionary, or anti-democratic.</p>
+
+<h2 id="closing-words">Closing Words</h2>
+
+<p>Urbit is still in such a nascent state with much left ambiguous. Its value (or your expectations of its value) largely depends on how much you trust the people behind it. It’s hard for me to trust people who have no problem working for someone like Yarvin who has actively contributed to the re-emergence of white supremacy and anti-democratic ideas, or who would go so far to <a href="https://www.theverge.com/2017/2/21/14671978/alt-right-mencius-moldbug-urbit-curtis-yarvin-tlon">dismiss Yarvin’s Nazi apologia (“What’s so bad about Nazis?”) as “trolling.</a>”</p>
+
+<p>“<a href="http://art.yale.edu/file_columns/0000/0066/borges.pdf">Tlön, Uqbar, Orbis Tertius</a>,” the Borges story where Yarvin’s company gets its name, describes a secret society, <em>Orbis Tertius</em>, that architects an entirely new world, <em>Tlön</em>, by publishing an encyclopedia describing it. Over time, bits of this fictional world begin to emerge in the real world, consuming it, such that “[t]he world will be Tlön.” What ideas are Yarvin’s Tlön trying to manifest in our world? What world would Yarvin seek to manifest with his new wealth?</p>
+
+<p>In asking these questions, we should consider them not only as tools for evaluating similar projects but also as criteria with we might develop new projects. What ideas do we want to manifest in our world? I absolutely agree that what Urbit positions itself against—an internet dominated by concentrated corporate interests and surveillance infrastructure—is something that internet technologists need to build alternatives to. But we shouldn’t replace it with another system of undemocratic control or one that supports far-right intellectuals. I hope to see more P2P projects that commit to most promising values of P2P systems—plurality, democracy, mutual interdependence, sharing, and cooperation—as they take on the difficult but necessary task of creating egalitarian platforms and infrastructure, rather than rehashing the old hierarchies. P2P computing is still a burgeoning technology, and while there are projects like <a href="https://www.scuttlebutt.nz/">Scuttlebutt</a>, <a href="https://beakerbrowser.com/">Beaker Browser</a>, and the various <a href="https://fediverse.party/">Fediverse projects</a>, which all reflect its potential, there is plenty of room for more.</p>
+
+<p><em>Additional acknowledgements: thanks to Dan Taeyoung and Matt Goerzen for their comments and insights.</em></p>
+
+<h2 id="about-the-author">About the Author:</h2>
+<p><img src="/static/images/francis/francis.jpg" alt="" /></p>
+
+<p>Francis Tseng in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>“UR.” Unqualified Reservations by Mencius Moldbug. Accessed May 02, 2019. <a href="https://www.unqualified-reservations.org/#archive">https://www.unqualified-reservations.org/#archive</a>.&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Moldburg, Mencius. “Gentle Introduction to Unqualified Reservations Chapter 1: The Red Pill.” January 8, 2009. Accessed May 02, 2019. <a href="https://www.unqualified-reservations.org/2009/01/gentle-introduction-to-unqualified/">https://www.unqualified-reservations.org/2009/01/gentle-introduction-to-unqualified/</a>&nbsp;<a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>Yarvin, Curtius. “A Founder’s Farewell.” Urbit /Posts. January 19, 2019. Accessed May 02, 2019. <a href="https://urbit.org/posts/essays/a-founders-farewell/">https://urbit.org/posts/essays/a-founders-farewell/</a>&nbsp;<a href="#fnref:3" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:3:1" class="reversefootnote">&#8617;<sup>2</sup></a>&nbsp;<a href="#fnref:3:2" class="reversefootnote">&#8617;<sup>3</sup></a>&nbsp;<a href="#fnref:3:3" class="reversefootnote">&#8617;<sup>4</sup></a></p>
+    </li>
+    <li id="fn:4">
+      <p>Yarvin, C. Guy. “Urbit: Functional Programming from Scratch.” Moron Lab. January 13, 2010. Accessed May 02, 2019. <a href="http://moronlab.blogspot.com/2010/01/urbit-functional-programming-from.html">http://moronlab.blogspot.com/2010/01/urbit-functional-programming-from.html</a>.&nbsp;<a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:5">
+      <p>“Primer.” Urbit. Accessed May 02, 2019. <a href="https://urbit.org/primer">https://urbit.org/primer</a>.&nbsp;<a href="#fnref:5" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:5:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:6">
+      <p>Moldburg, Mencius. “A Formalist Manifesto.” Unqualified Reservations by Mencius Moldbug. April 23, 2007. Accessed May 02, 2019. <a href="https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/">https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/</a>.&nbsp;<a href="#fnref:6" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:6:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:7">
+      <p>Lecher, Colin. “Alt-right Darling Mencius Moldbug Wanted to Destroy Democracy. Now He Wants to Sell You Web Services.” The Verge. February 21, 2017. Accessed May 02, 2019. <a href="https://www.theverge.com/2017/2/21/14671978/alt-right-mencius-moldbug-urbit-curtis-yarvin-tlon">https://www.theverge.com/2017/2/21/14671978/alt-right-mencius-moldbug-urbit-curtis-yarvin-tlon</a>.&nbsp;<a href="#fnref:7" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:8">
+      <p>“Common Objections to Urbit.” Urbit. June 28, 2016. Accessed May 02, 2019 <a href="https://urbit.org/posts/essays/common-objections-to-urbit/">https://urbit.org/posts/essays/common-objections-to-urbit/</a>&nbsp;<a href="#fnref:8" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:8:1" class="reversefootnote">&#8617;<sup>2</sup></a>&nbsp;<a href="#fnref:8:2" class="reversefootnote">&#8617;<sup>3</sup></a>&nbsp;<a href="#fnref:8:3" class="reversefootnote">&#8617;<sup>4</sup></a>&nbsp;<a href="#fnref:8:4" class="reversefootnote">&#8617;<sup>5</sup></a>&nbsp;<a href="#fnref:8:5" class="reversefootnote">&#8617;<sup>6</sup></a>&nbsp;<a href="#fnref:8:6" class="reversefootnote">&#8617;<sup>7</sup></a>&nbsp;<a href="#fnref:8:7" class="reversefootnote">&#8617;<sup>8</sup></a></p>
+    </li>
+    <li id="fn:9">
+      <p>“The Urbit Address Space.” Urbit. May 16, 2016. Accessed May 02, 2019 <a href="https://urbit.org/posts/essays/the-urbit-address-space/">https://urbit.org/posts/essays/the-urbit-address-space/</a>.&nbsp;<a href="#fnref:9" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:9:1" class="reversefootnote">&#8617;<sup>2</sup></a>&nbsp;<a href="#fnref:9:2" class="reversefootnote">&#8617;<sup>3</sup></a></p>
+    </li>
+    <li id="fn:10">
+      <p>“Why Urbit Probably Doesn’t Need a Blockchain.” Urbit / Posts. July 14, 2017. Accessed May 02, 2019. <a href="https://urbit.org/posts/essays/why-urbit-probably-does-not-need-a-blockchain/">https://urbit.org/posts/essays/why-urbit-probably-does-not-need-a-blockchain/</a>.&nbsp;<a href="#fnref:10" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:11">
+      <p>Tiku, Nitasha. “Silicon Valley’s Ultimate Exit Is a Fantasy of Seceding from the U.S.” Gawker. October 21, 2013. Accessed May 02, 2019. <a href="http://valleywag.gawker.com/silicon-valleys-ultimate-exit-is-a-fantasy-of-seceding-1449199349">http://valleywag.gawker.com/silicon-valleys-ultimate-exit-is-a-fantasy-of-seceding-1449199349</a>.&nbsp;<a href="#fnref:11" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:12">
+      <p>Moldbug, Mencius. “Patchwork: A Political System for the 21st Century Chapter 1: A Positive Vision” Unqualified Reservations by Mencius Moldbug. November 13, 2008. Accessed May 02, 2019. <a href="https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/">https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/</a>&nbsp;<a href="#fnref:12" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:13">
+      <p>“Interim Constitution.” Urbit / Posts. May 16, 2016. Accessed May 02, 2019. <a href="https://urbit.org/posts/essays/interim-constitution/">https://urbit.org/posts/essays/interim-constitution/</a>.&nbsp;<a href="#fnref:13" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:14">
+      <p>Douceur, John R. “The Sybil Attack.” International workshop on peer-to-peer systems. Springer, Berlin, Heidelberg, 2002.&nbsp;<a href="#fnref:14" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:15">
+      <p>Li, Frank, et al. “SybilControl: Practical Sybil defense with computational puzzles.” Proceedings of the seventh ACM workshop on Scalable trusted computing. ACM, 2012.&nbsp;<a href="#fnref:15" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:16">
+      <p>Sohl, Eli. “Resisting Sybil Attacks in Distributed Hash Tables.” Sohliloquies. February 25, 2017. Accessed May 02, 2019. <a href="http://sohliloquies.blogspot.com/2017/02/resisting-sybil-attacks-in-distributed_25.html">http://sohliloquies.blogspot.com/2017/02/resisting-sybil-attacks-in-distributed_25.html</a>.&nbsp;<a href="#fnref:16" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:17">
+      <p>Baumgart, Ingmar, and Sebastian Mies. “S/Kademlia: A practicable approach towards secure key-based routing.” 2007 International Conference on Parallel and Distributed Systems. IEEE, 2007.&nbsp;<a href="#fnref:17" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:18">
+      <p>Lesniewski-Laas, Christopher and M. Frans Kaashoek. “Whānau: A Sybil-proof Distributed Hash Table.” 7th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2010, April 28-30, 2010, San Jose, Calif. Version: Author’s final manuscript&nbsp;<a href="#fnref:18" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:19">
+      <p>“Tonika.” Tonika - P2P Foundation. Accessed May 02, 2019. <a href="https://wiki.p2pfoundation.net/Tonika">https://wiki.p2pfoundation.net/Tonika</a>.&nbsp;<a href="#fnref:19" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:20">
+      <p>Viswanath, Bimal, et al. “An analysis of social network-based sybil defenses.” ACM SIGCOMM Computer Communication Review 41.4 (2011): 363-374.&nbsp;<a href="#fnref:20" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:21">
+      <p>Cgyarvin. “Cgyarvin/urbit.” GitHub. Accessed May 02, 2019.<a href="https://github.com/cgyarvin/urbit/blob/6ac688960687aa9c89d4da6fff49a3125c10aca1/Spec/urbit/3-intro.txt">https://github.com/cgyarvin/urbit/blob/6ac688960687aa9c89d4da6fff49a3125c10aca1/Spec/urbit/3-intro.txt</a>.&nbsp;<a href="#fnref:21" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:21:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:22">
+      <p>“R/urbit - What Will a Star Owner Do?” Reddit. Accessed May 02, 2019.<a href="https://www.reddit.com/r/urbit/comments/78wean/what_will_a_star_owner_do/">https://www.reddit.com/r/urbit/comments/78wean/what_will_a_star_owner_do/</a>.&nbsp;<a href="#fnref:22" class="reversefootnote">&#8617;</a>&nbsp;<a href="#fnref:22:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:23">
+      <p>“Primer.” Urbit / Docs. Accessed May 02, 2019.<a href="https://urbit.org/docs/learn/azimuth/">https://urbit.org/docs/learn/azimuth/</a>.&nbsp;<a href="#fnref:23" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:24">
+      <p>Murphy, Justin. “On Urbit and Exit (featuring Urbit Engineer Ted Blackman).” YouTube. November 24, 2018. Accessed May 02, 2019.<a href="https://www.youtube.com/watch?v=07LE6SAhUdo">https://www.youtube.com/watch?v=07LE6SAhUdo</a>.&nbsp;<a href="#fnref:24" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+    
+  </section>
+  <hr />
+  <section class="pv2">
+    
+    <p><img src="/static/images/og.jpg" alt="group photo" /></p>
+
+<p>Distributed Web of Care is an initiative to <em>code to care</em> and <em>code carefully</em>.</p>
+
+<p>Distributed on <a href="dat://distributedweb.care/">Dat</a> and <a href="https://github.com/tchoi8/distributedwebofcare">GitHub</a>.</p>
+
+<p>2018</p>
+
+
+  </section>
+  
+    <hr />
+    <section class="pv2">
+      <ul class="list pl0">
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">May 4, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/who-owns-the-stars/">Who Owns the Stars: The Trouble with Urbit</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Mar 5, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/whitney/">Lecture Performance at the Whitney Museum – 3.27.2019</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Feb 25, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/stewards/">Call for stewards who identify as a Deaf or disabled person</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Feb 7, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/online-achives/">Making Space in Online Archives</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jan 29, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/accessibility-dreams/">Accessibility Dreams</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jan 28, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/creative-publishing/">Creative Self Publishing</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jan 11, 2019</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/racial-justice/">Racial Justice in the Distributed Web</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Dec 29, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/laca/">Residency at LACA</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Dec 28, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/codesocieties/">Class for Code Societies at SFPC</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Dec 21, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/ari/">Building a Museum 353 Years in the Future</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Sep 11, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/findingintimacy/">Finding Intimacy within Black Feminist Criticism </a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jul 26, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/stillstuckwithwords/">still stuck with words</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jul 26, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/distributeddancefloor/">Distributed Dance Floor</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jun 27, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/skillshares/">Skillshares: Peers in Practice</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jun 27, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/party/">Distributed Web of Care Party </a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jun 27, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/cleo/">Communities and new infrastructures</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Jun 27, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/callil/">New Gardens</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">May 20, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/summer-2018-fellows/">Announcing Summer 2018 Fellows</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Apr 28, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/products/">Care shirt and hoodie</a>
+            </h3>
+          </li>
+        
+          <li class="mt0 mb4">
+            <span class="silver db mb1">Apr 27, 2018</span>
+            <h3 class="ma0">
+              <a class=" no-underline" href="/posts/air/">Artists in Residence at Ace Hotel New York</a>
+            </h3>
+          </li>
+        
+        <li class="pt4 mt0 mb4">
+          <h2 class="ma0">
+            <a
+            href="/"
+            class="no-underline bg-100">
+              Distributed Web of Care
+            </a>
+          </h2>
+        </li>
+      </ul>
+    </section>
+  
+</main>
+
+    <script>
+      var moreLink = document.querySelector('.js-more')
+      if (moreLink) {
+        document.querySelector('.js-more').addEventListener('click', function (e) {
+          e.preventDefault()
+          e.target.classList.add('dn')
+          e.target.classList.remove('dib')
+          document.querySelectorAll('.js-hidden').forEach(function (elt) {
+            elt.classList.remove('dn')
+          })
+        })
+      }
+    </script>
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+  </body>
+</html>
