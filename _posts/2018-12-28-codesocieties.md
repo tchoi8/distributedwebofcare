@@ -1,5 +1,5 @@
 ---
-title: "Class for Code Societies at SFPC"
+title: "Announcing DWC at Code Societies"
 layout: post
 
 # To set og:image:

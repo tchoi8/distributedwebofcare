@@ -5,7 +5,7 @@ layout: post
 # To set og:image:
 # image: ...
 ---
- 
+
 The Distributed Web of Care team is excited to announce two fellows for Summer 2018. We are thankful to everyone who applied to the fellowship. We look forward to engaging with the community via public programs in NYC this July. 
 
 # Design & Storytelling Fellow 
