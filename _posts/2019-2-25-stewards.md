@@ -1,12 +1,19 @@
 ---
-title: "Call for stewards who identify as a Deaf or disabled person"
+title: "Announcing Call for Deaf or Disabled Stewards"
 
 # To set og:image:
 # image: http://distributedweb.care/static/images/party/mplus.jpg
 ---
 
+*Update May 2019: Applications for this particular call are no longer open, however if you are interested in collaborating with the project please reach out.*
+
 Distributed Web of Care (DWC) is a collaboration between artists, writers and engineers to imagine a more equitable, caring internet for the future. The project is initiated by Taeyoon Choi, who has been working with disability community and artists to criticially challenge the notions of accessibility and inclusion. Read his article [Artificial Advancement](https://thenewinquiry.com/artificial-advancements/) and Shannon Finnegan's article [Accessibility Dreams](http://distributedweb.care/posts/accessibility-dreams/). 
 
+ 
+![]({{ site.base-url }}/static/images/party/decentralizedwebsummitmedia-20180801-session1-1_0085.jpg)
+
+In February - March 2019, we are looking for stewards who identify as a Deaf or disabled person. We are planning a large scale participatory performance art in the end of March. The event will have ASL interpretation and audio description. We would like to work with stewards who identify as a Deaf or Disabled person to create an inclusive and welcoming experience for the disability community.   
+ 
 ![A large group of people holding strings]({{ site.base-url }}/static/images/party/decentralizedwebsummitmedia-20180801-session1-1_0085.jpg)
 
 [Decentralized Web Summit](https://decentralizedweb.net/distributed-web-of-care/), The Internet Archive/San Fransisco Mint, 2018 

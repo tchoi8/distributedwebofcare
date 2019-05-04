@@ -6,6 +6,8 @@ layout: post
 # image: ...
 ---
 
+*Applications for this call are no longer open.*
+
 ## Design & Storytelling Fellow
 
 The fellow will work with Taeyoon Choi alongside the Technology Fellow in designing and creating visual content for the ongoing Distributed Network of Care series, most importantly a project-specific website to be built by a static site generator and published on a distributed network. They should be experienced with web design (HTML, CSS, JS), typography, and collaboration with developers. They should have a particular interest in storytelling through digital and nonlinear forms, and an excitement for documenting workshops and future events with relevant artwork. They will create and publish openly DWC related content with a [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) license with attributions to collaborators.

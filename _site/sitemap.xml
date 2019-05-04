@@ -93,11 +93,16 @@
 <lastmod>2019-03-05T00:00:00-05:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/posts/who-owns-the-stars/</loc>
 <lastmod>2019-05-04T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
+=======
+<loc>http://localhost:4000/posts/wyfy/</loc>
+<lastmod>2019-05-01T00:00:00-04:00</lastmod>
+>>>>>>> 4bd4b47a00d9a0cf88d47224b7e5f83bce9246ef
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
