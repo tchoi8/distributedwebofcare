@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-04T16:28:40-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Who Owns the Stars: The Trouble with Urbit</title><link href="http://localhost:4000/posts/who-owns-the-stars/" rel="alternate" type="text/html" title="Who Owns the Stars: The Trouble with Urbit" /><published>2019-05-04T00:00:00-04:00</published><updated>2019-05-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/who-owns-the-stars</id><content type="html" xml:base="http://localhost:4000/posts/who-owns-the-stars/">&lt;p&gt;by Francis Tseng&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-06T10:52:40-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Who Owns the Stars: The Trouble with Urbit</title><link href="http://localhost:4000/posts/who-owns-the-stars/" rel="alternate" type="text/html" title="Who Owns the Stars: The Trouble with Urbit" /><published>2019-05-04T00:00:00-04:00</published><updated>2019-05-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/who-owns-the-stars</id><content type="html" xml:base="http://localhost:4000/posts/who-owns-the-stars/">&lt;p&gt;by Francis Tseng&lt;/p&gt;
 
 &lt;p&gt;The application that introduced peer-to-peer (P2P) computing to the mainstream was file sharing, services like Napster, Kazaa, Gnutella, and BitTorrent. For me, these programs were the first time the contradiction of artificial scarcity—the imposed scarcity of infinitely replicable digital information—and the excessive measures that were used to enforce it became startlingly clear. Over time, I encountered the term P2P in other settings and alongside other ideas—democratic governance, communalism, autonomy, cooperatives—and I started to see the purchase this idea had beyond file sharing and networking protocols.&lt;/p&gt;
 
@@ -108,7 +108,7 @@
 &lt;h2 id=&quot;about-the-author&quot;&gt;About the Author:&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/static/images/francis/francis.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Francis Tseng in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://frnsys.com&quot;&gt;Francis Tseng&lt;/a&gt; in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -195,8 +195,6 @@
 &lt;p&gt;BUFU is a unique collective of artists, designers, storytellers and organizers. I first learned about BUFU around 2016 and I’ve been following their work closely. BUFU is building cultural solidarity among QTPOC and the wider public, combining art, fashion and music, and recently through technology. BUFU’s events feel different from any other arts and technology events. There’s an electric sense of excitement and radical inclusivity. BUFU’s conceptual approach is fearless and provocative. They explore the intersections of ideas and identifications with grace. Their aesthetic practice is rich and enticing, often combining graphic elements with photo, video and online storytelling. I’m thrilled to collaborate with them and their large community.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
