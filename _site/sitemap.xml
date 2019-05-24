@@ -99,10 +99,13 @@
 <url>
 <loc>http://localhost:4000/posts/who-owns-the-stars/</loc>
 <lastmod>2019-05-04T00:00:00-04:00</lastmod>
+<<<<<<< HEAD
 </url>
 <url>
 <loc>http://localhost:4000/posts/on-stewardship/</loc>
 <lastmod>2019-05-24T00:00:00-04:00</lastmod>
+=======
+>>>>>>> 7074b148b24aa353877bf7cb6f12fe2b929862de
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

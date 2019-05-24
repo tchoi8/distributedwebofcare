@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-24T10:55:02-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">On Stewardship</title><link href="http://localhost:4000/posts/on-stewardship/" rel="alternate" type="text/html" title="On Stewardship" /><published>2019-05-24T00:00:00-04:00</published><updated>2019-05-24T00:00:00-04:00</updated><id>http://localhost:4000/posts/on-stewardship</id><content type="html" xml:base="http://localhost:4000/posts/on-stewardship/">&lt;p&gt;by Jerron Herman&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Attending. Attending. Attending. As you prepare to demonstrate your prowess, attend to the ones here. If ego plays a part, you are doomed. Also, you’ve got something to offer.&lt;/em&gt;&lt;/p&gt;
@@ -66,6 +67,9 @@
 &lt;p&gt;&lt;img src=&quot;/static/images/jerron/9_jerron.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jerron Herman is an interdisciplinary artist who’s been featured with Heidi Latsky Dance at Lincoln Center, ADF, the Whitney Museum, and abroad in Athens. He’s been a principal member of HLD since 2011. Jerron now serves on the Board of Trustees at Dance/USA. Jerron has also shot for Tommy Hilfiger Adaptive, consulted for a Nike-sponsored project, and was profiled in Great Big Story. In 2018 he was a Snug Harbor PASS artist, a finalist for the inaugural Apothetae/Lark Play Development Lab Fellowship and was nominated for a Fellowship in Dance from United States Artists. His latest solos include Phys. Ed. and Relative – a crip dance party. Jerron studied at Tisch School of the Arts and graduated from The King’s College. The New York Times has called him, “…the inexhaustible Mr. Herman.” &lt;a href=&quot;https://jerronherman.com/&quot;&gt;www.jerronherman.com&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Jerron Herman</summary></entry><entry><title type="html">Who Owns the Stars: The Trouble with Urbit</title><link href="http://localhost:4000/posts/who-owns-the-stars/" rel="alternate" type="text/html" title="Who Owns the Stars: The Trouble with Urbit" /><published>2019-05-04T00:00:00-04:00</published><updated>2019-05-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/who-owns-the-stars</id><content type="html" xml:base="http://localhost:4000/posts/who-owns-the-stars/">&lt;p&gt;by Francis Tseng&lt;/p&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-06T11:45:40-04:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Who Owns the Stars: The Trouble with Urbit</title><link href="http://localhost:4000/posts/who-owns-the-stars/" rel="alternate" type="text/html" title="Who Owns the Stars: The Trouble with Urbit" /><published>2019-05-04T00:00:00-04:00</published><updated>2019-05-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/who-owns-the-stars</id><content type="html" xml:base="http://localhost:4000/posts/who-owns-the-stars/">&lt;p&gt;by Francis Tseng&lt;/p&gt;
+>>>>>>> 7074b148b24aa353877bf7cb6f12fe2b929862de
 
 &lt;p&gt;The application that introduced peer-to-peer (P2P) computing to the mainstream was file sharing, services like Napster, Kazaa, Gnutella, and BitTorrent. For me, these programs were the first time the contradiction of artificial scarcity—the imposed scarcity of infinitely replicable digital information—and the excessive measures that were used to enforce it became startlingly clear. Over time, I encountered the term P2P in other settings and alongside other ideas—democratic governance, communalism, autonomy, cooperatives—and I started to see the purchase this idea had beyond file sharing and networking protocols.&lt;/p&gt;
 
@@ -175,7 +179,7 @@
 &lt;h2 id=&quot;about-the-author&quot;&gt;About the Author:&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/static/images/francis/francis.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Francis Tseng in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://frnsys.com&quot;&gt;Francis Tseng&lt;/a&gt; in an engineer working primarily with simulation and machine learning. His research interests include climate change, tech autonomy, and traps. He is currently a fellow at the Jain Family Institute. Formerly, he taught at the New School and co-published The New Inquiry.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -261,15 +265,17 @@
 
 &lt;p&gt;BUFU is a unique collective of artists, designers, storytellers and organizers. I first learned about BUFU around 2016 and I’ve been following their work closely. BUFU is building cultural solidarity among QTPOC and the wider public, combining art, fashion and music, and recently through technology. BUFU’s events feel different from any other arts and technology events. There’s an electric sense of excitement and radical inclusivity. BUFU’s conceptual approach is fearless and provocative. They explore the intersections of ideas and identifications with grace. Their aesthetic practice is rich and enticing, often combining graphic elements with photo, video and online storytelling. I’m thrilled to collaborate with them and their large community.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/bufu-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/bufu-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/bufu-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/bufu-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/BUFU5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/wyfy/bufu-5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Photos by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I hosted the inaugural “Orientation &amp;amp; Co-creation” at the Data and Society Research Institute (D&amp;amp;S) on May 1, 2019.The &lt;a href=&quot;https://www.youtube.com/watch?v=h3azPormLc0&quot;&gt;video&lt;/a&gt; is available but forgive us about the poor sound quality. The event was a culmination of long term collaboration with the D&amp;amp;S team. I intended to invite BUFU community to the D&amp;amp;S’s space and encourage them to learn about the D&amp;amp;S’s research on topics such as algorithmic accountability and AI, privacy and security, truth in the age of misinformation. I also wanted my friends at the D&amp;amp;S to experience BUFU’s organizing style and meet their community. The Distributed Web of Care project grew out of my fellowship at the D&amp;amp;S between 2017 - 2018 and it has been an intellectual home for me. The researchers and fellows at the D&amp;amp;S are creating powerful conceptual tools to gain critical perspectives about technology. I hope artists, organizers and creative individuals can utilize &lt;a href=&quot;https://datasociety.net/output/&quot;&gt;their research&lt;/a&gt;, activate it in their practice and to empower their community. A number of D&amp;amp;S researchers and staff participated in the orientation event and contributed to imagining ‘dream schools’. Thanks to Rigo, Audrey, Janet, Sam, Madeline, Erica, Natalie, Eli, Shadi, Sareeta and the Data and Society family.&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Announcing Lecture Performance at the Whitney Museum</title><link href="http://localhost:4000/posts/whitney/" rel="alternate" type="text/html" title="Announcing Lecture Performance at the Whitney Museum" /><published>2019-03-05T00:00:00-05:00</published><updated>2019-03-05T00:00:00-05:00</updated><id>http://localhost:4000/posts/whitney</id><content type="html" xml:base="http://localhost:4000/posts/whitney/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
 
@@ -610,4 +616,141 @@ People who have been identified as an ‘another,’ marginalized people who car
 &lt;p&gt;&lt;img src=&quot;http://taeyoonchoi.com/wp-content/uploads/2017/02/sign-0640-768x512.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;http://taeyoonchoi.com/wp-content/uploads/2017/02/sign-0631-768x512.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;&lt;a href=&quot;http://taeyoonchoi.com/2017/02/sign-making-workshop-la/&quot;&gt;Sign Making Workshop&lt;/a&gt; in 2017&lt;/p&gt;</content><author><name></name></author><summary type="html">Taeyoon Choi will hold a residency at the Los Angeles Contemporary Archive located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.</summary></entry></feed>
+=======
+&lt;p&gt;&lt;a href=&quot;http://taeyoonchoi.com/2017/02/sign-making-workshop-la/&quot;&gt;Sign Making Workshop&lt;/a&gt; in 2017&lt;/p&gt;</content><author><name></name></author><summary type="html">Taeyoon Choi will hold a residency at the Los Angeles Contemporary Archive located at 709 N Hill Street, Suite 104-8 (upstairs), Los Angeles, CA 90012 between January 12 and 18, 2019.</summary></entry><entry><title type="html">Announcing DWC at Code Societies</title><link href="http://localhost:4000/posts/codesocieties/" rel="alternate" type="text/html" title="Announcing DWC at Code Societies" /><published>2018-12-28T00:00:00-05:00</published><updated>2018-12-28T00:00:00-05:00</updated><id>http://localhost:4000/posts/codesocieties</id><content type="html" xml:base="http://localhost:4000/posts/codesocieties/">&lt;p&gt;&lt;em&gt;by Taeyoon Choi&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A class at Code Societies Winter 2019 at the School for Poetic Computation in New York City.&lt;/p&gt;
+
+&lt;p&gt;Distributed Web of Care is an initiative to code to care and code carefully. In this class there will engage in three different activities. First, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular technology platforms, focusing on its network infrastructure and terms of services. We will compare them with decentralized alternatives such as &lt;a href=&quot;https://datproject.org&quot;&gt;Dat&lt;/a&gt; Peer to Peer Protocol and &lt;a href=&quot;http://www.scuttlebutt.nz&quot;&gt;Scuttlebutt&lt;/a&gt;. Second, we will take on performative exercises to explore the feeling of being in a network. We will learn to move around in physical space with strings in order to care, not control, each other. Lastly, we will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our code and code of conduct as zines in physical print and data, published with Dat.&lt;/p&gt;
+
+&lt;p&gt;Suggested readings&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newrepublic.com/article/133889/reboot-world&quot;&gt;Reboot World&lt;/a&gt; by Paul Ford&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vanityfair.com/culture/2015/01/ray-johnson-art-pranks&quot;&gt;Meet Ray Johnson, the Greatest Artist You’ve Never Heard Of&lt;/a&gt; by Rachel Tashjian&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/&quot;&gt;My website is a shifting house next to a river of knowledge. What could yours be?&lt;/a&gt; by Laurel Schwulst&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/zachmandeville/dat-zine-library&quot;&gt;Dat Zine Library&lt;/a&gt; by Zach Mandeville&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://decentralizedweb.net/distributed-web-of-care/&quot;&gt;Distributed Web of Care&lt;/a&gt; by Taeyoon Choi&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://distributedweb.care/posts/eaw/&quot;&gt;Ethics and Archiving the Web&lt;/a&gt; by Distributed Web of Care&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hyperallergic.com/474137/at-the-new-york-tech-zine-fair-the-digital-and-the-tactile-converge/&quot;&gt;At the New York Tech Zine Fair, the Digital and the Tactile Converge&lt;/a&gt; by Megan N. Liberty&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solar.lowtechmagazine.com/about.html&quot;&gt;Low-tech Magazine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In class, we will use terminal, git and Dat. Please familiarize yourself with using the terminal. The class is based on &lt;a href=&quot;https://github.com/tchoi8/distributedwebofcare/tree/codesocieties&quot;&gt;a  class&lt;/a&gt; from Summer 2018.&lt;/p&gt;
+
+&lt;h1 id=&quot;concepts&quot;&gt;Concepts&lt;/h1&gt;
+
+&lt;p&gt;Intersections of Race – Gender – Environment – Disability justice&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/SFPC/codeecologies/tree/master/notes&quot;&gt;Code Ecologies&lt;/a&gt; notes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewinquiry.com/artificial-advancements/&quot;&gt;Artificial Advancements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sfpc.io/classes/computingandstories/&quot;&gt;Computing and Stories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tchoi8/diversity-at-sfpc-d494d7390375&quot;&gt;Diversity at SFPC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Code of Conduct from &lt;a href=&quot;http://etextilespringbreak.org/&quot;&gt;eTextile Spring break&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;keywords&quot;&gt;Keywords&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;dat create : You are creating your digital archive.&lt;/li&gt;
+  &lt;li&gt;dat keys: In case you forget your key, you can get it again.&lt;/li&gt;
+  &lt;li&gt;dat share: You will start to seed your archive.&lt;/li&gt;
+  &lt;li&gt;dat sync: You can connect to a remote dat, and live sync to it’s changes. This also results in you sharing the archive even when the original archive is not available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;step-by-step&quot;&gt;Step by step&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Getting set up
+    &lt;ul&gt;
+      &lt;li&gt;open up terminal, go to your project directory&lt;/li&gt;
+      &lt;li&gt;mkdir datzines&lt;/li&gt;
+      &lt;li&gt;cd datzines&lt;/li&gt;
+      &lt;li&gt;install &lt;a href=&quot;https://www.npmjs.com/get-npm&quot;&gt;npm and node&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;npm install -g dat&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cloning an archive
+    &lt;ul&gt;
+      &lt;li&gt;dat clone (Taeyoon’s archive unique hash – revealed in class)&lt;/li&gt;
+      &lt;li&gt;cd (into the cloned folder)&lt;/li&gt;
+      &lt;li&gt;ls (show files)&lt;/li&gt;
+      &lt;li&gt;dat sync&lt;/li&gt;
+      &lt;li&gt;Taeyoon will update the original archive. Students will see their files synchronizing.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Making your own archive
+    &lt;ul&gt;
+      &lt;li&gt;cd ..&lt;/li&gt;
+      &lt;li&gt;mkdir yourname_zine&lt;/li&gt;
+      &lt;li&gt;cd yourname_zine&lt;/li&gt;
+      &lt;li&gt;create zine.&lt;/li&gt;
+      &lt;li&gt;touch inside.txt&lt;/li&gt;
+      &lt;li&gt;nano inside.txt&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;dat-zines&quot;&gt;Dat Zines&lt;/h1&gt;
+
+&lt;p&gt;Guidelines for the zines, appropriated from &lt;a href=&quot;http://designforthe.net/workshops/ascii/index.html&quot;&gt;ASCII Town Workshop&lt;/a&gt; by Mindy Seu.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;File must be titled yourfirstnamelastname.txt&lt;/li&gt;
+  &lt;li&gt;no spaces, all lowercase&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;File must include&lt;/p&gt;
+
+&lt;p&gt;Outside: 
+(for cover of your zine)&lt;/p&gt;
+
+&lt;p&gt;Inside: 
+(content of your zine)&lt;/p&gt;
+
+&lt;h2 id=&quot;for-outside&quot;&gt;For Outside:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Width: minimum 20 characters, maximum 50 characters&lt;/li&gt;
+  &lt;li&gt;Height: minimum 10 lines, maximum 20 lines&lt;/li&gt;
+  &lt;li&gt;Include a zine cover with your name so your friends know which zine belongs to you.&lt;/li&gt;
+  &lt;li&gt;In your text file, write “Outside:” (make sure you include the colon) above the house you drew, followed by a hard line break.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-inside&quot;&gt;For Inside:&lt;/h2&gt;
+
+&lt;p&gt;Below your cover, write “Inside:” followed by a hard line break.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Monospaced font&lt;/li&gt;
+  &lt;li&gt;One size (16 pt)&lt;/li&gt;
+  &lt;li&gt;One weight (no bold, italicized, etc)&lt;/li&gt;
+  &lt;li&gt;One color (black)&lt;/li&gt;
+  &lt;li&gt;No links&lt;/li&gt;
+  &lt;li&gt;No mark-up&lt;/li&gt;
+  &lt;li&gt;No motion&lt;/li&gt;
+  &lt;li&gt;There is no width or height restriction for the inside of your zine. Use the negative space creatively. Consider creating movement through scale, placement, and scrolling.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;publishing&quot;&gt;Publishing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dat share, start publishing&lt;/li&gt;
+  &lt;li&gt;write your unique key&lt;/li&gt;
+  &lt;li&gt;Give the key, written on a piece of paper to a TA or Taeyoon, who will clone it into the main archive&lt;/li&gt;
+  &lt;li&gt;View dat zines&lt;/li&gt;
+  &lt;li&gt;Dat clone to Taeyoon’s unique hash or use &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://sfpc.io/static/img/codesocieties/banner.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;code-societies&quot;&gt;Code Societies&lt;/h3&gt;
+&lt;p&gt;SFPC’s &lt;a href=&quot;http://sfpc.io/codesocieties-winter-19/&quot;&gt;Code Societies&lt;/a&gt;, is a winter intensive session organized by Melanie Hoff. Code Societies will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/SFPC/codesocieties-winter-19&quot;&gt;Code Soceties complete syllabus&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading-on-p2p-protocols&quot;&gt;Further Reading on P2P Protocols&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://vtduncan.github.io/how-dat-works/#encryption&quot;&gt;Dat Prototcol Guide&lt;/a&gt;
+&lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;SSB Protocol Guide&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry></feed>
+>>>>>>> 7074b148b24aa353877bf7cb6f12fe2b929862de
