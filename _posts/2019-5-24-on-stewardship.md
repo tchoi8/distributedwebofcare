@@ -8,7 +8,7 @@ layout: post
 by Jerron Herman
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u6XVzDqKrg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height = "338" src="https://www.youtube.com/embed/AulQkgzjecU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Attending. Attending. Attending. As you prepare to demonstrate your prowess, attend to the ones here. If ego plays a part, you are doomed. Also, you’ve got something to offer.*
 
