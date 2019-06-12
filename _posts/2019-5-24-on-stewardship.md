@@ -7,9 +7,6 @@ layout: post
 ---
 by Jerron Herman
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u6XVzDqKrg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 *Attending. Attending. Attending. As you prepare to demonstrate your prowess, attend to the ones here. If ego plays a part, you are doomed. Also, you’ve got something to offer.*
 
 ![]({{ site.base-url }}/static/images/jerron/1_Jerron.jpg)
@@ -76,4 +73,4 @@ I entered this activation striving to be worthy of a computational theorist only
 ## About the Author: 
 ![]({{ site.base-url }}/static/images/jerron/9_Jerron.jpg)
 
-[Jerron Herman](https://jerronherman.com/) is an interdisciplinary artist who’s been featured with Heidi Latsky Dance at Lincoln Center, ADF, the Whitney Museum, and abroad in Athens. He’s been a principal member of HLD since 2011. Jerron now serves on the Board of Trustees at Dance/USA. Jerron has also shot for Tommy Hilfiger Adaptive, consulted for a Nike-sponsored project, and was profiled in Great Big Story. In 2018 he was a Snug Harbor PASS artist, a finalist for the inaugural Apothetae/Lark Play Development Lab Fellowship and was nominated for a Fellowship in Dance from United States Artists. His latest solos include Phys. Ed. and Relative – a crip dance party. Jerron studied at Tisch School of the Arts and graduated from The King’s College. The New York Times has called him, "...the inexhaustible Mr. Herman."  
+Jerron Herman is an interdisciplinary artist who’s been featured with Heidi Latsky Dance at Lincoln Center, ADF, the Whitney Museum, and abroad in Athens. He’s been a principal member of HLD since 2011. Jerron now serves on the Board of Trustees at Dance/USA. Jerron has also shot for Tommy Hilfiger Adaptive, consulted for a Nike-sponsored project, and was profiled in Great Big Story. In 2018 he was a Snug Harbor PASS artist, a finalist for the inaugural Apothetae/Lark Play Development Lab Fellowship and was nominated for a Fellowship in Dance from United States Artists. His latest solos include Phys. Ed. and Relative – a crip dance party. Jerron studied at Tisch School of the Arts and graduated from The King’s College. The New York Times has called him, "...the inexhaustible Mr. Herman." [www.jerronherman.com](https://jerronherman.com/)
