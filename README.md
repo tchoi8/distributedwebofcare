@@ -1,8 +1,30 @@
 Class proposal for Poetic Computation: Detroit 
 
-Can we code to care and code carefully? The Distributed Web of Care (DWC) is a research initiative on communication infrastructure, exploring the Distributed Web as a peer-to-peer, alternative web which prioritizes personhood, collective agency and individual ownership of data and code.  
+What *really* happens when we send an email? This class is an introduction to the fundamentals of internet and wireless communication. The class begins with a 30 minutes lecture on the history and theory of networks and 2 hours hands-on workshop, for creating our communication protocols and network infrastructures. 
 
-- Writing our own Protocols 
-- Dat, Cabal and Secure Scuttlebutt 
-- WiFi Routers as artistic medium 
-- Community, local network    
+- Writing our own communication protocols with pen and paper
+- Building network infrastructures with strings and paper cups
+- Introduction to Dat, Cabal and Secure Scuttlebutt 
+- WiFi Routers as an artistic medium 
+- Community, local and mesh network 
+
+Readings:
+
+- [Protocol: How Control Exists After Decentralization](https://mitpress.mit.edu/books/protocol) by Alexnader R. Galloway, Chapter 1. Physical Media
+- [Community Technology Field Guide](http://communitytechnology.github.io/) by Detroit Community Technology Project 
+
+Materials:
+- Raspberry Pi or Linux computers 
+- Internet 
+- WiFi Router
+- Power supply
+- Strings ( Natural Cooking Twine 16 PLY or thinner) 
+- Paper Cups (2 per person) 
+- Scissors or exacto knives 
+- Card stock 
+- Pen 
+
+![](https://flagexpressions.files.wordpress.com/2010/03/semaphore-flag-codes3.jpg?w=584&zoom=2) 
+Marine Signal Language Illustration. 
+
+This class is a part of DWC. Can we code to care and code carefully? The Distributed Web of Care (DWC) is a research initiative on communication protocol, network infrastructure, exploring the Distributed Web as a peer-to-peer, alternative web which prioritizes personhood, collective agency and individual ownership of data and code. 
