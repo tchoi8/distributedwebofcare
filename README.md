@@ -1,9 +1,8 @@
-![group photo](static/images/og.jpg)
+Class proposal for Poetic Computation: Detroit 
 
+Can we code to care and code carefully? The Distributed Web of Care (DWC) is a research initiative on communication infrastructure, exploring the Distributed Web as a peer-to-peer, alternative web which prioritizes personhood, collective agency and individual ownership of data and code.  
 
-Distributed Web of Care is an initiative to *code to care* and *code carefully*.
-
-
-Distributed on [Dat](dat://distributedweb.care/) and [GitHub](https://github.com/tchoi8/distributedwebofcare).
-
-2018  
+- Writing our own Protocols 
+- Dat, Cabal and Secure Scuttlebutt 
+- WiFi Routers as artistic medium 
+- Community, local network    
