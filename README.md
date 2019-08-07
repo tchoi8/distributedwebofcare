@@ -13,6 +13,37 @@ Readings:
 - [Protocol: How Control Exists After Decentralization](https://mitpress.mit.edu/books/protocol) by Alexnader R. Galloway, Chapter 1. Physical Media
 - [Community Technology Field Guide](http://communitytechnology.github.io/) by Detroit Community Technology Project 
 
+
+
+# Distribution art 
+
+- [Ray Johnson](http://www.rayjohnsonestate.com/home/)
+- Ray Johnson on [Vanity Fair](https://www.vanityfair.com/culture/2015/01/ray-johnson-art-pranks)
+- [Ruth Wolf-Rehfeldt](http://chertluedde.com/artist/ruth-wolf-rehfeldt/)
+- [David Horvitz](http://www.davidhorvitz.com/)
+- [Book and Zine Fairs](https://www.printedmatter.org/services/the-bulletin/book-and-zine-fairs)
+- [Triple Canopy](http://canopycanopycanopy.com/) Slowing down the internet
+- [8 Ball](http://8ballcommunity.club/)
+- [Happy Family](https://www.happyfamilymkt.com/)
+- [Yello Jackets Collective](http://yellowjacketscollective.com/)
+- [BUFU](http://www.bufubyusforus.com/)
+- [Bubble sort zines](https://shop.bubblesort.io/collections/all)
+- [Artists Space](http://artistsspace.org/)
+- [Machine Project](https://machineproject.com/)
+- [Miranda July](https://www.mirandajuly.com/) 
+- Sandine Image Processor on [Audio Visualizer](http://www.audiovisualizers.com/toolshak/vidsynth/sandin/sandin.htm)
+
+# Internet cartography 
+
+- [Louise Drulhe](http://louisedrulhe.fr/)
+- Paul Ford on [The New Republic](https://newrepublic.com/article/133889/reboot-world)
+- Laurel Schwulst on [The Creative independent](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
+- [p2pforever](https://p2pforever.org)
+
+# command line Dat  
+ 
+[Concepts](https://docs.datproject.org/concepts) 
+
 Materials:
 - Raspberry Pi or Linux computers 
 - Internet 
