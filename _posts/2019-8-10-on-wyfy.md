@@ -7,8 +7,7 @@ layout: post
 
 ---
 
-Workshop for the WYFY School, in partnership with BUFU.
-8.11.2019 at the School for Poetic Computation, NYC.
+Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.
 
 # Centralized Networks  
 - Social media: Instagram
@@ -28,9 +27,10 @@ Workshop for the WYFY School, in partnership with BUFU.
 
 - History of Utopias and idealism
 - Hackers and counterculture
-- Suburbanization of the Web: Squarespace  
+- The Whole Earth Catalogue 
 - Information sovereignty
 - "[Information wants to be free](https://en.wikipedia.org/wiki/Information_wants_to_be_free)" 
+- Suburbanization of the Web: Squarespace  
 
 <br>
 
@@ -47,7 +47,7 @@ Workshop for the WYFY School, in partnership with BUFU.
 
 <br>
 
-### 3. An alternatives to Google Drives 
+### 3. An alternative to Google Drives 
 
 - [Dat](http://datproject.org) 
 - [How-to](http://distributedweb.care/posts/codesocieties/) Demonstrations 
@@ -55,22 +55,21 @@ Workshop for the WYFY School, in partnership with BUFU.
 
 <br>
 
-### 4. An alternatives to Instagram  
+### 4. An alternative to Instagram  
 
 - [Secure Scuttlebutt](https://www.scuttlebutt.nz/)  
 - How-to Demonstrations 
-- Art projects: Scuttlecamp. Scuttlebooth  
+- Art projects: Scuttle Camp, Scuttlebooth  
 - Data permanence and append-only 
-- Abuse, misuse, harassment scenarios 
  
 <br>
 
 ### 5. QTPOC perspectives
 
-- Preservation of privacy and intimacy 
-- Openness and inclusivity 
-- Decolonical & reindigeneous approaches to the internet 
-- Honoring the indigeneous and traditional communities 
+- Preservation of privacy and intimacy VS Openness and inclusivity 
+- Abuse, misuse, harassment scenarios 
+- Decolonizing the internet 
+- Honoring the indigeneous and traditional communities, land and the environment 
 - Deaf and Disabled rights on the Decentralized web 
 
 <br>
@@ -95,7 +94,7 @@ Workshop for the WYFY School, in partnership with BUFU.
 
 <br>
 
-### 7. A case for emergent alternatives 
+### 8. A case for emergent networks
 - "trust the people and they become trustworthy. trust the people and you will become trustworthy." [
 trust the people](http://adriennemareebrown.net/2019/07/01/trust-the-people-2/) by adrienne maree brown
 - "We are not idealistic. Decentralization is not a solution to the problems of the centralized networks. However, we are not pessimistic. Decentralized networks, when they are designed by the folx traditionally marginalized from the networks, LGBTQPOC, Deaf, Disabled, Indigenous and traditional communities,  can lead to an equitable, distribtued web of care." by Taeyoon Choi
@@ -105,4 +104,4 @@ trust the people](http://adriennemareebrown.net/2019/07/01/trust-the-people-2/) 
 <br>
 
 ### Support
-Much love for [BUFU](http://bufubyusforus.com/thewyfyschool), [The School for Poetic Computation](http://sfpc.io), SFPC Code Societies and Melanie Hoff, [Flawless Hacks](http://flawlesshacks.com) and the DWEB Camp and the Secure Scuttlebutt community.    
+Much love for [BUFU](http://bufubyusforus.com/thewyfyschool), [The School for Poetic Computation](http://sfpc.io), SFPC Code Societies and Melanie Hoff for supporting the WYFY School, [Flawless Hacks](http://flawlesshacks.com) for supporting the 'work in progress' zine and the DWEB Camp and the Secure Scuttlebutt community.    
