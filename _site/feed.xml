@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-08-10T17:35:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Decentralized Networks Workshop</title><link href="http://localhost:4000/posts/on-wyfy/" rel="alternate" type="text/html" title="Decentralized Networks Workshop" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/posts/on-wyfy</id><content type="html" xml:base="http://localhost:4000/posts/on-wyfy/">&lt;p&gt;Workshop for the WYFY School, in partnership with BUFU.
-8.11.2019 at the School for Poetic Computation, NYC.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-08-10T17:56:07-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Decentralized Networks Workshop</title><link href="http://localhost:4000/posts/decentralized-networks/" rel="alternate" type="text/html" title="Decentralized Networks Workshop" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/posts/decentralized-networks</id><content type="html" xml:base="http://localhost:4000/posts/decentralized-networks/">&lt;p&gt;Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.&lt;/p&gt;
 
 &lt;h1 id=&quot;centralized-networks&quot;&gt;Centralized Networks&lt;/h1&gt;
 &lt;ul&gt;
@@ -22,9 +21,10 @@
 &lt;ul&gt;
   &lt;li&gt;History of Utopias and idealism&lt;/li&gt;
   &lt;li&gt;Hackers and counterculture&lt;/li&gt;
-  &lt;li&gt;Suburbanization of the Web: Squarespace&lt;/li&gt;
+  &lt;li&gt;The Whole Earth Catalogue&lt;/li&gt;
   &lt;li&gt;Information sovereignty&lt;/li&gt;
   &lt;li&gt;“&lt;a href=&quot;https://en.wikipedia.org/wiki/Information_wants_to_be_free&quot;&gt;Information wants to be free&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;Suburbanization of the Web: Squarespace&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -44,7 +44,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;3-an-alternatives-to-google-drives&quot;&gt;3. An alternatives to Google Drives&lt;/h3&gt;
+&lt;h3 id=&quot;3-an-alternative-to-google-drives&quot;&gt;3. An alternative to Google Drives&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://datproject.org&quot;&gt;Dat&lt;/a&gt;&lt;/li&gt;
@@ -54,14 +54,13 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;4-an-alternatives-to-instagram&quot;&gt;4. An alternatives to Instagram&lt;/h3&gt;
+&lt;h3 id=&quot;4-an-alternative-to-instagram&quot;&gt;4. An alternative to Instagram&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/&quot;&gt;Secure Scuttlebutt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;How-to Demonstrations&lt;/li&gt;
-  &lt;li&gt;Art projects: Scuttlecamp. Scuttlebooth&lt;/li&gt;
+  &lt;li&gt;Art projects: Scuttle Camp, Scuttlebooth&lt;/li&gt;
   &lt;li&gt;Data permanence and append-only&lt;/li&gt;
-  &lt;li&gt;Abuse, misuse, harassment scenarios&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -69,10 +68,10 @@
 &lt;h3 id=&quot;5-qtpoc-perspectives&quot;&gt;5. QTPOC perspectives&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Preservation of privacy and intimacy&lt;/li&gt;
-  &lt;li&gt;Openness and inclusivity&lt;/li&gt;
-  &lt;li&gt;Decolonical &amp;amp; reindigeneous approaches to the internet&lt;/li&gt;
-  &lt;li&gt;Honoring the indigeneous and traditional communities&lt;/li&gt;
+  &lt;li&gt;Preservation of privacy and intimacy VS Openness and inclusivity&lt;/li&gt;
+  &lt;li&gt;Abuse, misuse, harassment scenarios&lt;/li&gt;
+  &lt;li&gt;Decolonizing the internet&lt;/li&gt;
+  &lt;li&gt;Honoring the indigeneous and traditional communities, land and the environment&lt;/li&gt;
   &lt;li&gt;Deaf and Disabled rights on the Decentralized web&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -101,7 +100,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;7-a-case-for-emergent-alternatives&quot;&gt;7. A case for emergent alternatives&lt;/h3&gt;
+&lt;h3 id=&quot;8-a-case-for-emergent-networks&quot;&gt;8. A case for emergent networks&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;“trust the people and they become trustworthy. trust the people and you will become trustworthy.” &lt;a href=&quot;http://adriennemareebrown.net/2019/07/01/trust-the-people-2/&quot;&gt;
 trust the people&lt;/a&gt; by adrienne maree brown&lt;/li&gt;
@@ -111,7 +110,7 @@ trust the people&lt;/a&gt; by adrienne maree brown&lt;/li&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;support&quot;&gt;Support&lt;/h3&gt;
-&lt;p&gt;Much love for &lt;a href=&quot;http://bufubyusforus.com/thewyfyschool&quot;&gt;BUFU&lt;/a&gt;, &lt;a href=&quot;http://sfpc.io&quot;&gt;The School for Poetic Computation&lt;/a&gt;, SFPC Code Societies and Melanie Hoff, &lt;a href=&quot;http://flawlesshacks.com&quot;&gt;Flawless Hacks&lt;/a&gt; and the DWEB Camp and the Secure Scuttlebutt community.&lt;/p&gt;</content><author><name></name></author><summary type="html">Workshop for the WYFY School, in partnership with BUFU. 8.11.2019 at the School for Poetic Computation, NYC.</summary></entry><entry><title type="html">On Stewardship</title><link href="http://localhost:4000/posts/on-stewardship/" rel="alternate" type="text/html" title="On Stewardship" /><published>2019-05-24T00:00:00-04:00</published><updated>2019-05-24T00:00:00-04:00</updated><id>http://localhost:4000/posts/on-stewardship</id><content type="html" xml:base="http://localhost:4000/posts/on-stewardship/">&lt;p&gt;by Jerron Herman&lt;/p&gt;
+&lt;p&gt;Much love for &lt;a href=&quot;http://bufubyusforus.com/thewyfyschool&quot;&gt;BUFU&lt;/a&gt;, &lt;a href=&quot;http://sfpc.io&quot;&gt;The School for Poetic Computation&lt;/a&gt;, SFPC Code Societies and Melanie Hoff for supporting the WYFY School, &lt;a href=&quot;http://flawlesshacks.com&quot;&gt;Flawless Hacks&lt;/a&gt; for supporting the ‘work in progress’ zine and the DWEB Camp and the Secure Scuttlebutt community.&lt;/p&gt;</content><author><name></name></author><summary type="html">Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.</summary></entry><entry><title type="html">On Stewardship</title><link href="http://localhost:4000/posts/on-stewardship/" rel="alternate" type="text/html" title="On Stewardship" /><published>2019-05-24T00:00:00-04:00</published><updated>2019-05-24T00:00:00-04:00</updated><id>http://localhost:4000/posts/on-stewardship</id><content type="html" xml:base="http://localhost:4000/posts/on-stewardship/">&lt;p&gt;by Jerron Herman&lt;/p&gt;
 
 &lt;iframe width=&quot;600&quot; height=&quot;338&quot; src=&quot;https://www.youtube.com/embed/AulQkgzjecU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
