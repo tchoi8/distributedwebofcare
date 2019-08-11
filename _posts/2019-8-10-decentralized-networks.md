@@ -55,12 +55,24 @@ Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6
 
 <br>
 
+![](http://distributedweb.care/static/images/wyfy/ssb.jpg)
+
 ### 4. An alternative to Instagram  
 
 - [Secure Scuttlebutt](https://www.scuttlebutt.nz/)  
-- How-to Demonstrations 
-- Art projects: Scuttle Camp, Scuttlebooth  
+- How-to Demonstrations:[SSB message ID](%/hPiUx+ulQx28INaIXTQgg8vvUZ8j5RxmlZ9BrBiH4o=.sha256)
+- [Principles](https://www.scuttlebutt.nz/principles/):"Environment reflecting Technology reflecting Community reflecting Society."
+- Local first 
+- [Network Topology](https://www.scuttlebutt.nz/concepts/): "it maps a the social network on to a computer network that is essentially the same topology! that is, the connections between humans maps approximately to the the connections between computers. if you follow someone, you really actually follow them at the data layer."
+- Identity / Feed 
+- Gossip / [Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
 - Data permanence and append-only 
+- Server / Client 
+- Pub 
+- Patchwork and Patchbay 
+- Friend hops: Show in Patchbay 
+- Creative projects: [Scuttle Camp](https://one.camp.scuttlebutt.nz/), Scuttlebooth  
+ 
  
 <br>
 
