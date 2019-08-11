@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-08-10T23:17:25-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Decentralized Networks Workshop</title><link href="http://localhost:4000/posts/decentralized-networks/" rel="alternate" type="text/html" title="Decentralized Networks Workshop" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/posts/decentralized-networks</id><content type="html" xml:base="http://localhost:4000/posts/decentralized-networks/">&lt;p&gt;Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-08-11T07:16:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Decentralized Networks Workshop</title><link href="http://localhost:4000/posts/decentralized-networks/" rel="alternate" type="text/html" title="Decentralized Networks Workshop" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/posts/decentralized-networks</id><content type="html" xml:base="http://localhost:4000/posts/decentralized-networks/">&lt;p&gt;Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/dandelions.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;centralized-networks&quot;&gt;Centralized Networks&lt;/h1&gt;
 &lt;ul&gt;
@@ -12,7 +14,8 @@
   &lt;li&gt;“If memes reiterate the inequities between black creators and white appropriators, can they also move us into a new collective blackness?” &lt;a href=&quot;https://reallifemag.com/poor-meme-rich-meme/&quot;&gt;&lt;em&gt;Poor Meme, Rich Meme&lt;/em&gt;&lt;/a&gt; by Aria Dean&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/questions.svg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;decentralized-networks&quot;&gt;Decentralized Networks&lt;/h1&gt;
 
@@ -27,7 +30,8 @@
   &lt;li&gt;Suburbanization of the Web: Squarespace&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/party.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2-a-variety-of-decentralizations&quot;&gt;2. A variety of decentralizations&lt;/h3&gt;
 
@@ -59,20 +63,28 @@
 &lt;h3 id=&quot;4-an-alternative-to-instagram&quot;&gt;4. An alternative to Instagram&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/&quot;&gt;Secure Scuttlebutt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/&quot;&gt;Secure Scuttlebutt&lt;/a&gt;(SSB)&lt;/li&gt;
   &lt;li&gt;How-to Demonstrations:&lt;a href=&quot;%/hPiUx+ulQx28INaIXTQgg8vvUZ8j5RxmlZ9BrBiH4o=.sha256&quot;&gt;SSB message ID&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/principles/&quot;&gt;Principles&lt;/a&gt;:”Environment reflecting Technology reflecting Community reflecting Society.”&lt;/li&gt;
-  &lt;li&gt;Local first&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/concepts/&quot;&gt;Network Topology&lt;/a&gt;: “it maps a the social network on to a computer network that is essentially the same topology! that is, the connections between humans maps approximately to the the connections between computers. if you follow someone, you really actually follow them at the data layer.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;SSB concepts and terms&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Local first&lt;/li&gt;
+  &lt;li&gt;Append-only log&lt;/li&gt;
   &lt;li&gt;Identity / Feed&lt;/li&gt;
   &lt;li&gt;Gossip / &lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;Protocol guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Data permanence and append-only&lt;/li&gt;
   &lt;li&gt;Server / Client&lt;/li&gt;
   &lt;li&gt;Pub&lt;/li&gt;
   &lt;li&gt;Patchwork and Patchbay&lt;/li&gt;
   &lt;li&gt;Friend hops: Show in Patchbay&lt;/li&gt;
-  &lt;li&gt;Creative projects: &lt;a href=&quot;https://one.camp.scuttlebutt.nz/&quot;&gt;Scuttle Camp&lt;/a&gt;, Scuttlebooth&lt;/li&gt;
+  &lt;li&gt;Creative projects: Scuttlebooth&lt;/li&gt;
+  &lt;li&gt;SSB Community: &lt;a href=&quot;https://one.camp.scuttlebutt.nz/&quot;&gt;Scuttle Camp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/ssb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
