@@ -9,6 +9,10 @@ layout: post
 
 Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.
 
+
+![](http://distributedweb.care/static/images/wyfy/dandelions.svg
+)
+
 # Centralized Networks  
 - Social media: Instagram
 - Cloud computing: Amazon Web Services
@@ -19,6 +23,9 @@ Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6
 - Erasure or overexposure of the marginalized communities: [*The internet thinks you're a robot, and other 'dark patterns' people with disabilities face online*](https://www.abc.net.au/news/science/2019-07-13/dark-patterns-online-captcha-accessibility-disability-community/11301054) by Ariel Bogle 
 - "If memes reiterate the inequities between black creators and white appropriators, can they also move us into a new collective blackness?" [*Poor Meme, Rich Meme*](https://reallifemag.com/poor-meme-rich-meme/) by Aria Dean  
 
+
+![](http://distributedweb.care/static/images/wyfy/questions.svg
+)
 <br>
 
 # Decentralized Networks 
@@ -32,6 +39,10 @@ Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6
 - "[Information wants to be free](https://en.wikipedia.org/wiki/Information_wants_to_be_free)" 
 - Suburbanization of the Web: Squarespace  
 
+
+
+![](http://distributedweb.care/static/images/wyfy/party.png
+)
 <br>
 
 ### 2. A variety of decentralizations
@@ -47,6 +58,7 @@ Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6
 
 <br>
 
+
 ### 3. An alternative to Google Drives 
 
 - [Dat](http://datproject.org) 
@@ -55,25 +67,33 @@ Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6
 
 <br>
 
+ 
 ![](http://distributedweb.care/static/images/wyfy/ssb.jpg)
 
 ### 4. An alternative to Instagram  
 
-- [Secure Scuttlebutt](https://www.scuttlebutt.nz/)  
+- [Secure Scuttlebutt](https://www.scuttlebutt.nz/)(SSB)  
 - How-to Demonstrations:[SSB message ID](%/hPiUx+ulQx28INaIXTQgg8vvUZ8j5RxmlZ9BrBiH4o=.sha256)
 - [Principles](https://www.scuttlebutt.nz/principles/):"Environment reflecting Technology reflecting Community reflecting Society."
-- Local first 
 - [Network Topology](https://www.scuttlebutt.nz/concepts/): "it maps a the social network on to a computer network that is essentially the same topology! that is, the connections between humans maps approximately to the the connections between computers. if you follow someone, you really actually follow them at the data layer."
+
+*SSB concepts and terms*
+
+- Local first 
+- Append-only log
 - Identity / Feed 
 - Gossip / [Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
-- Data permanence and append-only 
 - Server / Client 
 - Pub 
 - Patchwork and Patchbay 
 - Friend hops: Show in Patchbay 
-- Creative projects: [Scuttle Camp](https://one.camp.scuttlebutt.nz/), Scuttlebooth  
+- Creative projects: Scuttlebooth 
+- SSB Community: [Scuttle Camp](https://one.camp.scuttlebutt.nz/)  
  
  
+![](http://distributedweb.care/static/images/wyfy/ssb.png
+)
+
 <br>
 
 ### 5. QTPOC perspectives
