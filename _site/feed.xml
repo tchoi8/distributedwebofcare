@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-08-11T07:16:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Decentralized Networks Workshop</title><link href="http://localhost:4000/posts/decentralized-networks/" rel="alternate" type="text/html" title="Decentralized Networks Workshop" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/posts/decentralized-networks</id><content type="html" xml:base="http://localhost:4000/posts/decentralized-networks/">&lt;p&gt;Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-08-11T07:46:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Announcing Decentralized Networks Workshop</title><link href="http://localhost:4000/posts/decentralized-networks/" rel="alternate" type="text/html" title="Announcing Decentralized Networks Workshop" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/posts/decentralized-networks</id><content type="html" xml:base="http://localhost:4000/posts/decentralized-networks/">&lt;p&gt;Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC. This posting is a work in progress guide for Decentralized Networks Workshop.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/dandelions.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -14,7 +14,8 @@
   &lt;li&gt;“If memes reiterate the inequities between black creators and white appropriators, can they also move us into a new collective blackness?” &lt;a href=&quot;https://reallifemag.com/poor-meme-rich-meme/&quot;&gt;&lt;em&gt;Poor Meme, Rich Meme&lt;/em&gt;&lt;/a&gt; by Aria Dean&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/questions.svg&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/questions.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;decentralized-networks&quot;&gt;Decentralized Networks&lt;/h1&gt;
@@ -30,7 +31,8 @@
   &lt;li&gt;Suburbanization of the Web: Squarespace&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/party.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/party.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2-a-variety-of-decentralizations&quot;&gt;2. A variety of decentralizations&lt;/h3&gt;
@@ -56,43 +58,51 @@
   &lt;li&gt;Art projects: &lt;a href=&quot;https://coolguy.website/projects/dat-zine-library/index.html&quot;&gt;Dat Zine Library&lt;/a&gt; by Zach Manderville, ‘For the Birds’ Podcast&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/ssb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/ssb.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;4-an-alternative-to-instagram&quot;&gt;4. An alternative to Instagram&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/&quot;&gt;Secure Scuttlebutt&lt;/a&gt;(SSB)&lt;/li&gt;
-  &lt;li&gt;How-to Demonstrations:&lt;a href=&quot;%/hPiUx+ulQx28INaIXTQgg8vvUZ8j5RxmlZ9BrBiH4o=.sha256&quot;&gt;SSB message ID&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/principles/&quot;&gt;Principles&lt;/a&gt;:”Environment reflecting Technology reflecting Community reflecting Society.”&lt;/li&gt;
+  &lt;li&gt;Friendly &lt;a href=&quot;https://ssb-landing.netlify.com/&quot;&gt;new site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How-to Demonstrations&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/principles/&quot;&gt;Principles&lt;/a&gt;: “Environment reflecting Technology reflecting Community reflecting Society.”&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/concepts/&quot;&gt;Network Topology&lt;/a&gt;: “it maps a the social network on to a computer network that is essentially the same topology! that is, the connections between humans maps approximately to the the connections between computers. if you follow someone, you really actually follow them at the data layer.”&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;SSB concepts and terms&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Local first&lt;/li&gt;
-  &lt;li&gt;Append-only log&lt;/li&gt;
-  &lt;li&gt;Identity / Feed&lt;/li&gt;
-  &lt;li&gt;Gossip / &lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;Protocol guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Server / Client&lt;/li&gt;
-  &lt;li&gt;Pub&lt;/li&gt;
-  &lt;li&gt;Patchwork and Patchbay&lt;/li&gt;
-  &lt;li&gt;Friend hops: Show in Patchbay&lt;/li&gt;
-  &lt;li&gt;Creative projects: Scuttlebooth&lt;/li&gt;
-  &lt;li&gt;SSB Community: &lt;a href=&quot;https://one.camp.scuttlebutt.nz/&quot;&gt;Scuttle Camp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/concepts/identity&quot;&gt;Identity&lt;/a&gt;: “The private key is your secret not to be shared with anyone. The public key is used as your identifier.”&lt;/li&gt;
+  &lt;li&gt;Local first: “offline first” Peer to Peer protocol&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/concepts/feed&quot;&gt;Feed&lt;/a&gt;: “A feed is a signed append-only sequence of messages. Each identity has exactly one feed.”&lt;/li&gt;
+  &lt;li&gt;Append-only log: Once you publish, you can’t edit or delete&lt;/li&gt;
+  &lt;li&gt;Global &lt;a href=&quot;https://www.scuttlebutt.nz/concepts/gossip&quot;&gt;Gossip&lt;/a&gt; Network: &lt;a href=&quot;https://en.wikipedia.org/wiki/Gossip_protocol&quot;&gt;Gossip protocol&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/ssb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d33wubrfki0l68.cloudfront.net/4ec9ab624bc94d3829331cacc850c6d78a4ad6b2/01f43/assets/gossip-graph2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What actually happens?:&lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;Protocol guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Client: &lt;a href=&quot;https://ahdinosaur.github.io/patchwork-downloader/&quot;&gt;Patchwork&lt;/a&gt; and &lt;a href=&quot;https://github.com/ssbc/patchbay&quot;&gt;Patchbay&lt;/a&gt;, what are the differences?&lt;/li&gt;
+  &lt;li&gt;Friend hops: Show hops option in Patchbay&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scuttlebutt.nz/concepts/pub&quot;&gt;Pub&lt;/a&gt;: ‘Always-online friend,’ SSB on a server which you can follow to connect with friends remotely&lt;/li&gt;
+  &lt;li&gt;SSB Community: &lt;a href=&quot;https://one.camp.scuttlebutt.nz/&quot;&gt;Scuttle Camp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Conversations on SSB: A reading group about ‘White fragility,’ discussion about ‘Decolonizing technology,’ a channel about ‘Vegan junkfood’ and etc&lt;/li&gt;
+  &lt;li&gt;Creative projects: Scuttlebooth&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://distributedweb.care/static/images/wyfy/ssb.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;5-qtpoc-perspectives&quot;&gt;5. QTPOC perspectives&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Preservation of privacy and intimacy VS Openness and inclusivity&lt;/li&gt;
-  &lt;li&gt;Abuse, misuse, harassment scenarios&lt;/li&gt;
+  &lt;li&gt;A conversation about conflict of needs: Preservation of privacy and intimacy versus Openness and inclusivity&lt;/li&gt;
+  &lt;li&gt;Abuse, misuse, harassment scenarios: White supremacy, hate speech and toxic masculine behaviors&lt;/li&gt;
   &lt;li&gt;Decolonizing the internet&lt;/li&gt;
   &lt;li&gt;Honoring the indigeneous and traditional communities, land and the environment&lt;/li&gt;
   &lt;li&gt;Deaf and Disabled rights on the Decentralized web&lt;/li&gt;
@@ -105,16 +115,28 @@
   &lt;li&gt;Corporate appropriations and re-centralization&lt;/li&gt;
   &lt;li&gt;“Decentralization is not the goal. Orthogonality of Data, Transport, Identity ‘not used to capture each other, they are 90 degrees from each other’ for Information freedom and user agency. For a sense of self and privacy” - Peter Wang’s &lt;a href=&quot;https://www.youtube.com/watch?time_continue=1314&amp;amp;v=-z47R9wN5SQ&quot;&gt;talk&lt;/a&gt; at the DWEB Camp&lt;/li&gt;
   &lt;li&gt;Military contracts: Brooklyn Start Up &lt;a href=&quot;https://gotennamesh.com/products/mesh&quot;&gt;GoTenna&lt;/a&gt; lands a &lt;a href=&quot;https://www.usaspending.gov/#/keyword_search/gotenna&quot;&gt;contract&lt;/a&gt; with the Department of Homeland Security, U.S. Customs and Border Protection&lt;/li&gt;
-  &lt;li&gt;Controversies regarding copyright, ownership and code of conduct&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;7--leaving-with-a-positive-note&quot;&gt;7 . Leaving with a positive note&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7-group-discussion&quot;&gt;7. Group discussion&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;QTPOC safe space on Decentralized Web&lt;/li&gt;
+  &lt;li&gt;Code of conduct and community stewardship&lt;/li&gt;
+  &lt;li&gt;Copyright versus ownership of ideas and identity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;8--leaving-with-a-positive-note&quot;&gt;8 . Leaving with a positive note&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.datproject.org/2019/03/22/three-protocols-and-a-future-of-the-decentralized-internet/&quot;&gt;&lt;em&gt;Three protocols and a future of the decentralized internet&lt;/em&gt;&lt;/a&gt; by Darius Kazemi&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://runyourown.social/&quot;&gt;Run your own social&lt;/a&gt;:How to run a small social network site for your friends by Darius Kazemi&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ournetworks.ca&quot;&gt;Our Networks&lt;/a&gt; in Toronto&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://radicalnetworks.org/&quot;&gt;Radical Networks&lt;/a&gt; in New York&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alliedmedia.org/amc&quot;&gt;Allied Media Conference&lt;/a&gt; in Detroit&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dwebcamp.org&quot;&gt;DWEB Camp&lt;/a&gt; in San Francisco&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.archive.org/2019/07/31/remembering-the-first-dweb-camp-july-2019/&quot;&gt;Remembering the First DWeb Camp, July 2019&lt;/a&gt; By Frances Sawyer&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://reading.supply/post/432f6903-c7cd-4cb0-a894-c09155a8ca8b&quot;&gt;The Internet’s Old Guard&lt;/a&gt; By Jay Graber&lt;/li&gt;
@@ -133,7 +155,7 @@ trust the people&lt;/a&gt; by adrienne maree brown&lt;/li&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;support&quot;&gt;Support&lt;/h3&gt;
-&lt;p&gt;Much love for &lt;a href=&quot;http://bufubyusforus.com/thewyfyschool&quot;&gt;BUFU&lt;/a&gt;, &lt;a href=&quot;http://sfpc.io&quot;&gt;The School for Poetic Computation&lt;/a&gt;, SFPC Code Societies and Melanie Hoff for supporting the WYFY School, &lt;a href=&quot;http://flawlesshacks.com&quot;&gt;Flawless Hacks&lt;/a&gt; for supporting the ‘work in progress’ zine and the DWEB Camp and the Secure Scuttlebutt community.&lt;/p&gt;</content><author><name></name></author><summary type="html">Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC.</summary></entry><entry><title type="html">On Stewardship</title><link href="http://localhost:4000/posts/on-stewardship/" rel="alternate" type="text/html" title="On Stewardship" /><published>2019-05-24T00:00:00-04:00</published><updated>2019-05-24T00:00:00-04:00</updated><id>http://localhost:4000/posts/on-stewardship</id><content type="html" xml:base="http://localhost:4000/posts/on-stewardship/">&lt;p&gt;by Jerron Herman&lt;/p&gt;
+&lt;p&gt;Much love for &lt;a href=&quot;http://bufubyusforus.com/thewyfyschool&quot;&gt;BUFU&lt;/a&gt;, &lt;a href=&quot;http://sfpc.io&quot;&gt;The School for Poetic Computation&lt;/a&gt;, SFPC &lt;a href=&quot;http://sfpc.io/codesocieties-winter-19&quot;&gt;Code Societies&lt;/a&gt; and &lt;a href=&quot;https://melanie-hoff.com&quot;&gt;Melanie Hoff&lt;/a&gt; for supporting the WYFY School, &lt;a href=&quot;http://flawlesshacks.com&quot;&gt;Flawless Hacks&lt;/a&gt; for supporting the ‘work in progress’ zine and the DWEB Camp and the Secure Scuttlebutt community.&lt;/p&gt;</content><author><name></name></author><summary type="html">Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6:30 - 8 p.m. at the School for Poetic Computation, NYC. This posting is a work in progress guide for Decentralized Networks Workshop.</summary></entry><entry><title type="html">On Stewardship</title><link href="http://localhost:4000/posts/on-stewardship/" rel="alternate" type="text/html" title="On Stewardship" /><published>2019-05-24T00:00:00-04:00</published><updated>2019-05-24T00:00:00-04:00</updated><id>http://localhost:4000/posts/on-stewardship</id><content type="html" xml:base="http://localhost:4000/posts/on-stewardship/">&lt;p&gt;by Jerron Herman&lt;/p&gt;
 
 &lt;iframe width=&quot;600&quot; height=&quot;338&quot; src=&quot;https://www.youtube.com/embed/AulQkgzjecU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
