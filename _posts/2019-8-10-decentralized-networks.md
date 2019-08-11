@@ -140,12 +140,20 @@ Free, public workshop for the WYFY School, in partnership with BUFU. 8.11.2019 6
 
 <br>
 
-### 8. A case for emergent networks
+### 9. A case for emergent networks
 - "trust the people and they become trustworthy. trust the people and you will become trustworthy." [
 trust the people](http://adriennemareebrown.net/2019/07/01/trust-the-people-2/) by adrienne maree brown
 - "We are not idealistic. Decentralization is not a solution to the problems of the centralized networks. However, we are not pessimistic. Decentralized networks, when they are designed by the folx traditionally marginalized from the networks, LGBTQPOC, Deaf, Disabled, Indigenous and traditional communities,  can lead to an equitable, distribtued web of care." by Taeyoon Choi
 
 <br>
+
+### 10. Activity suggestions 
+
+- Create an append-only journal with peers 
+- Build your own social network with peers 
+- Role play a situation for community stewardship and protection 
+- List your priorities for data privacy 
+- Map your 'orthogonal' approach for a better web 
 
 ### Support
 Much love for [BUFU](http://bufubyusforus.com/thewyfyschool), [The School for Poetic Computation](http://sfpc.io), SFPC [Code Societies](http://sfpc.io/codesocieties-winter-19) and [Melanie Hoff](https://melanie-hoff.com) for supporting the WYFY School, [Flawless Hacks](http://flawlesshacks.com) for supporting the 'work in progress' zine and the DWEB Camp and the Secure Scuttlebutt community.    
