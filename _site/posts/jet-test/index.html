@@ -17,19 +17,19 @@
     
     <link rel="shortcut icon" href="/favicon.ico" />
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Movement Scores | Distributed Web of Care</title>
+<title>Jets Test Post | Distributed Web of Care</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Movement Scores" />
+<meta property="og:title" content="Jets Test Post" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="by Cori Kresge and Taeyoon Choi" />
-<meta property="og:description" content="by Cori Kresge and Taeyoon Choi" />
-<link rel="canonical" href="http://localhost:4000/posts/movement-scores/" />
-<meta property="og:url" content="http://localhost:4000/posts/movement-scores/" />
+<meta name="description" content="This is a test post from Jet! It was hard work to get here. Below are some of the problems I had…." />
+<meta property="og:description" content="This is a test post from Jet! It was hard work to get here. Below are some of the problems I had…." />
+<link rel="canonical" href="http://localhost:4000/posts/jet-test/" />
+<meta property="og:url" content="http://localhost:4000/posts/jet-test/" />
 <meta property="og:site_name" content="Distributed Web of Care" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-05-23T00:00:00-04:00" />
+<meta property="article:published_time" content="2020-02-17T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"by Cori Kresge and Taeyoon Choi","@type":"BlogPosting","headline":"Movement Scores","dateModified":"2019-05-23T00:00:00-04:00","url":"http://localhost:4000/posts/movement-scores/","datePublished":"2019-05-23T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/movement-scores/"},"@context":"http://schema.org"}</script>
+{"description":"This is a test post from Jet! It was hard work to get here. Below are some of the problems I had….","@type":"BlogPosting","headline":"Jets Test Post","dateModified":"2020-02-17T00:00:00-05:00","url":"http://localhost:4000/posts/jet-test/","datePublished":"2020-02-17T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/jet-test/"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -44,118 +44,24 @@
   </a>
   </h2>
   <section class="pv2">
-    <h1 class="mt0 mb1">Movement Scores</h1>
+    <h1 class="mt0 mb1">Jets Test Post</h1>
     
 
-    <p>by Cori Kresge and Taeyoon Choi</p>
+    <p>This is a test post from <strong>Jet!</strong> It was hard work to get here. Below are some of the problems I had….</p>
 
-<p>A set of movement scores for Distributed Web of Care developed by Cori Kresge and Taeyoon Choi between 2018-2019 in collaboration with DWC stewards and students from the School for Poetic Computation.</p>
+<h2 id="troubleshooting">Troubleshooting</h2>
 
-<p>The scores in various forms were developed and shared by Cori Kresge for the Uncomputable in 2018, 
-Movement, Memory, and the Unconscious Resource and <a href="https://sfpc.io/classes/movement">Code Movement</a> workshop in 2019 at the School for Poetic Computation in New York.</p>
+<p>Jekyll requires Ruby 2.4 or later in order to run. While MacOS Catalina has this version installed by default, I am still using Mojave, which is only equipped with Ruby 2.3. I needed to install the correct version in order to get Jekyll working. When installing multiple versions, it is important to be specific about which version to use when and where. Different processes may rely on different version, and they all need to know where to find the right information without conflict.</p>
 
-<p>The scores were adapated for workshops by Taeyoon Choi for the Decentralized Web Summit in San Francisco, M+ Museum in Hong Kong, Nam June Paik Museum in South Korea, Istanbul Design Biennale and various venues between 2018 and 2019.</p>
+<p>Following the instructions in the <a href="https://jekyllrb.com/docs/installation/macos/">Jekyll documentation</a>, I used homebrew to install ruby, and added the specified directory to my path as instructed. The path is a part of the bash_profile file, which is like an address book for the machine, providing the locations of directories to look in for various dependent libraries, and configuring various settings. The new directory I added tells the computer to look in a particular local folder to find the Ruby instructions, but more specific addressing is needed when there are multiple versions used in different contexts.</p>
 
-<p>This movement score is a documentation of a participatory performance presented by Cori Kresge and Taeyoon Choi for <a href="https://www.eyebeam.org/events/refiguring-the-future-conference/">Refiguring the Futures</a> conference organized by REFRESH / Eyebeam at the Knockdown Center in New York in February 10, 2019. The performance was accompanied by music and sound by stud1nt and Tiri Karanuruk.</p>
+<p>At this point, when I checked the version, and examined the path and environment, I was still seeing an older version of Ruby. Quite a bit of confusion could have been spared had I noticed that it was necessary to restart the terminal after installation in order to complete the Ruby update. However, missing that instruction, I assumed that the problem was one of addressing. I had the notion that I had to install the Ruby update globally rather than locally. The Jekyll documentation recommended that Mojave users install Bundle and Jekyll globally, and I assumed that those global installs were not able to access the local Ruby update. So, I did some research on Ruby installation on Mojave, and I added some more specific lines to my path to tell my machine where to get the correct code.</p>
 
-<p><img src="/static/images/movement/image4.jpg" alt="" /></p>
+<p>This still did not yield the results that I needed, so I went back and reviewed the instructions more closely. Finally, I noticed that I had not restarted my terminal after the install, so I closed the session and opened a new one.</p>
 
-<h2 id="initiation--lead-by-taeyoon">Initiation – lead by Taeyoon</h2>
+<p>Here is where things really took a turn. The new terminal session did not understand any of the simple commands I was giving it. I <a href="https://apple.stackexchange.com/questions/128592/os-x-terminal-not-recognizing-any-commands">looked up</a> the problem and found out why: my bash_profile file had been corrupted. In tweaking my path, I left out an important symbol that marks a word as a variable. There was only one file specified in my path before the incorrect variable, so the machine did not know where to look for the instructions for even the simplest processes. I had to remove and back up my corrupted bash_profile, and start a new terminal process to recover a working command line with a default path. Once the terminal was working again, I examined my bash_profile backup, corrected the error, and recovered my full path.</p>
 
-<p>Group forms a circle. Everyone stands around the circle.</p>
-
-<p>Everyone closes their eyes.</p>
-
-<p>The activity leader instructs the group:</p>
-
-<p>“Imagine you are a big animal.”</p>
-
-<p>“Walk as slowly as you can to the center of the circle.”</p>
-
-<p>“If you feel other’s presence, take a moment to pause.”</p>
-
-<p>When the group is tightly close to each other in the center, ask them to open eyes.</p>
-
-<p>Walk back to make a circle.</p>
-
-<p>Repeat a few times.</p>
-
-<p><img src="/static/images/movement/image1.jpg" alt="" /></p>
-
-<h2 id="walking-together--lead-by-cori">Walking together – lead by Cori</h2>
-
-<p>Everyone has their shoulders touching, forming a long line.</p>
-
-<p>They close their eyes.</p>
-
-<p>They try to walk all together in a group at the same speed. 
-They walk across the room.</p>
-
-<p>Try a few times until everyone can walk in a similar speed.</p>
-
-<h2 id="interdependence--lead-by-taeyoon">Interdependence – lead by Taeyoon</h2>
-
-<p>Everyone pairs up with someone next to them.</p>
-
-<p>One person (leader) has their right palm facing down.</p>
-
-<p>Another person (follower) has their right palm facing up.</p>
-
-<p>Their palms are touching. They communicate only with their touch, no sound.</p>
-
-<p>The palm-down leader is guiding the follower around the room. With extreme care to the safety and wellness of the follower.</p>
-
-<p>The activity leader instructs the group: at any point during the activity, the follower can turn their palm to face down. Then their roles change. The follower is now the leader and opens their eyes, and the leader is now the follower with their eyes closed.</p>
-
-<p>The activity continues.</p>
-
-<p>After about 10 minutes, the activity leader instructs the group they can exchange their followers using only eye contract to agree upon the exchange, no words.</p>
-
-<p>When two leaders have made eye contact and agreed, they gently exchange their partners who still have their eyes closed.</p>
-
-<p>After about 10 minutes, the activity leader instructs the group they can connect to other pairs, still using no words only eye contact agreement, and make a long line of followers / leaders.</p>
-
-<p>The leaders are now taking care of two or more followers. Those who are at the end of the line can switch the roles.</p>
-
-<h2 id="string-networks--lead-by-taeyoon-and-cori">String Networks – lead by Taeyoon and Cori</h2>
-
-<p>Materials: a spool of soft strings or ribbons.</p>
-
-<p>Concept: Everyone is a node and the strings are the networks</p>
-
-<p><img src="/static/images/movement/image3.jpg" alt="" /></p>
-
-<h2 id="1-centralized-network">1. Centralized network</h2>
-
-<p>The facilitator asks if someone wants to become a dictator of the network. The dictator can tell everyone what to do, where to connect, and how they connect.</p>
-
-<p>Dictator can connect the network themselves or ask another node to connect on behalf of their direction.</p>
-
-<p><img src="/static/images/movement/image2.jpg" alt="" /></p>
-
-<h2 id="2-decentralized-network">2. Decentralized network</h2>
-
-<p>The facilitator asks the group if there is a ‘Code of Conduct’ that they would like to have for the group.  When everyone in the group agrees on five principles of the network, they self initiate the network.</p>
-
-<p><img src="/static/images/movement/image6.jpg" alt="" /></p>
-<h2 id="3-distributed-network">3. Distributed network</h2>
-
-<p>The facilitator presents the rule: Everyone can join or leave the network anytime. When they join by touching the strings, they need to close their eyes and constantly be moving in small or large gestures. Whenever they desire, they can leave the network and open their eyes. They can cut the strings and create new network or modify and add new rules.</p>
-
-<p><img src="/static/images/movement/image5.jpg" alt="" /></p>
-<h2 id="4-invisible-network">4. Invisible network</h2>
-
-<p>Now everyone is instructed to reenact the distributed network without the strings but moving their arms and bodies as though they are still holding string. They need to understand every movement they take on in the space will have effects on other people.</p>
-
-<p><img src="/static/images/movement/image7.jpg" alt="" /></p>
-
-<p>All photographs by Christine Butler</p>
-
-<p><a href="https://www.youtube.com/watch?v=SimjRuytXIY&amp;t=0s&amp;list=PLBez-U3NPcCu2THKggOiS4kJWGOsEi0C1&amp;index=14">Video documentation</a></p>
-
-<h1 id="about-the-author">About the Author:</h1>
-
-<p><a href="https://www.instagram.com/corikresge/">Cori Kresge</a> is a NYC based dancer, collaborator, writer, and teacher. Kresge graduated from SUNY Purchase with a BFA in dance and the Dean’s Award. She was a member of the Sri Chinmoy Meditation Center and International Vocal Ensemble. Kresge has been a member of the Merce Cunningham Repertory Understudy Group, functioning as a living archive for Cunningham works from the 60’s, 70’s, and 80’s. In 2016 Kresge staged Cunningham’s Field Dances, an improvisational score, on students of CNDC, Angers, France. She has also been a member of José Navas/Compagnie Flak, and Stephen Petronio Company. Kresge currently collaborates and performs with various artists including Rashaun Mitchell+Silas Riener, Liz Magic Laser, Rebecca Lazier, Xavier Cha, Esmé Boyce, Ellen Cornfield, Sarah Skaggs, Bill Young, Wendy Osserman, Sally Silvers, The School for Poetic Computation, and film makers Alla Kovgan, Zuzka Kurtz, and Charles Atlas. She has taught technique and improvisation at NYU Tisch School of the Arts, Bard College, Dickinson College, Barnard College, Princeton University, the Dalton School, and other institutions. Kresge also teaches the Little Creators preschool program at Church Street School for Music and Art in NYC. She is currently studying Zero Balancing, a therapeutic bodywork.</p>
+<p>Once I had my terminal working again, I checked the Ruby version, and it gave me the correct one! I was then able to install Bundler and Jekyll, and run a local server.</p>
 
 
     
