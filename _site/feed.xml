@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-03-18T21:47:08-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Oddkins</title><link href="http://localhost:4000/posts/oddkins/" rel="alternate" type="text/html" title="Oddkins" /><published>2020-03-18T00:00:00-04:00</published><updated>2020-03-18T00:00:00-04:00</updated><id>http://localhost:4000/posts/oddkins</id><content type="html" xml:base="http://localhost:4000/posts/oddkins/">&lt;p&gt;by Taeyoon Choi&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-03-18T21:58:01-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Oddkins</title><link href="http://localhost:4000/posts/oddkins/" rel="alternate" type="text/html" title="Oddkins" /><published>2020-03-18T00:00:00-04:00</published><updated>2020-03-18T00:00:00-04:00</updated><id>http://localhost:4000/posts/oddkins</id><content type="html" xml:base="http://localhost:4000/posts/oddkins/">&lt;p&gt;by Taeyoon Choi&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/static/images/oddkins.jpg&quot; alt=&quot;an ink drawing with circle, triangles and squares that look like alien entity. some lines are dotted and others are solid. black and white art work by Taeyoon.  &quot; /&gt;&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;Distributed Web of Care is an independent publishing project. Please support us via tax-deductible donation at the &lt;a href=&quot;https://opencollective.com/distributed-web-of-care/&quot;&gt;OpenCollective&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Written by Taeyoon Choi, February, 2020, Published on March 18, 2020&lt;/p&gt;
+&lt;p&gt;Written by Taeyoon Choi, February, 2020, Published in March 18, 2020&lt;/p&gt;
 
 &lt;p&gt;Illustration by Taeyoon Choi for &lt;a href=&quot;https://p5js.org/books/&quot;&gt;Getting Started with p5.js&lt;/a&gt; published by O’Reilly&lt;/p&gt;
 
