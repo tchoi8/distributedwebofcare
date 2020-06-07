@@ -48,8 +48,7 @@ Original drawings by [Taeyoon Choi](https://taeyoonchoi.com)
 
 [^2]:Kisner, Jordan. “The Politics of Conspicuous Displays of Self-Care.” *The New Yorker*, 14 March 2017. Accessed June 1 2020.
 
-[^3]:Strings, Sabrina. *Fearing the Black Body: The Racial Origins of Fatphobia.* New York: NYU 
-Press, 2019.
+[^3]:Strings, Sabrina. *Fearing the Black Body: The Racial Origins of Fatphobia.* New York: NYU Press, 2019.
 
 [^4]:Luna, Caleb. “Ep. 217: Caleb Luna - Race, Class, and the Fat Body.” *Woman of Size with Jana Schmieding*. June 17 2019. 
 
