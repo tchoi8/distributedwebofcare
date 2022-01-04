@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-06-12T00:36:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">Community Over Commodity</title><link href="http://localhost:4000/posts/community/" rel="alternate" type="text/html" title="Community Over Commodity" /><published>2020-06-07T00:00:00+09:00</published><updated>2020-06-07T00:00:00+09:00</updated><id>http://localhost:4000/posts/community</id><content type="html" xml:base="http://localhost:4000/posts/community/">&lt;p&gt;Community Over Commodity: Towards an Unselfish Care&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-01-04T15:52:39+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">garden.local</title><link href="http://localhost:4000/posts/gardenlocal/" rel="alternate" type="text/html" title="garden.local" /><published>2022-01-04T00:00:00+09:00</published><updated>2022-01-04T00:00:00+09:00</updated><id>http://localhost:4000/posts/gardenlocal</id><content type="html" xml:base="http://localhost:4000/posts/gardenlocal/">&lt;p&gt;&lt;em&gt;The latest in the Distributed Web of Care is garden.local, which asks - What if the Internet is like a garden, full of moss, lichens, and mushrooms?&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;560&quot; src=&quot;https://www.youtube.com/embed/4rHwXSdUtBs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What if the Internet is like a garden, full of moss, lichens, and mushrooms? What would it be like if humans could visit this lush, natural environment and listen to the tales of the software-plants, and rest against the hardware-earth, and exchange vital forms of care with various data-creatures?&lt;/p&gt;
+
+&lt;p&gt;Since 2018, Taeyoon Choi has collaborated with fellow artists, engineers, and writers through the series, Distributed Web of Care. Taking the conditions of today’s Internet as their starting point, these works seek to question and imagine beyond the status quo, proposing alternate futures. The project garden.local is a part of the Distributed Web of Care series. The second installment of garden.local premieres with the exhibition Distributed Web of Care: garden.local at Art Center White Block from November 20 to 28, 2021 in Paju, South Korea.&lt;/p&gt;
+
+&lt;p&gt;Internet protocols and infrastructure make up the fabric of all online communication. Certain aspects of the Internet we are most familiar with - especially commercial platforms like Facebook and Google - have problematic practices with regard to privacy, security, and data sovereignty. At the same time, we must ask ourselves: is the Internet, in fact, a singular space? What can we do to allow for different approaches and modes of thought to enter it?&lt;/p&gt;
+
+&lt;p&gt;Practically speaking, in some urban areas that experience disparities in web access, “Community Technology” activists have set up mesh networks to provide widespread alternative access, demonstrating their commitment to decentralizing the Internet and building more equitable conditions for and connections between all people. Generally, we tend to think of computers and the Internet as separate things, but in fact the internet is just the largest computer ever built. So if this Internet, then, can be transformed into a garden, computers themselves will become spaces of software-plants, hardware-dirt, and data-creatures.&lt;/p&gt;
+
+&lt;p&gt;The lichens and mushrooms that dot these gardens, in particular, have much to teach us about building truly alternative networks. In bearing witness to the symbiotic collaboration that takes place between algae and fungi, we are brought face to face with a way of life that resonates for organic and inorganic beings alike. Endlessly enmeshed with and dependent on one another, these entities are defined by the care they exchange - a clear model of the interdependent, distributed, equitable web of care that garden.local seeks to explore and establish.&lt;/p&gt;
+
+&lt;p&gt;garden.local is a project that combines drawing installations, wifi networks, and a mobile app based on those same drawings and networks. At the same time, garden.local is committed to accessibility for all, and working to construct a system that is barrier-conscious. In the current exhibition, audience members may use their own smartphones or those provided by the gallery to enter the virtual garden. Once inside, everyone is able to experience the transformation of Art Center White Block, witnessing and cultivating the growing mosses, lichens, and mushrooms within.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Text by Taeyoon Choi, Chaejung Shin&lt;/li&gt;
+  &lt;li&gt;Translated by Maya West&lt;/li&gt;
+  &lt;li&gt;Organized by Taeyoon Choi Studio&lt;/li&gt;
+  &lt;li&gt;Supported by Arts Council Korea&lt;/li&gt;
+  &lt;li&gt;Cooperated with Art Center White Block&lt;/li&gt;
+  &lt;li&gt;Artist: Taeyoon Choi&lt;/li&gt;
+  &lt;li&gt;Curatorial Advisor: Sung-eun Kang&lt;/li&gt;
+  &lt;li&gt;Creative Producer: Jaemin Shin&lt;/li&gt;
+  &lt;li&gt;Lead Technologist: Cezar Mocan&lt;/li&gt;
+  &lt;li&gt;Hardware engineer: Donghoon Yi&lt;/li&gt;
+  &lt;li&gt;Software engineer So Sun Park&lt;/li&gt;
+  &lt;li&gt;Graphic Designer: Beomjun Kim&lt;/li&gt;
+  &lt;li&gt;Onsite Assistant: Hyunseo Kim&lt;/li&gt;
+  &lt;li&gt;Archive Assistant: Minhae Bak&lt;/li&gt;
+  &lt;li&gt;Screen Print: SAA / Sanha Lee, Sunghun Jung&lt;/li&gt;
+  &lt;li&gt;Text and Ekphrasis: Chaejung Shin&lt;/li&gt;
+  &lt;li&gt;Translation and Editing: Maya West&lt;/li&gt;
+  &lt;li&gt;Sound: Y2K92&lt;/li&gt;
+  &lt;li&gt;Video: Sooyun Ga&lt;/li&gt;
+  &lt;li&gt;Photo: Cheolki Hong&lt;/li&gt;
+  &lt;li&gt;Wall graphic installation: Pine Tree&lt;/li&gt;
+  &lt;li&gt;Installation: Dasom Art&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The latest in the Distributed Web of Care is garden.local, which asks - What if the Internet is like a garden, full of moss, lichens, and mushrooms?</summary></entry><entry><title type="html">Community Over Commodity</title><link href="http://localhost:4000/posts/community/" rel="alternate" type="text/html" title="Community Over Commodity" /><published>2020-06-07T00:00:00+09:00</published><updated>2020-06-07T00:00:00+09:00</updated><id>http://localhost:4000/posts/community</id><content type="html" xml:base="http://localhost:4000/posts/community/">&lt;p&gt;Community Over Commodity: Towards an Unselfish Care&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;by Adina Glickstein&lt;/em&gt;&lt;/p&gt;
 
@@ -717,36 +756,4 @@ They walk across the room.&lt;/p&gt;
 
 &lt;p&gt;Postcard: &lt;a href=&quot;http://coraliegourguechon.fr&quot;&gt;Coralie Gourguechon&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Support: The Whitney Museum of American Art, &lt;a href=&quot;http://codeforscience.org/&quot;&gt;Code for Science and Society&lt;/a&gt;, &lt;a href=&quot;http://pioneerworks.org&quot;&gt;Pioneer Works&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry><entry><title type="html">Announcing Call for Deaf or Disabled Stewards</title><link href="http://localhost:4000/posts/stewards/" rel="alternate" type="text/html" title="Announcing Call for Deaf or Disabled Stewards" /><published>2019-02-25T00:00:00+09:00</published><updated>2019-02-25T00:00:00+09:00</updated><id>http://localhost:4000/posts/stewards</id><content type="html" xml:base="http://localhost:4000/posts/stewards/">&lt;p&gt;&lt;em&gt;Update May 2019: Applications for this particular call are no longer open, however if you are interested in collaborating with the project please reach out.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Distributed Web of Care (DWC) is a collaboration between artists, writers and engineers to imagine a more equitable, caring internet for the future. The project is initiated by Taeyoon Choi, who has been working with disability community and artists to criticially challenge the notions of accessibility and inclusion. Read his article &lt;a href=&quot;https://thenewinquiry.com/artificial-advancements/&quot;&gt;Artificial Advancement&lt;/a&gt; and Shannon Finnegan’s article &lt;a href=&quot;http://distributedweb.care/posts/accessibility-dreams/&quot;&gt;Accessibility Dreams&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/party/decentralizedwebsummitmedia-20180801-session1-1_0085.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In February - March 2019, we are looking for stewards who identify as a Deaf or disabled person. We are planning a large scale participatory performance art in the end of March. The event will have ASL interpretation and audio description. We would like to work with stewards who identify as a Deaf or Disabled person to create an inclusive and welcoming experience for the disability community.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/party/decentralizedwebsummitmedia-20180801-session1-1_0085.jpg&quot; alt=&quot;A large group of people holding strings&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://decentralizedweb.net/distributed-web-of-care/&quot;&gt;Decentralized Web Summit&lt;/a&gt;, The Internet Archive/San Fransisco Mint, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/party/mplus.jpg&quot; alt=&quot;Group of people holding strings in a theater&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.westkowloon.hk/en/mplus/m-programmes/m-matters-art-and-design-in-the-digital-realm&quot;&gt;M+ Matters&lt;/a&gt;: Art and Design in the Digital Realm, M+/Tai Kwun, Hong Kong, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/images/party/CButler-330.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;a href=&quot;https://www.eyebeam.org/events/refiguring-the-future-conference/&quot;&gt;Refiguring the Future&lt;/a&gt;, Eyebeam/REFRESH, Knockdown Center, 2019&lt;/p&gt;
-
-&lt;p&gt;From February to March 2019, we are planning a large scale participatory performance art in the end of March. The event will be wheelchair accessible, and will have ASL interpretation and audio description. We would like to work with stewards who identify as a Deaf or disabled person to create an inclusive and welcoming experience for the disability community.&lt;/p&gt;
-
-&lt;p&gt;Stewards are guest collaborators who contribute to DWC initiatives with their domain expertise. Stewards are invited to rehearsals for DWC events and contribute to building the piece as well as code of conduct. In this volunteer role, stewards will collaborate with fellow artists, engineers, organizers, staff and with Taeyoon Choi directly.&lt;/p&gt;
-
-&lt;p&gt;DWC is a movement activity which involves strings and other props, sound and visuals, which requires assistance of stewards to help other participants in the movement activity stay safe. We are asking for stewards to join a rehearsal and the final performance to help the choreographer and other stewards make space for people who identify as disabled to feel welcome, secure and comfortable.&lt;/p&gt;
-
-&lt;p&gt;In our efforts to imagine the future of the internet, we hope to create an inclusive and equitable experience for everyone, however, we understand the impossibility of this as there may be conflict of access needs. In order to be prepared for all contingencies, we are inviting the disability community to be a part of planning and execution of the project. We also hope to avoid creating an unintentionally exclusive experience, therefore stewards mentorship and guidance will help us create a better experience for everyone attending the event.&lt;/p&gt;
-
-&lt;p&gt;The rehearsal dates are March 3, 2-5 PM and March 25, 2-5 PM, 2019 in wheelchair accesible locations in Manhattan, NYC.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://airtable.com/shrJKwgf305PUDKjm&quot;&gt;Apply&lt;/a&gt;&lt;/strong&gt; or email studio@taeyoonchoi.com&lt;/p&gt;
-
-&lt;p&gt;Equal opportunity:
-Distributed Web of Care is committed to providing an environment that is free from discrimination and harassment based on race, age, creed, color, religion, national origin or ancestry, sex, gender, disability, veteran status, genetic information, sexual orientation, gender identity or expression, or pregnancy.&lt;/p&gt;</content><author><name></name></author><summary type="html">Update May 2019: Applications for this particular call are no longer open, however if you are interested in collaborating with the project please reach out.</summary></entry></feed>
+&lt;p&gt;Support: The Whitney Museum of American Art, &lt;a href=&quot;http://codeforscience.org/&quot;&gt;Code for Science and Society&lt;/a&gt;, &lt;a href=&quot;http://pioneerworks.org&quot;&gt;Pioneer Works&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">by Taeyoon Choi</summary></entry></feed>
