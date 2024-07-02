@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-02T16:09:20+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">에콜로지컬 퓨쳐스</title><link href="http://localhost:4000/posts/ecological-futures-2024-kr/" rel="alternate" type="text/html" title="에콜로지컬 퓨쳐스" /><published>2024-06-30T00:00:00+09:00</published><updated>2024-06-30T00:00:00+09:00</updated><id>http://localhost:4000/posts/ecological-futures-2024-kr</id><content type="html" xml:base="http://localhost:4000/posts/ecological-futures-2024-kr/"><![CDATA[<p><img src="/static/images/ecological-futures/ecological2024.png" alt="" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-02T16:12:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed Web of Care</title><subtitle>DWC </subtitle><entry><title type="html">에콜로지컬 퓨쳐스</title><link href="http://localhost:4000/posts/ecological-futures-2024-kr/" rel="alternate" type="text/html" title="에콜로지컬 퓨쳐스" /><published>2024-06-30T00:00:00+09:00</published><updated>2024-06-30T00:00:00+09:00</updated><id>http://localhost:4000/posts/ecological-futures-2024-kr</id><content type="html" xml:base="http://localhost:4000/posts/ecological-futures-2024-kr/"><![CDATA[<p><img src="/static/images/ecological-futures/ecological2024.png" alt="" /></p>
 
 <p>에콜로지컬 퓨쳐스는 코펜하겐 기반 <a href="https://www.rearc.institute/">rearc. institute</a>(리아크 인스티튜트) 퍼블릭 디스코스 프로그램의 일환으로 2024년 7월 19일에서 21일까지 서울대학교 파워플랜트에서 진행되는 국제 심포지움, 퍼포먼스, 전시이다. 에콜로지컬 퓨쳐스는 최태윤 기획, 언메이크랩, 김민아, 카자흐스탄 기반 Artcom Platform (아트콤 플랫폼) 협업으로 진행되며 도시, 기술, 환경의 다중미래적 관계를 탐구한다.</p>
 
@@ -102,11 +102,7 @@
 <p>이 리딩 그룹에서는 기술과 함께 생성되는 대표적인 비장소들 - 데이터센터와 스마트시티를 중심에 두고 이야기 나눈다. 물질적 장소임에도 불구하고 감각하기 어려운 연산적 토대를 가진 이곳들은 기존의 전통적인 장소와는 다른 질서와 영향력을 가지고 있다. 리딩 모임에서는 이 기술적 장소들을 사회적, 문화적, 생태적 맥락에서 살펴보고, 이 장소를 둘러싼 충돌을 이야기 해본다. 그리고 이 기술적 장소는 인간/비인간과의 관계 속에서 어떤 위치를 구축하는지 논의해 본다.</p>
 
 <ul>
-  <li>
-    <데이터 구름을="" 쫓아=""> 공동의 읽기 자료는 [아레나 Are.na 채널](https://www.are.na/common-reading/channels)로 공유될 예정
-
-</데이터>
-  </li>
+  <li>데이터 구름을 쫓아, 공동의 읽기 자료는 <a href="https://www.are.na/common-reading/channels">아레나 채널</a>로 공유될 예정</li>
   <li>한국어 진행</li>
   <li>1-3시 함께 읽기 참가비 1만원</li>
 </ul>
