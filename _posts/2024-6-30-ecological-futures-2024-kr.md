@@ -25,7 +25,7 @@ layout: post
  
 사전 예약: [링크](https://docs.google.com/forms/d/e/1FAIpQLSfhWf7Sq2v3GzJYDpeZpdrWXMl5gsxUsflOU9t2UCsQ0_55Jg/viewform) (7/5 공개 예약 시작)
 
-각 행사 참가비: 1만원 
+각 행사 참가비: 1만원  
 
 문의: studio@taeyoonchoi.com 
  
@@ -115,7 +115,9 @@ layout: post
 언메이크 랩(Unmake Lab)
 
 
-이 리딩 그룹에서는 기술과 함께 생성되는 대표적인 비장소들 - 데이터센터와 스마트시티를 중심에 두고 이야기 나눕니다. 물질적 장소임에도 불구하고 감각하기 어려운 연산적 토대를 가진 이곳들은 기존의 전통적인 장소와는 다른 질서와 영향력을 가지고 있습니다. 리딩 모임에서는 이 기술적 장소들을 사회적, 문화적, 생태적 맥락에서 살펴보고, 이 장소를 둘러싼 충돌을 이야기 해봅니다. 그리고 이 기술적 장소는 인간/비인간과의 관계 속에서 어떤 위치를 구축하는지 논의해 봅니다.
+이 리딩 그룹에서는 기술과 함께 생성되는 대표적인 비장소들 - 데이터센터와 스마트시티를 중심에 두고 이야기 나눈다. 물질적 장소임에도 불구하고 감각하기 어려운 연산적 토대를 가진 이곳들은 기존의 전통적인 장소와는 다른 질서와 영향력을 가지고 있다. 리딩 모임에서는 이 기술적 장소들을 사회적, 문화적, 생태적 맥락에서 살펴보고, 이 장소를 둘러싼 충돌을 이야기 해본다. 그리고 이 기술적 장소는 인간/비인간과의 관계 속에서 어떤 위치를 구축하는지 논의해 본다. 
+
+* <데이터 구름을 쫓아> 공동의 읽기 자료는 [아레나 Are.na 채널](https://www.are.na/common-reading/channels)로 공유될 예정
 
 * 한국어 진행 
 * 1-3시 함께 읽기 참가비 1만원 
@@ -152,7 +154,7 @@ layout: post
 ## 언메이크 랩 Unmake Lab
 
 
-![]({{ site.base-url }}/static/images/ecological-futures/unmake-profile.jpg)
+![]({{ site.base-url }}/static/images/ecological-futures/unmake-artist.jpg)
 
 언메이크랩은 기계의 인식 작용을 전유해 알고리즘의 집착을 아이러니, 우화, 유머로 바꾸는 작업을 한다. 특히 발전주의 역사와 기계 학습의 추출주의를 서로 겹쳐 현재의 사회문화, 생태적 상황을 드러내는 것에 관심이 있다. 최근에는 데이터셋, 컴퓨터 비전, 생성 AI의 예측성을 '일반자연'이라는 개념과 함께 놓고, 그 사이에서 드러나는 인간중심적 문화와 신식민성, 생태적 재난의 문제를 이야기 하고 있다. 기술 사회를 이해하는 교육 활동을 주요 방법론으로 삼고 있기도 하며, 포킹룸 등의 활동에 참여해 담론과 연구 활동을 하고 있다. [웹사이트](https://en.unmakelab.org/) 
 
@@ -175,7 +177,8 @@ layout: post
 
 사전 예약: [링크](https://docs.google.com/forms/d/e/1FAIpQLSfhWf7Sq2v3GzJYDpeZpdrWXMl5gsxUsflOU9t2UCsQ0_55Jg/viewform) (7/5 공개 예약 시작)
 
-각 행사 참가비: 1만원
+각 행사 참가비: 1만원 
+
 
 문의: studio@taeyoonchoi.com 
 
