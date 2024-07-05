@@ -17,14 +17,13 @@ Network for Ecological Futures is an initiative of the Public Discourse program 
 
 
 
-Location: Seoul National University Powerplant. Seoul 
+Location: Seoul National University Powerplant. Seoul : [Map](https://naver.me/xS8DXSjo)
 
-[Map](https://naver.me/xS8DXSjo)
 
 Dates: 2024/7/19-21 
 
 - 7/19 Workshop and Performance
-- 7/20 Symposium 
+- 7/20 Symposium (Entire symposium will be live-streamed on YouTube)
 - 7/21 Workshops 
  
 [Register](https://onoffmix.com/ch/ecologicalfutures) 
@@ -100,12 +99,12 @@ Presentation by the Network for Ecological Futures, including Taeyoon Choi, Unma
 
 He feels infuriated by the hype around Big Data and AI, which is in fact a face lift of centuries old technocracy and techno utopianism, and feels cynical about the greenwashing that undermines the reality of the Global South. He tries hard not to lose the sense of his innate optimism, he explores degrowth, post-growth, interdependence and solidarity through art and technology.
 
-# Unmake Lab, Pediction without Future
+## Unmake Lab, Pediction without Future
 
 This talk will explore the traces of "Generic nature" left by developmentalism, connecting ecological causality with the predictability of technology. It weaves together machine learning experiments, field trips, and speculative stories about beings we increasingly cannot sense. What do we call this sense of 'prediction without future' that is slipping out of our hands?
 
 
-# Artcom Platform, Care for Balkhash: Uniting Communities for environmental and climate justice through art and science.
+## Artcom Platform, Care for Balkhash: Uniting Communities for environmental and climate justice through art and science.
 
 Artcom Platform team will present Care for Balkhash, an open initiative that engages communities and institutions in collective care of the ecosystems of the Lake Balkhash, which are facing environmental, social, economic, and climatic challenges due to anthropogenic impact. 
 
@@ -115,6 +114,7 @@ The artists will share their strategies and methodology of engaging local commun
 
 
 # Mina Kim, Sensing the pollution of digital technology
+
 Is digital technology 'green'? Can digital technology create a clean, green future? Through her artistic research, artist Mina Kim examines the issues of waste, carbon emissions, and pollution behind digital technology advancements' clean, sleek, and futuristic image.  During the talk, the artist explores the contradictory relationship between digital technological advancements in our society, such as artificial intelligence, smartphones, and social media, and the pollution they create.
 
 
