@@ -23,7 +23,7 @@ layout: post
 - 7/20 심포지움 
 - 7/21 워크숍 
  
-사전 예약: [링크](https://docs.google.com/forms/d/e/1FAIpQLSfhWf7Sq2v3GzJYDpeZpdrWXMl5gsxUsflOU9t2UCsQ0_55Jg/viewform) (7/5 공개 예약 시작)
+사전 예약 채널: [링크](https://onoffmix.com/ch/ecologicalfutures)  
 
 각 행사 참가비: 1만원  
 
@@ -48,6 +48,7 @@ layout: post
 
 * 영어 진행, 영-한 순차 통역 
 * 참가비 1만원 
+* [신청](https://onoffmix.com/event/303989) 
 
 
 ## 7/19 퍼포먼스
@@ -74,6 +75,7 @@ Unstable Play (불안정한 연주)는 전자쓰레기 악기인 ‘Playful Obso
 실험적인 사운드에 관심을 가지고 함께 모여 즉흥 연주(jam)를 하는 것은 레지스터 코리아의 핵심적인 정체성이라 할 수 있다. 멤버들이 각기 다른 정체성과 작업 방식을 가지고 있는 만큼, 이들이 소리를 감각하는 방식 역시 다채롭다. 전자음악과 어쿠스틱 연주, 그림 그리기와 영상 매핑, 목소리와 몸의 움직임은 한 공간에 모여 소리를 만들고, 소리를 감각하며, 소리에 대한 경험을 나눈다. 자유롭게 흩어지고 모이며 흘러가는 몸들은 유연하지만 강인하며, 종잡을 수 없지만 에너지가 넘친다. 레지스터 코리아의 퍼포먼스는 구체적으로 짜인 서사보다는 예측 불가능하게 흘러가는 유동성을 따르며, 관객들을 ‘흐르는 몸들’과 함께 하기를 초대한다.
 
 * 7-9시 퍼포먼스 참가비 1만원 
+* [신청](https://onoffmix.com/event/304061) 
 
 ## 7/20 심포지움  
 
@@ -99,6 +101,7 @@ Unstable Play (불안정한 연주)는 전자쓰레기 악기인 ‘Playful Obso
 
 * 최태윤, 언메이크 랩, 김민아는 한국어 발표, 아특콤 플랫폼은 영어 발표와 한국어 자막 제공, Q&A는 한-영 순차 통역 제공 
 * 1-6시 심포지움 참가비 1만원 
+* [신청](https://onoffmix.com/event/303969)
 * [언덕](https://www.instagram.com/abandoned.sandwich/)(아티스트 해민해)의 비건 샌드위치 사전 주문과 현장 구입 가능
 
 
@@ -119,6 +122,7 @@ Unstable Play (불안정한 연주)는 전자쓰레기 악기인 ‘Playful Obso
 * 한국어 진행 
 * 개인 노트북 지참 
 * 1-3시 함께 읽기 참가비 1만원 
+* [신청](https://onoffmix.com/event/303998)
 
 ### 7/21  전자폐기물로 악기 만들기
 
@@ -135,6 +139,7 @@ Unstable Play (불안정한 연주)는 전자쓰레기 악기인 ‘Playful Obso
 * 참여자들은 각자 고장난 휴대폰, 리모컨, 오디오 부품, 컴퓨터 부품과 같은 전자폐기물을 직접 가져오시길 추천한다
 * 4-6시 참가비 1만원
 * 한국어 진행 
+* [신청](https://onoffmix.com/event/304000)
  
 
 
@@ -173,7 +178,7 @@ Unstable Play (불안정한 연주)는 전자쓰레기 악기인 ‘Playful Obso
 
 # 예약 정보 
 
-사전 예약: [링크](https://docs.google.com/forms/d/e/1FAIpQLSfhWf7Sq2v3GzJYDpeZpdrWXMl5gsxUsflOU9t2UCsQ0_55Jg/viewform) (7/5 공개 예약 시작)
+예약: [참가 신청](https://onoffmix.com/ch/ecologicalfutures)  
 
 각 행사 참가비: 1만원 
 
