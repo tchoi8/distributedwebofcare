@@ -104,6 +104,16 @@ He feels infuriated by the hype around Big Data and AI, which is in fact a face 
 
 This talk will explore the traces of "Generic nature" left by developmentalism, connecting ecological causality with the predictability of technology. It weaves together machine learning experiments, field trips, and speculative stories about beings we increasingly cannot sense. What do we call this sense of 'prediction without future' that is slipping out of our hands?
 
+
+# Artcom Platform, Care for Balkhash: Uniting Communities for environmental and climate justice through art and science.
+
+Artcom Platform team will present Care for Balkhash, an open initiative that engages communities and institutions in collective care of the ecosystems of the Lake Balkhash, which are facing environmental, social, economic, and climatic challenges due to anthropogenic impact. 
+
+The team works with local spaces and communities through researching history, culture, ecology and producing local knowledge for conservation of the ecosystems of Lake Balkhash, and sustainable futures of the region.
+
+The artists will share their strategies and methodology of engaging local communities, scientists, cultural practitioners, local governments, international organizations and state representatives in the collective efforts of preservation of Lake Balkhash. They will discuss the various tools and practices they employ, including collective research, expeditions, interdisciplinary educational programs, participatory exhibitions, and art interventions as grassroots action towards environmental and climate justice. 
+
+
 # Mina Kim, Sensing the pollution of digital technology
 Is digital technology 'green'? Can digital technology create a clean, green future? Through her artistic research, artist Mina Kim examines the issues of waste, carbon emissions, and pollution behind digital technology advancements' clean, sleek, and futuristic image.  During the talk, the artist explores the contradictory relationship between digital technological advancements in our society, such as artificial intelligence, smartphones, and social media, and the pollution they create.
 
