@@ -15,12 +15,11 @@ layout: post
 
 Network for Ecological Futures is an initiative of the Public Discourse program at rearc.institute and a three-day symposium between July 19 and 21, 2024 at the Power Plant, SNU Institute for Culture and Arts in Seoul. Initiated by Taeyoon Choi in collaboration with Unmake Lab, Mina Kim based in South Korea and Artcom Platform based in Kazakhstan, the symposium explores our relationships between urbanism, technology and ecology towards multiple futures. The program includes performance and party featuring Mina Kim, Re#sister Korea (Mina Kim, Svj!n, Younwon Sohn, Jisoo Park, Soo-hyun Moon, LuNa) and Y2K92 + Taeyoon Choi, Workshops by Artcom Platform, Mina Kim and Unmake Lab.
 
-Register https://onoffmix.com/ch/ecologicalfutures
-Inquiries studio@taeyoonchoi.com
 
 
+Location: Seoul National University Powerplant. Seoul 
 
-Location: Seoul National University Powerplant. Seoul[지도](https://naver.me/xS8DXSjo)
+[Map](https://naver.me/xS8DXSjo)
 
 Dates: 2024/7/19-21 
 
@@ -28,14 +27,15 @@ Dates: 2024/7/19-21
 - 7/20 Symposium 
 - 7/21 Workshops 
  
-Registration: [Link](https://onoffmix.com/ch/ecologicalfutures)  
+[Register](https://onoffmix.com/ch/ecologicalfutures) 
 
-10,000 Won per event 
+Participation fee of 10,000 Won per event. 
 
+(If you have difficulty registering onoffmix.com, don't hesitate to contact us) 
 
 Contact: studio@taeyoonchoi.com 
  
-Public Discourse Program of [rearc. institute](https://www.rearc.institute/)
+Network for Ecological Futures is a Public Discourse Program of [rearc. institute](https://www.rearc.institute/)
 
 Support: [Seoul National University Institute for Culture and Arts](https://culture.snu.ac.kr/) 
 
@@ -91,7 +91,7 @@ Gathering together to improvise and jam with an interest in experimental sound i
 
 ![]({{ site.base-url }}/static/images/ecological-futures/FINAL-Taeyoon-Choi-3.jpeg)
 
-7/20 1-6 PM
+7/20 1-6 PM  
  
 Presentation by the Network for Ecological Futures, including Taeyoon Choi, Unmake Lab, Artcom Platform and Mina Kim 
 
@@ -104,16 +104,14 @@ He feels infuriated by the hype around Big Data and AI, which is in fact a face 
 
 This talk will explore the traces of "Generic nature" left by developmentalism, connecting ecological causality with the predictability of technology. It weaves together machine learning experiments, field trips, and speculative stories about beings we increasingly cannot sense. What do we call this sense of 'prediction without future' that is slipping out of our hands?
 
-
-# 
 # Mina Kim, Sensing the pollution of digital technology
 Is digital technology 'green'? Can digital technology create a clean, green future? Through her artistic research, artist Mina Kim examines the issues of waste, carbon emissions, and pollution behind digital technology advancements' clean, sleek, and futuristic image.  During the talk, the artist explores the contradictory relationship between digital technological advancements in our society, such as artificial intelligence, smartphones, and social media, and the pollution they create.
 
 
-
 * Taeyoon Choi, Unmake Lab and Mina Kim will present in Korean with English subtitles, Artcom Platform will present in English with Korean subtitles. 
-* [Registration](https://onoffmix.com/event/303969)
+* [Register](https://onoffmix.com/event/303969)
 * [Unduck](https://www.instagram.com/abandoned.sandwich/)(Artist Minhae) Vegan sandwich available for reservation and onsite purchase
+* Symposium will be live-streamed via Taeyoon Choi's [YouTube Channel](https://www.youtube.com/@taeyoonchoistudio/)
 
 
 # 7/21 Unmake Lab, Reading Group
@@ -121,11 +119,15 @@ Is digital technology 'green'? Can digital technology create a clean, green futu
  This reading group will focus on two of the most prominent non-places created by technology - data centers and smart cities. Despite the physicality of these places, they have an imperceptible computational basis that gives them a different order and influence than traditional places. In this reading, we will explore these technological places in their social, cultural, and ecological contexts, discuss the conflicts that surround them, and how they are positioned in human/non-human relations.
 
  * This reading group will be facilitated in Korean language. 
+ * [Register](https://onoffmix.com/event/303998)
 
  # 7/21 Mina Kim, DIY E-waste synthesizer
 
 'DIY E-waste synthesizer' aimed to make an analog synthesizer with electronic garbage. Led by researcher, artist and performer Mina Kim, participants joined in exploring and recontextualising the debris from our digital society and its relationship to the environment.
 Electronic products that had seemingly reached the end of their useful life were repurposed and rejuvenated in the form of a unique electronic instrument. During the workshop, participants were guided in transforming their own e-waste into a playable analogue synthesizer, creating a new and distinctive set of sounds. The workshop required no prior knowledge or skills, but participants were encouraged to bring their own e-waste, consisting of any old or broken electronic devices such as laptops, phones, or remote control devices.
+
+* This workshop will be facilitated in Korean with English interpretation.
+* [Register](https://onoffmix.com/event/304000)
 
 # Network
 
@@ -134,7 +136,7 @@ Electronic products that had seemingly reached the end of their useful life were
 
 ![]({{ site.base-url }}/static/images/ecological-futures/taeyoon-profile.jpg)
 
-Taeyoon Choi is a visual artist and educator. While he studied art and engineering, he was interested in activism and community organizing. He cofounded the School for Poetic Computation in New York City, where he taught classes on art, coding, social engagement and organized various projects for the first seven years. He taught at Yonsei University and University of Denver, and participated in various media art projects and institutions. However he’s not comfortable with the shallow utopian narrative of ‘Art meets Technology’ and feels cynical when he sees spectacular media art.  He’s running an artist-run gallery in Seoul, Forever gallery with a mission for experimentation and accessibility. He’s working on a symposium on Ecological Futures, which will take place in Seoul National University Powerplant.  [Website](https://taeyoonchoi.com)
+Taeyoon Choi is a visual artist and educator. While he studied art and engineering, he was interested in activism and community organizing. He cofounded the School for Poetic Computation in New York City, where he taught classes on art, coding, social engagement and organized various projects for the first seven years. He taught at Yonsei University and University of Denver, and participated in various media art projects and institutions. However he’s not comfortable with the shallow utopian narrative of ‘Art meets Technology’ and feels cynical when he sees spectacular media art.  He’s running an artist-run gallery in Seoul, Forever gallery with a mission for experimentation and accessibility. He’s working on a symposium on Ecological Futures, which will take place in Seoul National University Powerplant. [Website](https://taeyoonchoi.com)
 
 ## Unmake Lab
 
@@ -151,8 +153,7 @@ Unmake Lab utilizes machine perception to metamorphose algorithmic fixations int
 
 
 
-Artcom  is a community-based contemporary art and public engagement platform.
-Our mission is to practice contemporary art, engage and unite communities in a shared care for collective memory, culture and environment for sustainable futures of Kazakhstan and Central Asia. We unlock the potential of art and knowledge production for socio-cultural transformation, environmental and climate justice through self-organized educational programs, participatory art practices, art interventions and interdisciplinary research. These practices are based on grassroots solidarity, nomadic culture, decolonial approach, intersectional feminism and intergenerational integrity. We value diverse forms, practices, opportunities, experiences of coming together and co-creating in our society. We see art as part of everyday life that values initiative and interaction between people from different communities and spheres.
+Artcom  is a community-based contemporary art and public engagement platform. Our mission is to practice contemporary art, engage and unite communities in a shared care for collective memory, culture and environment for sustainable futures of Kazakhstan and Central Asia. We unlock the potential of art and knowledge production for socio-cultural transformation, environmental and climate justice through self-organized educational programs, participatory art practices, art interventions and interdisciplinary research. These practices are based on grassroots solidarity, nomadic culture, decolonial approach, intersectional feminism and intergenerational integrity. We value diverse forms, practices, opportunities, experiences of coming together and co-creating in our society. We see art as part of everyday life that values initiative and interaction between people from different communities and spheres.
 [Website](https://artcomplatform.com/) 
 
 ##  Mina Kim 
@@ -165,15 +166,12 @@ Mina Kim is a media artist and artist-researcher who has presented her work betw
 
 # Registration
 
-Participation: [Registration](https://onoffmix.com/ch/ecologicalfutures)  
-
-각 행사 참가비: 1만원 
+[Registration Channel ](https://onoffmix.com/ch/ecologicalfutures)  
 
 
-문의: studio@taeyoonchoi.com 
 
-리아크 인스티튜트 rearc. institute [웹사이트](https://www.rearc.institute/)
+Contact: studio@taeyoonchoi.com 
 
-Network for Ecological Futures is an initiative of the Public Discourse program at rearc.institute 
+Network for Ecological Futures is an initiative of the Public Discourse program at [rearc.institute](https://www.rearc.institute/) 
 
  
