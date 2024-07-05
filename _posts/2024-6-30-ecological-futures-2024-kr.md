@@ -23,7 +23,7 @@ layout: post
 - 7/20 심포지움 
 - 7/21 워크숍 
  
-사전 예약 채널: [링크](https://onoffmix.com/ch/ecologicalfutures)  
+참가 신청: [링크](https://onoffmix.com/ch/ecologicalfutures)  
 
 각 행사 참가비: 1만원  
 
