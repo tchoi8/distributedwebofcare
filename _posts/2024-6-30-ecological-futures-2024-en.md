@@ -23,7 +23,7 @@ Location: Seoul National University Powerplant. Seoul : [Map](https://naver.me/x
 Dates: 2024/7/19-21 
 
 - 7/19 Workshop and Performance
-- 7/20 Symposium (Entire symposium will be live-streamed on YouTube)
+- 7/20 Symposium 
 - 7/21 Workshops 
  
 [Register](https://onoffmix.com/ch/ecologicalfutures) 
@@ -31,6 +31,8 @@ Dates: 2024/7/19-21
 Participation fee of 10,000 Won per event. 
 
 (If you have difficulty registering onoffmix.com, don't hesitate to contact us) 
+
+Symposium will be live-streamed via Taeyoon Choi's [YouTube Channel](https://www.youtube.com/live/NQgMAzM14YI)
 
 Contact: studio@taeyoonchoi.com 
  
@@ -121,7 +123,7 @@ Is digital technology 'green'? Can digital technology create a clean, green futu
 * Taeyoon Choi, Unmake Lab and Mina Kim will present in Korean with English subtitles, Artcom Platform will present in English with Korean subtitles. 
 * [Register](https://onoffmix.com/event/303969)
 * [Unduck](https://www.instagram.com/abandoned.sandwich/)(Artist Minhae) Vegan sandwich available for reservation and onsite purchase
-* Symposium will be live-streamed via Taeyoon Choi's [YouTube Channel](https://www.youtube.com/@taeyoonchoistudio/)
+* Symposium will be live-streamed via Taeyoon Choi's [YouTube Channel](https://www.youtube.com/live/NQgMAzM14YI)
 
 
 # 7/21 Unmake Lab, Reading Group
